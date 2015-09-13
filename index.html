@@ -1,0 +1,82 @@
+<html>
+    <head>
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+        <style>
+         .query-div {
+             text-align: center;
+         }
+         .query-div input {
+             font-size: 3em;
+             font-family: Roboto, Titillium, Inconsolata, sans-serif;
+         }
+         .result-list {
+             font-size: 1em;
+             font-family: Inconsolata, sans-serif;
+             padding: 1em;
+             list-style: none;
+             text-align: left;
+             margin-left: 25%;
+         }
+         .result-div {
+             text-align: center;
+         }
+         .result-div li {
+             margin: 1em;
+         }
+         #query {
+             width: 50%;
+             line-height: 1.5em;
+             margin-top: 80px;
+         }
+        </style>
+        <script type="text/javascript">
+         var fuse;
+
+         $(function() {
+
+             var worker = new Worker('worker.js');
+
+             $.getJSON("data.json", function(json) {
+                 worker.postMessage({type: 'data', data: json});
+             })
+              .error(function(jqxhr, status, err) {
+                  console.log(err);
+              });
+
+             worker.onmessage = function(results) {
+                 displayResults(results.data);
+             }
+
+             function displayResults(results) {
+                 var html = ''
+                 for (var i = 0; i < 20; ++i) {
+                     html += '<li><a href='+results[i].Link+'>' + results[i].Year + ' / ' + results[i].Department + ' / ' + results[i].Semester + ' / ' + results[i].Paper +'</a><li>';
+                 }
+                 $('.result-list').html(html);
+             }
+
+             var search = _.debounce(function() {
+                 var query = $('#query').val().trim();
+                 if (query === '') {
+                     $('.result-list').html('');
+                     return;
+                 }
+                 worker.postMessage({type: 'query', query: query});
+             }, 200);
+
+             $('#query').keydown(search);
+
+         });
+        </script>
+    </head>
+    <body>
+        <div class="query-div">
+            <input type="text" id="query"></input>
+        </div>
+        <div class="result-div">
+            <ul class="result-list">
+            </ul>
+        </div>
+    </body>
+</html>
