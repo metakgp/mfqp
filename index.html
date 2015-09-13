@@ -2,13 +2,38 @@
     <head>
         <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+        <link rel="stylesheet" href="main.css">
+        <title>MFQP</title>
         <style>
          .query-div {
              text-align: center;
+             margin-top: 4em;
+             position: relative;
+             width: 70%;
+             margin-left: 15%;
+         }
+         .sk-folding-cube {
+             display: inline-block;
+             margin: 1em;
+             margin-left: 3em;
+             vertical-align: middle;
+             position: absolute;
+             right: 5%;
          }
          .query-div input {
              font-size: 3em;
              font-family: Roboto, Titillium, Inconsolata, sans-serif;
+             width: 90%;
+             line-height: 1.5em;
+             vertical-align: middle;
+             horizontal-align: middle;
+             display: inline-block;
+             padding: 0;
+         }
+         textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {
+             border-color: rgba(0, 0, 0, 0.5);
+             //box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(0, 0, 0, 0.6);
+             outline: 0 none;
          }
          .result-list {
              font-size: 1em;
@@ -16,22 +41,28 @@
              padding: 1em;
              list-style: none;
              text-align: left;
-             margin-left: 25%;
+             margin-left: 2%;
          }
          .result-div {
              text-align: center;
+             margin-left: 15%;
          }
          .result-div li {
              margin: 1em;
          }
-         #query {
-             width: 50%;
-             line-height: 1.5em;
-             margin-top: 80px;
+         .hidden {
+             display: none;
          }
+         .ratings {
+             text-align: center;
+         }
+
         </style>
         <script type="text/javascript">
          var fuse;
+         var nextQuery = null;
+         var processing = false;
+         var currentQuery = null;
 
          $(function() {
 
@@ -45,23 +76,42 @@
               });
 
              worker.onmessage = function(results) {
+                 processing = false;
+                 $('.sk-folding-cube').addClass('hidden');
                  displayResults(results.data);
+                 if (nextQuery !== null) {
+                     var query = nextQuery;
+                     nextQuery = null;
+                     search(query);
+                 }
              }
 
              function displayResults(results) {
                  var html = ''
                  for (var i = 0; i < 20; ++i) {
-                     html += '<li><a href='+results[i].Link+'>' + results[i].Year + ' / ' + results[i].Department + ' / ' + results[i].Semester + ' / ' + results[i].Paper +'</a><li>';
+                     html += '<li><a target="_blank" href="'+results[i].Link+'">' + results[i].Year + ' / ' + results[i].Department + ' / ' + results[i].Semester + ' / ' + results[i].Paper +'</a><li>';
                  }
                  $('.result-list').html(html);
              }
 
              var search = _.debounce(function() {
+                 $('.ratings').addClass('hidden');
                  var query = $('#query').val().trim();
                  if (query === '') {
                      $('.result-list').html('');
+                     $('.ratings').removeClass('hidden');
                      return;
                  }
+                 if (processing) {
+                     nextQuery = query;
+                     return;
+                 }
+                 if (query === currentQuery) {
+                     return;
+                 }
+                 processing = true;
+                 currentQuery = query;
+                 $('.sk-folding-cube').removeClass('hidden');
                  worker.postMessage({type: 'query', query: query});
              }, 200);
 
@@ -71,12 +121,31 @@
         </script>
     </head>
     <body>
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=566171210148246";
+            fjs.parentNode.insertBefore(js, fjs);
+         }(document, 'script', 'facebook-jssdk'));</script>
+
         <div class="query-div">
             <input type="text" id="query"></input>
+            <div class="sk-folding-cube hidden">
+                <div class="sk-cube1 sk-cube"></div>
+                <div class="sk-cube2 sk-cube"></div>
+                <div class="sk-cube4 sk-cube"></div>
+                <div class="sk-cube3 sk-cube"></div>
+            </div>
         </div>
         <div class="result-div">
             <ul class="result-list">
             </ul>
+        </div>
+        <div class="ratings">
+            <div><img src="ratings.png" width="50%"></div>
+            <div class="fb-page" data-href="https://www.facebook.com/metakgp" data-width="180" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote></div></div>
         </div>
     </body>
 </html>
