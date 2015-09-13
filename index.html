@@ -3,6 +3,7 @@
         <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
         <link rel="stylesheet" href="main.css">
+        <link rel="shortcut icon" href="favicon.ico?v=1" />
         <title>MFQP</title>
         <style>
          .query-div {
@@ -65,6 +66,8 @@
          var currentQuery = null;
 
          $(function() {
+
+             $('#query').focus();
 
              var worker = new Worker('worker.js');
 
@@ -145,7 +148,7 @@
         </div>
         <div class="ratings">
             <div><img src="ratings.png" width="50%"></div>
-            <div class="fb-page" data-href="https://www.facebook.com/metakgp" data-width="180" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote></div></div>
+            <div class="fb-page" data-href="https://www.facebook.com/metakgp" data-width="180" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"></div></div>
         </div>
     </body>
 </html>
