@@ -29,7 +29,7 @@ onmessage = function(e) {
                         maxField = f;
                     }
                 }
-                data[j].score[fields[maxField]] = maxTermScore;
+                data[j].score[fields[maxField]] += maxTermScore;
             }
             for (var f = 0; f < fields.length; ++f) {
                 data[j].score.total += Math.max(data[j].score[fields[f]], 0.2) - 0.2;
