@@ -6,6 +6,7 @@ var fields = ['Department', 'Semester', 'Paper', 'Year'];
 
 onmessage = function(e) {
     if (e.data.type === 'data') {
+        console.log('Got data');
         data = e.data.data;
         for (var i = 0; i < data.length; ++i) {
             for (var f = 0; f < fields.length; ++f) {
@@ -32,13 +33,13 @@ onmessage = function(e) {
                 data[j].score[fields[maxField]] += maxTermScore;
             }
             for (var f = 0; f < fields.length; ++f) {
-                data[j].score.total += Math.max(data[j].score[fields[f]], 0.2) - 0.2;
+                data[j].score.total += Math.pow(Math.max(data[j].score[fields[f]], 0.2) - 0.2, 1);
             }
         }
         data.sort(function(a, b) {
             return b.score.total - a.score.total;
         });
-        var results = data.slice(0, 20);
+        var results = data.slice(0, 40);
         console.log('results: ', results);
         postMessage(results);
     }

@@ -82,11 +82,12 @@
 
              var worker = new Worker('worker2.js');
 
-             $.getJSON("data.json", function(json) {
-                 worker.postMessage({type: 'data', data: json});
-             })
+             $.getJSON("data.json")
+              .success(function(json) {
+                  worker.postMessage({type: 'data', data: json});
+              })
               .error(function(jqxhr, status, err) {
-                  console.log(err);
+                  console.log(jqxhr, status, err);
               });
 
              worker.onmessage = function(results) {
