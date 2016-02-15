@@ -104,9 +104,12 @@
              function displayResults(results) {
                  var html = ''
                  for (var i = 0; i < 20; ++i) {
-                     html += '<li><a target="_blank" href="'+results[i].Link+'">' + results[i].Year + ' / ' + results[i].Department + ' / ' + results[i].Semester + ' / ' + results[i].Paper +'</a><li>';
+                     html += '<li><a target="_blank" class="result-link" href="'+results[i].Link+'">' + results[i].Year + ' / ' + results[i].Department + ' / ' + results[i].Semester + ' / ' + results[i].Paper +'</a><li>';
                  }
                  $('.result-list').html(html);
+                 $('.result-link').click(function() {
+                     ga('send', 'event', 'Result', 'click', $('#query').val().trim());
+                 })
              }
 
              var search = _.debounce(function() {
@@ -128,7 +131,7 @@
                  currentQuery = query;
                  $('.sk-folding-cube').removeClass('hidden');
                  worker.postMessage({type: 'query', query: query});
-                 ga('send', 'event', 'Search', 'new query', query);
+                 ga('send', 'event', 'Search', 'query', query);
              }, 200);
 
              $('#query').keydown(search);
