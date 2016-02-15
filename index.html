@@ -128,6 +128,7 @@
                  currentQuery = query;
                  $('.sk-folding-cube').removeClass('hidden');
                  worker.postMessage({type: 'query', query: query});
+                 ga('send', 'event', 'Search', 'new query', query);
              }, 200);
 
              $('#query').keydown(search);
