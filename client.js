@@ -12,10 +12,15 @@ $(function() {
 	$('#query').focus();
 
 	// populate the left side localStorage list
-	var history = localStorage.getItem("searched");
-	$.each(history.split(","), function(index, item) {
-		addItem(item);
-	});
+	// if the localStorage exists, else hide div
+	if(!localStorage.getItem("searched")) {
+		$("div.local-storage-div").hide();
+	} else {
+		var history = localStorage.getItem("searched");
+		$.each(history.split(","), function(index, item) {
+			addItem(item);
+		});
+	}
 
 	$(document).click(function(e) {
 		console.log("Clicked somewhere in the doc");
@@ -29,6 +34,9 @@ $(function() {
 				localStorage.setItem("searched", query_value);
 			}
 			addItem(query_value);
+			if(!$("div.local-storage-div").is(":visible")) {
+				$("div.local-storage-div").show();
+			}
 			console.log("Local storage: " + localStorage.getItem("searched"));
 		}
 	});

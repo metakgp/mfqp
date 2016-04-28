@@ -49,6 +49,6 @@ textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {
 .ratings {
 	text-align: center;
 }
-.local-storage-list {
-	margin-top: 4em;
+.local-storage-div {
+	margin-top: 6em;
 }
