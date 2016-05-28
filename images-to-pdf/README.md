@@ -26,5 +26,5 @@ EXECUTING THE SCRIPT
 
 Type the following commands in your terminal :
 <pre>cd path-to-image-to-pdf-repository</pre>
-<pre>ruby image-to-pdf.rb /home/user/path/to/QP/images/directory</pre>
+<pre>ruby images-to-pdf.rb /home/user/path/to/QP/images/directory</pre>
 Bugs & Bug-fixes are always appreciated! 
