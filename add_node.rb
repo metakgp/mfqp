@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'json'
+require 'date'
 
 if ARGV.length == 1 && ARGV[0] == "pretty"
 	pretty = true
@@ -38,11 +39,23 @@ while true
 	year = gets.chomp
 
 	if year.length == 0
-		year = "2016"
+		year = Date.today.strftime("%Y")
 	end
 
 	if semester.length == 0
-		semester = "mid spring 2016" # TODO: make this automatic based on the present data
+		last_sem = obj.last["Semester"]
+		semester = "" 
+		if last_sem.include? "mid"
+			semester = last_sem.gsub("mid","end") 
+		else
+			semester = last_sem.gsub("end","mid")
+			if last_sem.include? "spring"
+				semester = last_sem.gsub("spring","autumn")
+			else
+				semester = last_sem.gsub("autumn","spring")
+				semester = last_sem.gsub(last_sem.split(" ")[2],((last_sem.split(" ")[2].to_i)+1).to_s)
+			end
+		end
 	end
 
 	paperObj = { "Department" => department, "Semester" => semester, "Paper" => paper, "Link" => link, "Year" => year }
