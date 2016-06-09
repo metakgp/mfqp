@@ -10,6 +10,7 @@ end
 
 fileData = File.read("data.json")
 obj = JSON.parse(fileData)
+last_sem = obj.last["Semester"]
 
 puts "#{obj.length} objects earlier!"
 
@@ -43,7 +44,6 @@ while true
 	end
 
 	if semester.length == 0
-		last_sem = obj.last["Semester"]
 		semester = "" 
 		if last_sem.include? "mid"
 			semester = last_sem.gsub("mid","end") 
