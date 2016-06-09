@@ -50,10 +50,10 @@ while true
 		else
 			semester = last_sem.gsub("end","mid")
 			if last_sem.include? "spring"
-				semester = last_sem.gsub("spring","autumn")
+				semester = semester.gsub("spring","autumn")
 			else
-				semester = last_sem.gsub("autumn","spring")
-				semester = last_sem.gsub(last_sem.split(" ")[2],((last_sem.split(" ")[2].to_i)+1).to_s)
+				semester = semester.gsub("autumn","spring")
+				semester = semester.gsub(last_sem.split(" ")[2],((last_sem.split(" ")[2].to_i)+1).to_s)
 			end
 		end
 	end
