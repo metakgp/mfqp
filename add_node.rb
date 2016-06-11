@@ -71,7 +71,7 @@ while true
 	puts "Enter department: "
 	department = gets.chomp
 
-	if batch_semester.empty?
+	if batch.downcase == "n"
 		puts "Enter semester (#{default_semester}) : "
 		semester = gets.chomp
 	else
