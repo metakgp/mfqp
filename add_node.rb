@@ -20,20 +20,36 @@ END_AUTUMN_PERIOD = ["#{this_year}-12-01","#{(this_year.to_i+1).to_s}-02-14"]
 
 puts "#{obj.length} objects earlier!"
 
+today = Date.today.to_s
+# Find out default semester & year
+if today >= MID_SPRING_PERIOD[0] && today <= MID_SPRING_PERIOD[1]
+	default_semester = "mid spring "+this_year
+elsif today >= END_SPRING_PERIOD[0] && today <= END_SPRING_PERIOD[1]
+	default_semester = "end spring "+this_year
+elsif today >= MID_AUTUMN_PERIOD[0] && today <= MID_AUTUMN_PERIOD[1]
+	default_semester = "mid autumn "+this_year
+elsif today >= END_AUTUMN_PERIOD[0]	&& today <= END_AUTUMN_PERIOD[1]
+	default_semester = "end autumn "+this_year
+else
+	puts "Time period initialisation seems wrong."
+	break	 
+end
+
+
 # Just make sure that batch is not "" as while loop will never execute
 batch = "h"
-batch_semester = ""
-batch_year = ""
-today = Date.today.to_s
+batch_semester = default_semester
 
 while !["y","Y","n","N"].include? batch
 	puts "Do you want to batch insert year & semester for the papers? [y/Y for Yes, n/N for No) "
 	batch = gets.chomp
 	if batch.downcase == "y"
-		puts "Enter batch semester : "
+		puts "Enter batch semester (#{default_semester}) : "
 		batch_semester = gets.chomp
-		puts "Enter batch year : "
-		batch_year = gets.chomp
+		if batch_semester.length == 0 
+			batch_semester = default_semester
+			puts "Used default semester"
+		end
 	elsif batch.downcase == "n"
 		puts "Batch insert is not chosen."
 	else
@@ -56,7 +72,7 @@ while true
 	department = gets.chomp
 
 	if batch_semester.empty?
-		puts "Enter semester (mid spring 2016): "
+		puts "Enter semester (#{default_semester}) : "
 		semester = gets.chomp
 	else
 		semester = batch_semester
@@ -68,31 +84,13 @@ while true
 	puts "Enter link to the paper: "
 	link = gets.chomp
 
-	if batch_year.empty?
-		puts "Enter the year that this paper belongs to (2016): "
-		year = gets.chomp
-	else
-		year = batch_year
-	end	
-
-	if year.length == 0
-		year = this_year
-	end
-
 	if semester.length == 0
-		if today >= MID_SPRING_PERIOD[0] && today <= MID_SPRING_PERIOD[1]
-			semester = "mid spring "+this_year
-		elsif today >= END_SPRING_PERIOD[0] && today <= END_SPRING_PERIOD[1]
-			semester = "end spring "+this_year
-		elsif today >= MID_AUTUMN_PERIOD[0] && today <= MID_AUTUMN_PERIOD[1]
-			semester = "mid autumn "+this_year
-		elsif today >= END_AUTUMN_PERIOD[0]	&& today <= END_AUTUMN_PERIOD[1]
-			semester = "end autumn "+this_year
-		else
-			puts "Time period initialisation seems wrong."
-			break	 
-		end
+		semester = default_semester
+		puts "Used default semester"
 	end
+
+	year = semester.split(" ")[2]
+
 
 	paperObj = { "Department" => department, "Semester" => semester, "Paper" => paper, "Link" => link, "Year" => year }
 
