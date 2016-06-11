@@ -13,10 +13,10 @@ obj = JSON.parse(fileData)
 
 # Initialise time periods.Dates have the format of yyyy-mm-dd
 this_year = Date.today.strftime("%Y")
-MID_SPRING_PERIOD = (this_year+"-02-15 to "+this_year+"-04-30").split(" to ")
-END_SPRING_PERIOD = (this_year+"-05-01 to "+this_year+"-09-30").split(" to ")
-MID_AUTUMN_PERIOD = (this_year+"-10-01 to "+this_year+"-11-30").split(" to ")
-END_AUTUMN_PERIOD = (this_year+"-12-01 to "+(this_year.to_i+1).to_s+"-02-14").split(" to ")
+MID_SPRING_PERIOD = ["#{this_year}-02-15","#{this_year}-04-30"]
+END_SPRING_PERIOD = ["#{this_year}-05-01","#{this_year}-09-30"]
+MID_AUTUMN_PERIOD = ["#{this_year}-10-01","#{this_year}-11-30"]
+END_AUTUMN_PERIOD = ["#{this_year}-12-01","#{(this_year.to_i+1).to_s}-02-14"]
 
 puts "#{obj.length} objects earlier!"
 
@@ -86,7 +86,7 @@ while true
 			semester = "end spring "+this_year
 		elsif today >= MID_AUTUMN_PERIOD[0] && today <= MID_AUTUMN_PERIOD[1]
 			semester = "mid autumn "+this_year
-		elsif today >= END_AUTUMN_PERIOD[0] && today <= END_AUTUMN_PERIOD[1]
+		elsif today >= END_AUTUMN_PERIOD[0]	&& today <= END_AUTUMN_PERIOD[1]
 			semester = "end autumn "+this_year
 		else
 			puts "Time period initialisation seems wrong."
