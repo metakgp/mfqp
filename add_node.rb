@@ -4,11 +4,12 @@ require 'json'
 require 'date'
 
 def semester_exists semester
-	possible_semesters = ["mid spring","end spring","mid autumn","end autumn"]
-	if possible_semesters.include? semester
-           return false
-        end
-	return true
+	possible_semesters = /(mid|end) (spring|autumn) (20)([0-9]{2})/
+	if possible_semesters.regex.match(semester)
+           return true
+        else
+	   return false
+	end   
 end	
 
 def default today
@@ -47,7 +48,7 @@ while !["y","Y","n","N"].include? batch
 	puts "Do you want to batch insert year & semester for the papers? [y/Y for Yes, n/N for No) "
 	batch = gets.chomp
 	if batch.downcase == "y"
-		while semester_exists(batch_semester[0..9])
+		while !semester_exists(batch_semester)
 			puts "Enter batch semester (#{default_semester}) : "
 			batch_semester = gets.chomp
 			if batch_semester.length == 0 
@@ -76,8 +77,9 @@ while true
 	department = gets.chomp
 
 	semester = ""
-  if batch.downcase == "n"
-		while semester_exists(semester[0..9]) 
+        
+        if batch.downcase == "n"
+		while !semester_exists(semester) 
 			puts "Enter semester (#{default_semester}) : "
 			semester = gets.chomp
 			if semester.length == 0
