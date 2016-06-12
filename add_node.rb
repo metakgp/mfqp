@@ -5,11 +5,9 @@ require 'date'
 
 def semester_exists semester
 	possible_semesters = ["mid spring","end spring","mid autumn","end autumn"]
-	possible_semesters.each do |possible_semester|
-		if semester.eql? possible_semester
-			return false
-		end
-	end
+	if possible_semesters.include? semester
+           return false
+        end
 	return true
 end	
 
