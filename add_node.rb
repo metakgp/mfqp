@@ -3,6 +3,13 @@
 require 'json'
 require 'date'
 
+# Initialise time periods.Dates have the format of yyyy-mm-dd
+this_year = Date.today.strftime("%Y")
+MID_SPRING_PERIOD = ["#{this_year}-02-15","#{this_year}-04-30"]
+END_SPRING_PERIOD = ["#{this_year}-05-01","#{this_year}-09-30"]
+MID_AUTUMN_PERIOD = ["#{this_year}-10-01","#{this_year}-11-30"]
+END_AUTUMN_PERIOD = ["#{this_year}-12-01","#{(this_year.to_i+1).to_s}-02-14"]
+
 def semester_exists semester
   possible_semesters = /(mid|end) (spring|autumn) (20)([0-9]{2})/
     if possible_semesters.regex.match(semester)
@@ -13,13 +20,7 @@ def semester_exists semester
 end	
 
 def default today
-  # Initialise time periods.Dates have the format of yyyy-mm-dd
   this_year = Date.today.strftime("%Y")
-  MID_SPRING_PERIOD = ["#{this_year}-02-15","#{this_year}-04-30"]
-  END_SPRING_PERIOD = ["#{this_year}-05-01","#{this_year}-09-30"]
-  MID_AUTUMN_PERIOD = ["#{this_year}-10-01","#{this_year}-11-30"]
-  END_AUTUMN_PERIOD = ["#{this_year}-12-01","#{(this_year.to_i+1).to_s}-02-14"]
-
   if today >= MID_SPRING_PERIOD[0] && today <= MID_SPRING_PERIOD[1]
     return "mid spring "+this_year
   elsif today >= END_SPRING_PERIOD[0] && today <= END_SPRING_PERIOD[1]
