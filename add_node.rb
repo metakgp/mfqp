@@ -36,6 +36,11 @@ if ARGV.length == 1 && ARGV[0] == "pretty"
   ARGV.clear
 end
 
+if ARGV.length == 1 && ARGV[0] == "testing"
+  testing = true
+  ARGV.clear
+end
+
 obj = JSON.parse(File.read("data.json"))
 puts "#{obj.length} objects earlier!"
 
@@ -101,15 +106,20 @@ while true
 
   paperObj = { "Department" => department, "Semester" => semester, "Paper" => paper, "Link" => link, "Year" => year }
 
+  if testing
+    puts paperObj
+  end
+
   obj.push(paperObj)
 
 end
 
-puts "#{obj.length} papers now."
-File.delete("data.json")
-
-if pretty
-  File.open("data.json", "w") { |file| file.write(JSON.pretty_generate(obj)) }
-else
-  File.open("data.json", "w") { |file| file.write(JSON.generate(obj)) }
+if not testing
+  puts "#{obj.length} papers now."
+  File.delete("data.json")
+  if pretty
+    File.open("data.json", "w") { |file| file.write(JSON.pretty_generate(obj)) }
+  else
+    File.open("data.json", "w") { |file| file.write(JSON.generate(obj)) }
+  end
 end
