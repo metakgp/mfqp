@@ -12,7 +12,7 @@ END_AUTUMN_PERIOD = ["#{this_year}-12-01","#{(this_year.to_i+1).to_s}-02-14"]
 
 def semester_exists semester
   possible_semesters = /(mid|end) (spring|autumn) (20)([0-9]{2})/
-    if possible_semesters.regex.match(semester)
+    if possible_semesters.match(semester)
       return true
     else
       return false
