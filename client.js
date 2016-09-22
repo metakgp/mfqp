@@ -23,7 +23,7 @@ $(function() {
 	}
 
 	$(document).click(function(e) {
-		console.log("Clicked somewhere in the doc");
+		// console.log("Clicked somewhere in the doc");
 		// figure out if this is a result click
 		if(e.target.classList.contains("result-link")) {
 			// this is a result link
@@ -37,7 +37,7 @@ $(function() {
 			if(!$("div.local-storage-div").is(":visible")) {
 				$("div.local-storage-div").show();
 			}
-			console.log("Local storage: " + localStorage.getItem("searched"));
+			// console.log("Local storage: " + localStorage.getItem("searched"));
 		}
 	});
 

@@ -1,3 +1,15 @@
+a {
+	text-decoration: underline;
+}
+a:hover {
+	color: #0000ee;
+}
+a:visited {
+	color: #551a8b;
+}
+a:active {
+	color: red;
+}
 .query-div {
 	text-align: center;
 	margin-top: 4em;
@@ -38,7 +50,7 @@ textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {
 }
 .result-div {
 	text-align: center;
-	margin-left: 15%;
+	margin-left: 7%;
 }
 .result-div li {
 	margin: 1em;
