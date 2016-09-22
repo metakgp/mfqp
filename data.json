@@ -667,7 +667,7 @@
   {
     "Department": "ComputerScience",
     "Semester": "",
-    "Paper": "Pulse%26 Digital Circuits",
+    "Paper": "Pulse& Digital Circuits",
     "Link": "http://10.17.32.9/peqp/2000/ComputerScience/Pulse%26%20Digital%20Circuits.pdf",
     "Year": "2000"
   },
@@ -702,7 +702,7 @@
   {
     "Department": "Electrical",
     "Semester": "",
-    "Paper": "Electrical %26 Energy",
+    "Paper": "Electrical & Energy",
     "Link": "http://10.17.32.9/peqp/2000/Electrical/Electrical%20%26%20Energy.pdf",
     "Year": "2000"
   },
@@ -1142,7 +1142,7 @@
   {
     "Department": "Math",
     "Semester": "",
-    "Paper": "Riemannaian Geom.%26 Diff.Mani",
+    "Paper": "Riemannaian Geom.& Diff.Mani",
     "Link": "http://10.17.32.9/peqp/2000/Math/Riemannaian%20Geom.%26%20Diff.Mani.pdf",
     "Year": "2000"
   },
@@ -3868,14 +3868,14 @@
   {
     "Department": "boitech",
     "Semester": "",
-    "Paper": "Biochemical Reaction Engineering %26 Bioenergetics 08-09",
+    "Paper": "Biochemical Reaction Engineering & Bioenergetics 08-09",
     "Link": "http://10.17.32.9/peqp/2008/boitech/Biochemical%20Reaction%20Engineering%20%26%20Bioenergetics%2008-09.pdf",
     "Year": "2008"
   },
   {
     "Department": "boitech",
     "Semester": "",
-    "Paper": "Biochemical Reaction Engineering %26 Bioenergetics End Autumn 08-09",
+    "Paper": "Biochemical Reaction Engineering & Bioenergetics End Autumn 08-09",
     "Link": "http://10.17.32.9/peqp/2008/boitech/Biochemical%20Reaction%20Engineering%20%26%20Bioenergetics%20End%20Autumn%2008-09.pdf",
     "Year": "2008"
   },
@@ -4029,7 +4029,7 @@
   {
     "Department": "Civil",
     "Semester": "",
-    "Paper": "Environmental Engineering %26 Science Autumn Sem 08-09",
+    "Paper": "Environmental Engineering & Science Autumn Sem 08-09",
     "Link": "http://10.17.32.9/peqp/2008/Civil/Environmental%20Engineering%20%26%20Science%20Autumn%20Sem%2008-09.pdf",
     "Year": "2008"
   },
@@ -4232,21 +4232,21 @@
   {
     "Department": "ee",
     "Semester": "",
-    "Paper": "Signals %26 Networks 08",
+    "Paper": "Signals & Networks 08",
     "Link": "http://10.17.32.9/peqp/2008/ee/Signals%20%26%20Networks%2008.pdf",
     "Year": "2008"
   },
   {
     "Department": "ee",
     "Semester": "",
-    "Paper": "Signals %26 Networks Class Test 08",
+    "Paper": "Signals & Networks Class Test 08",
     "Link": "http://10.17.32.9/peqp/2008/ee/Signals%20%26%20Networks%20Class%20Test%2008.pdf",
     "Year": "2008"
   },
   {
     "Department": "ee",
     "Semester": "",
-    "Paper": "Signals %26 Networks Mid Sem 08",
+    "Paper": "Signals & Networks Mid Sem 08",
     "Link": "http://10.17.32.9/peqp/2008/ee/Signals%20%26%20Networks%20Mid%20Sem%2008.pdf",
     "Year": "2008"
   },
@@ -4670,21 +4670,21 @@
   {
     "Department": "Ocean engineering and Naval architecture",
     "Semester": "",
-    "Paper": "Hydrostatics %26 Sability End Sem 08",
+    "Paper": "Hydrostatics & Sability End Sem 08",
     "Link": "http://10.17.32.9/peqp/2008/Ocean%20engineering%20and%20Naval%20architecture/Hydrostatics%20%26%20Sability%20End%20Sem%2008.pdf",
     "Year": "2008"
   },
   {
     "Department": "Ocean engineering and Naval architecture",
     "Semester": "",
-    "Paper": "Hydrostatics %26 Sability Mid Sem 08",
+    "Paper": "Hydrostatics & Sability Mid Sem 08",
     "Link": "http://10.17.32.9/peqp/2008/Ocean%20engineering%20and%20Naval%20architecture/Hydrostatics%20%26%20Sability%20Mid%20Sem%2008.pdf",
     "Year": "2008"
   },
   {
     "Department": "Ocean engineering and Naval architecture",
     "Semester": "",
-    "Paper": "Marine Construction %26 Welding 08",
+    "Paper": "Marine Construction & Welding 08",
     "Link": "http://10.17.32.9/peqp/2008/Ocean%20engineering%20and%20Naval%20architecture/Marine%20Construction%20%26%20Welding%2008.pdf",
     "Year": "2008"
   },
@@ -4705,7 +4705,7 @@
   {
     "Department": "Ocean engineering and Naval architecture",
     "Semester": "",
-    "Paper": "Ship Construction %26 Welding 08",
+    "Paper": "Ship Construction & Welding 08",
     "Link": "http://10.17.32.9/peqp/2008/Ocean%20engineering%20and%20Naval%20architecture/Ship%20Construction%20%26%20Welding%2008.pdf",
     "Year": "2008"
   },
@@ -4782,7 +4782,7 @@
   {
     "Department": "Rural development centre",
     "Semester": "",
-    "Paper": "Transfer %26 Management of Rural Technology End  Sem Autumn",
+    "Paper": "Transfer & Management of Rural Technology End  Sem Autumn",
     "Link": "http://10.17.32.9/peqp/2008/Rural%20development%20centre/Transfer%20%26%20Management%20of%20Rural%20Technology%20End%20%20Sem%20Autumn%20.pdf",
     "Year": "2008"
   },
@@ -4796,336 +4796,336 @@
   {
     "Department": "material science",
     "Semester": "end autumn 2009",
-    "Paper": "material%20science",
+    "Paper": "material science",
     "Link": "http://10.17.32.9/peqp/2009/end%20autumn%202009/material%20science.pdf",
     "Year": "2009"
   },
   {
     "Department": "ENVIRONMENTAL SCIENCE 3",
     "Semester": "end autumn 2010",
-    "Paper": "ENVIRONMENTAL%20SCIENCE%203",
+    "Paper": "ENVIRONMENTAL SCIENCE 3",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/ENVIRONMENTAL%20SCIENCE%203.pdf",
     "Year": "2010"
   },
   {
     "Department": "ENVIRONMENTAL SCIENCE for AE BT and MF",
     "Semester": "end autumn 2010",
-    "Paper": "ENVIRONMENTAL%20SCIENCE%20for%20AE%20BT%20and%20MF",
+    "Paper": "ENVIRONMENTAL SCIENCE for AE BT and MF",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/ENVIRONMENTAL%20SCIENCE%20for%20AE%20BT%20and%20MF.pdf",
     "Year": "2010"
   },
   {
     "Department": "ENVIRONMENTAL SCIENCE for IM and MI",
     "Semester": "end autumn 2010",
-    "Paper": "ENVIRONMENTAL%20SCIENCE%20for%20IM%20and%20MI",
+    "Paper": "ENVIRONMENTAL SCIENCE for IM and MI",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/ENVIRONMENTAL%20SCIENCE%20for%20IM%20and%20MI.pdf",
     "Year": "2010"
   },
   {
     "Department": "ENVIRONMENTAL SCIENCE",
     "Semester": "end autumn 2010",
-    "Paper": "ENVIRONMENTAL%20SCIENCE",
+    "Paper": "ENVIRONMENTAL SCIENCE",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/ENVIRONMENTAL%20SCIENCE.pdf",
     "Year": "2010"
   },
   {
     "Department": "ENVIRONMENTAL SCIENCES",
     "Semester": "end autumn 2010",
-    "Paper": "ENVIRONMENTAL%20SCIENCES",
+    "Paper": "ENVIRONMENTAL SCIENCES",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/ENVIRONMENTAL%20SCIENCES.pdf",
     "Year": "2010"
   },
   {
     "Department": "genetic algorithm in engineering process modelling",
     "Semester": "end autumn 2010",
-    "Paper": "genetic%20algorithm%20in%20engineering%20process%20modelling",
+    "Paper": "genetic algorithm in engineering process modelling",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/genetic%20algorithm%20in%20engineering%20process%20modelling.pdf",
     "Year": "2010"
   },
   {
     "Department": "information systems lab",
     "Semester": "end autumn 2010",
-    "Paper": "information%20systems%20lab",
+    "Paper": "information systems lab",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/information%20systems%20lab.pdf",
     "Year": "2010"
   },
   {
     "Department": "materials engg",
     "Semester": "end autumn 2010",
-    "Paper": "materials%20engg",
+    "Paper": "materials engg",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/materials%20engg.pdf",
     "Year": "2010"
   },
   {
     "Department": "rural economy and idustrialisation",
     "Semester": "end autumn 2010",
-    "Paper": "rural%20economy%20and%20idustrialisation",
+    "Paper": "rural economy and idustrialisation",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/rural%20economy%20and%20idustrialisation.pdf",
     "Year": "2010"
   },
   {
     "Department": "science and technology of rubber and rubber like materials",
     "Semester": "end autumn 2010",
-    "Paper": "science%20and%20technology%20of%20rubber%20and%20rubber%20like%20materials",
+    "Paper": "science and technology of rubber and rubber like materials",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/science%20and%20technology%20of%20rubber%20and%20rubber%20like%20materials.pdf",
     "Year": "2010"
   },
   {
     "Department": "science of living systems bs20001",
     "Semester": "end autumn 2010",
-    "Paper": "science%20of%20living%20systems%20bs20001",
+    "Paper": "science of living systems bs20001",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/science%20of%20living%20systems%20bs20001.pdf",
     "Year": "2010"
   },
   {
     "Department": "science of living systems",
     "Semester": "end autumn 2010",
-    "Paper": "science%20of%20living%20systems",
+    "Paper": "science of living systems",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/science%20of%20living%20systems.pdf",
     "Year": "2010"
   },
   {
     "Department": "transfer and management of Rural Technology",
     "Semester": "end autumn 2010",
-    "Paper": "transfer%20and%20management%20of%20Rural%20Technology",
+    "Paper": "transfer and management of Rural Technology",
     "Link": "http://10.17.32.9/peqp/2010/end%20autumn%202010/transfer%20and%20management%20of%20Rural%20Technology.pdf",
     "Year": "2010"
   },
   {
     "Department": "environmental science evs20001",
     "Semester": "mid autumn 2010",
-    "Paper": "environmental%20science%20evs20001",
+    "Paper": "environmental science evs20001",
     "Link": "http://10.17.32.9/peqp/2010/mid%20autumn%202010/environmental%20science%20evs20001.pdf",
     "Year": "2010"
   },
   {
     "Department": "environmental science",
     "Semester": "mid autumn 2010",
-    "Paper": "environmental%20science",
+    "Paper": "environmental science",
     "Link": "http://10.17.32.9/peqp/2010/mid%20autumn%202010/environmental%20science.pdf",
     "Year": "2010"
   },
   {
     "Department": "genetic algorithms in engg process modelling",
     "Semester": "mid autumn 2010",
-    "Paper": "genetic%20algorithms%20in%20engg%20process%20modelling",
+    "Paper": "genetic algorithms in engg process modelling",
     "Link": "http://10.17.32.9/peqp/2010/mid%20autumn%202010/genetic%20algorithms%20in%20engg%20process%20modelling.pdf",
     "Year": "2010"
   },
   {
     "Department": "introduction to cryogenic engg",
     "Semester": "mid autumn 2010",
-    "Paper": "introduction%20to%20cryogenic%20engg",
+    "Paper": "introduction to cryogenic engg",
     "Link": "http://10.17.32.9/peqp/2010/mid%20autumn%202010/introduction%20to%20cryogenic%20engg.pdf",
     "Year": "2010"
   },
   {
     "Department": "materials engineering",
     "Semester": "mid autumn 2010",
-    "Paper": "materials%20engineering",
+    "Paper": "materials engineering",
     "Link": "http://10.17.32.9/peqp/2010/mid%20autumn%202010/materials%20engineering.pdf",
     "Year": "2010"
   },
   {
     "Department": "materials science",
     "Semester": "mid autumn 2010",
-    "Paper": "materials%20science",
+    "Paper": "materials science",
     "Link": "http://10.17.32.9/peqp/2010/mid%20autumn%202010/materials%20science.pdf",
     "Year": "2010"
   },
   {
     "Department": "rural  and industrialisation",
     "Semester": "mid autumn 2010",
-    "Paper": "rural%20%20and%20industrialisation",
+    "Paper": "rural  and industrialisation",
     "Link": "http://10.17.32.9/peqp/2010/mid%20autumn%202010/rural%20%20and%20industrialisation.pdf",
     "Year": "2010"
   },
   {
     "Department": "transfer and management of rural technology",
     "Semester": "mid autumn 2010",
-    "Paper": "transfer%20and%20management%20of%20rural%20technology",
+    "Paper": "transfer and management of rural technology",
     "Link": "http://10.17.32.9/peqp/2010/mid%20autumn%202010/transfer%20and%20management%20of%20rural%20technology.pdf",
     "Year": "2010"
   },
   {
     "Department": "Sciences of Living system",
     "Semester": "END AUTUMN 2011",
-    "Paper": "Sciences%20of%20Living%20system",
+    "Paper": "Sciences of Living system",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Sciences%20of%20Living%20system.pdf",
     "Year": "2011"
   },
   {
     "Department": "Environmental Science",
     "Semester": "END SPRING 2012",
-    "Paper": "Environmental%20Science",
+    "Paper": "Environmental Science",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Environmental%20Science.pdf",
     "Year": "2012"
   },
   {
     "Department": "Environmental Scienceev20001",
     "Semester": "END SPRING 2012",
-    "Paper": "Environmental%20Scienceev20001",
+    "Paper": "Environmental Scienceev20001",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Environmental%20Scienceev20001.pdf",
     "Year": "2012"
   },
   {
     "Department": "Environmental Sciences cs ch mf",
     "Semester": "END SPRING 2012",
-    "Paper": "Environmental%20Sciences%20cs%20ch%20mf",
+    "Paper": "Environmental Sciences cs ch mf",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Environmental%20Sciences%20cs%20ch%20mf.pdf",
     "Year": "2012"
   },
   {
     "Department": "Introduction to Financial Management",
     "Semester": "END SPRING 2012",
-    "Paper": "Introduction%20to%20Financial%20Management",
+    "Paper": "Introduction to Financial Management",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Introduction%20to%20Financial%20Management.pdf",
     "Year": "2012"
   },
   {
     "Department": "Introduction to Intellectual Property Law",
     "Semester": "END SPRING 2012",
-    "Paper": "Introduction%20to%20Intellectual%20Property%20Law",
+    "Paper": "Introduction to Intellectual Property Law",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Introduction%20to%20Intellectual%20Property%20Law.pdf",
     "Year": "2012"
   },
   {
     "Department": "Nontraditional Manufacturing Processes",
     "Semester": "END SPRING 2012",
-    "Paper": "Nontraditional%20Manufacturing%20Processes",
+    "Paper": "Nontraditional Manufacturing Processes",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Nontraditional%20Manufacturing%20Processes.pdf",
     "Year": "2012"
   },
   {
     "Department": "Polymer Technology",
     "Semester": "END SPRING 2012",
-    "Paper": "Polymer%20Technology",
+    "Paper": "Polymer Technology",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Polymer%20Technology.pdf",
     "Year": "2012"
   },
   {
     "Department": "Rubber Process Engineering",
     "Semester": "END SPRING 2012",
-    "Paper": "Rubber%20Process%20Engineering",
+    "Paper": "Rubber Process Engineering",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Rubber%20Process%20Engineering.pdf",
     "Year": "2012"
   },
   {
     "Department": "Science of living systems (BS20001)",
     "Semester": "END SPRING 2012",
-    "Paper": "Science%20of%20living%20systems%20(BS20001)",
+    "Paper": "Science of living systems (BS20001)",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Science%20of%20living%20systems%20(BS20001).pdf",
     "Year": "2012"
   },
   {
     "Department": "Computer Integrated Manufacturing",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Computer%20Integrated%20Manufacturing",
+    "Paper": "Computer Integrated Manufacturing",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Computer%20Integrated%20Manufacturing.pdf",
     "Year": "2012"
   },
   {
     "Department": "Environmental Science ev20001",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Environmental%20Science%20ev20001",
+    "Paper": "Environmental Science ev20001",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Environmental%20Science%20ev20001.pdf",
     "Year": "2012"
   },
   {
     "Department": "Environmental Science for AE CE MF QE QM",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Environmental%20Science%20for%20AE%20CE%20MF%20QE%20QM",
+    "Paper": "Environmental Science for AE CE MF QE QM",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Environmental%20Science%20for%20AE%20CE%20MF%20QE%20QM.pdf",
     "Year": "2012"
   },
   {
     "Department": "Environmental Science for IM MI NA",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Environmental%20Science%20for%20IM%20MI%20NA",
+    "Paper": "Environmental Science for IM MI NA",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Environmental%20Science%20for%20IM%20MI%20NA.pdf",
     "Year": "2012"
   },
   {
     "Department": "Environmental Science FOR ME and MA",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Environmental%20Science%20FOR%20ME%20and%20MA",
+    "Paper": "Environmental Science FOR ME and MA",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Environmental%20Science%20FOR%20ME%20and%20MA.pdf",
     "Year": "2012"
   },
   {
     "Department": "Introduction to Cryogenic Engineering",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Introduction%20to%20Cryogenic%20Engineering",
+    "Paper": "Introduction to Cryogenic Engineering",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Introduction%20to%20Cryogenic%20Engineering.pdf",
     "Year": "2012"
   },
   {
     "Department": "Introduction to Financial Management",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Introduction%20to%20Financial%20Management",
+    "Paper": "Introduction to Financial Management",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Introduction%20to%20Financial%20Management.pdf",
     "Year": "2012"
   },
   {
     "Department": "Introduction to Human Behavior in Organizations",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Introduction%20to%20Human%20Behavior%20in%20Organizations",
+    "Paper": "Introduction to Human Behavior in Organizations",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Introduction%20to%20Human%20Behavior%20in%20Organizations.pdf",
     "Year": "2012"
   },
   {
     "Department": "Introduction to Intellectual Property Law",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Introduction%20to%20Intellectual%20Property%20Law",
+    "Paper": "Introduction to Intellectual Property Law",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Introduction%20to%20Intellectual%20Property%20Law.pdf",
     "Year": "2012"
   },
   {
     "Department": "Marketing Management",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Marketing%20Management",
+    "Paper": "Marketing Management",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Marketing%20Management.pdf",
     "Year": "2012"
   },
   {
     "Department": "MATERIALS ENGINEERING",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "MATERIALS%20ENGINEERING",
+    "Paper": "MATERIALS ENGINEERING",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/MATERIALS%20ENGINEERING.pdf",
     "Year": "2012"
   },
   {
     "Department": "Materials Science (MS31007)",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Materials%20Science%20(MS31007)",
+    "Paper": "Materials Science (MS31007)",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Materials%20Science%20(MS31007).pdf",
     "Year": "2012"
   },
   {
     "Department": "Photonic Materials and Applications",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Photonic%20Materials%20and%20Applications",
+    "Paper": "Photonic Materials and Applications",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Photonic%20Materials%20and%20Applications.pdf",
     "Year": "2012"
   },
   {
     "Department": "Rural Economy and Industrialisation",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Rural%20Economy%20and%20Industrialisation",
+    "Paper": "Rural Economy and Industrialisation",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Rural%20Economy%20and%20Industrialisation.pdf",
     "Year": "2012"
   },
   {
     "Department": "Science of the Living Systems",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Science%20of%20the%20Living%20Systems",
+    "Paper": "Science of the Living Systems",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Science%20of%20the%20Living%20Systems.pdf",
     "Year": "2012"
   },
   {
     "Department": "Introduction to Intellectual Property Law",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Introduction%20to%20Intellectual%20Property%20Law",
+    "Paper": "Introduction to Intellectual Property Law",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/Introduction%20to%20Intellectual%20Property%20Law.pdf",
     "Year": "2012"
   },
@@ -5142,35 +5142,35 @@
   {
     "Department": "Nontraditional Manufacturing Processes  MF30604",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Nontraditional%20Manufacturing%20Processes%20%20MF30604",
+    "Paper": "Nontraditional Manufacturing Processes  MF30604",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/Nontraditional%20Manufacturing%20Processes%20%20MF30604.pdf",
     "Year": "2012"
   },
   {
     "Department": "Rubber Process Engineering (RT30018)",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Rubber%20Process%20Engineering%20(RT30018)",
+    "Paper": "Rubber Process Engineering (RT30018)",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/Rubber%20Process%20Engineering%20(RT30018).pdf",
     "Year": "2012"
   },
   {
     "Department": "Rural Development Centre",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Rural%20Development%20Centre",
+    "Paper": "Rural Development Centre",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/Rural%20Development%20Centre.pdf",
     "Year": "2012"
   },
   {
     "Department": "Science of living system (BS200001%7D",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Science%20of%20living%20system%20(BS200001%7D",
+    "Paper": "Science of living system (BS200001}",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/Science%20of%20living%20system%20(BS200001%7D.pdf",
     "Year": "2012"
   },
   {
     "Department": "Transfer and Management of Rural Technology",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Transfer%20and%20Management%20of%20Rural%20Technology",
+    "Paper": "Transfer and Management of Rural Technology",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/Transfer%20and%20Management%20of%20Rural%20Technology.pdf",
     "Year": "2012"
   },
@@ -5184,84 +5184,84 @@
   {
     "Department": "cryogenic separation process",
     "Semester": "End Spring 2013",
-    "Paper": "cryogenic%20separation%20process",
+    "Paper": "cryogenic separation process",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/cryogenic%20separation%20process.pdf",
     "Year": "2013"
   },
   {
     "Department": "Environmental Science for Mining",
     "Semester": "End Spring 2013",
-    "Paper": "Environmental%20Science%20for%20Mining",
+    "Paper": "Environmental Science for Mining",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Environmental%20Science%20for%20Mining.pdf",
     "Year": "2013"
   },
   {
     "Department": "Environmental Science section 3",
     "Semester": "End Spring 2013",
-    "Paper": "Environmental%20Science%20section%203",
+    "Paper": "Environmental Science section 3",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Environmental%20Science%20section%203.pdf",
     "Year": "2013"
   },
   {
     "Department": "Materials Science",
     "Semester": "End Spring 2013",
-    "Paper": "Materials%20Science",
+    "Paper": "Materials Science",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Materials%20Science.pdf",
     "Year": "2013"
   },
   {
     "Department": "Nontraditional Manufacturing Processes",
     "Semester": "End Spring 2013",
-    "Paper": "Nontraditional%20Manufacturing%20Processes",
+    "Paper": "Nontraditional Manufacturing Processes",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Nontraditional%20Manufacturing%20Processes.pdf",
     "Year": "2013"
   },
   {
     "Department": "Nontraditional Manufacturing Processes.Supplementary",
     "Semester": "End Spring 2013",
-    "Paper": "Nontraditional%20Manufacturing%20Processes",
+    "Paper": "Nontraditional Manufacturing Processes",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Nontraditional%20Manufacturing%20Processes.Supplementary.pdf",
     "Year": "2013"
   },
   {
     "Department": "Polymer Technology",
     "Semester": "End Spring 2013",
-    "Paper": "Polymer%20Technology",
+    "Paper": "Polymer Technology",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Polymer%20Technology.pdf",
     "Year": "2013"
   },
   {
     "Department": "Robots and Computer-Controlled Machines",
     "Semester": "End Spring 2013",
-    "Paper": "Robots%20and%20Computer-Controlled%20Machines",
+    "Paper": "Robots and Computer-Controlled Machines",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Robots%20and%20Computer-Controlled%20Machines.pdf",
     "Year": "2013"
   },
   {
     "Department": "Rural Economy and Industrialization",
     "Semester": "End Spring 2013",
-    "Paper": "Rural%20Economy%20and%20Industrialization",
+    "Paper": "Rural Economy and Industrialization",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Rural%20Economy%20and%20Industrialization.pdf",
     "Year": "2013"
   },
   {
     "Department": "Science of living systems BS20001",
     "Semester": "End Spring 2013",
-    "Paper": "Science%20of%20living%20systems%20BS20001",
+    "Paper": "Science of living systems BS20001",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Science%20of%20living%20systems%20BS20001.pdf",
     "Year": "2013"
   },
   {
     "Department": "Science of living systems SECTION 2",
     "Semester": "End Spring 2013",
-    "Paper": "Science%20of%20living%20systems%20SECTION%202",
+    "Paper": "Science of living systems SECTION 2",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Science%20of%20living%20systems%20SECTION%202.pdf",
     "Year": "2013"
   },
   {
     "Department": "Transfer and Management of Rural Technology",
     "Semester": "End Spring 2013",
-    "Paper": "Transfer%20and%20Management%20of%20Rural%20Technology",
+    "Paper": "Transfer and Management of Rural Technology",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Transfer%20and%20Management%20of%20Rural%20Technology.pdf",
     "Year": "2013"
   },
@@ -5590,7 +5590,7 @@
   {
     "Department": "chemical",
     "Semester": "end autumn 2009",
-    "Paper": "instability %26 pattern formation in thin polymer films",
+    "Paper": "instability & pattern formation in thin polymer films",
     "Link": "http://10.17.32.9/peqp/2009/end%20autumn%202009/chemical/instability%20%26%20pattern%20formation%20in%20thin%20polymer%20films.pdf",
     "Year": "2009"
   },
@@ -6297,7 +6297,7 @@
   {
     "Department": "agfe",
     "Semester": "end spring 2009",
-    "Paper": "dairy adn food processing operations 2",
+    "Paper": "dairy and food processing operations 2",
     "Link": "http://10.17.32.9/peqp/2009/end%20spring%202009/agfe/dairy%20adn%20food%20processing%20operations%202.pdf",
     "Year": "2009"
   },
@@ -6399,7 +6399,7 @@
   {
     "Department": "agfe",
     "Semester": "end spring 2009",
-    "Paper": "instrumentation %26 control in food engg",
+    "Paper": "instrumentation & control in food engg",
     "Link": "http://10.17.32.9/peqp/2009/end%20spring%202009/agfe/instrumentation%20%26%20control%20in%20food%20engg.pdf",
     "Year": "2009"
   },
@@ -6441,7 +6441,7 @@
   {
     "Department": "agfe",
     "Semester": "end spring 2009",
-    "Paper": "rural economy %26 industrailisation",
+    "Paper": "rural economy & industrailisation",
     "Link": "http://10.17.32.9/peqp/2009/end%20spring%202009/agfe/rural%20economy%20%26%20industrailisation.pdf",
     "Year": "2009"
   },
@@ -6624,7 +6624,7 @@
   {
     "Department": "chemistry",
     "Semester": "end spring 2009",
-    "Paper": "introduction to quantum chemistry %26 spectroscopy",
+    "Paper": "introduction to quantum chemistry & spectroscopy",
     "Link": "http://10.17.32.9/peqp/2009/end%20spring%202009/chemistry/introduction%20to%20quantum%20chemistry%20%26%20spectroscopy.pdf",
     "Year": "2009"
   },
@@ -6824,7 +6824,7 @@
   {
     "Department": "ece",
     "Semester": "end spring 2009",
-    "Paper": "Microcontrollers%26embedded Systems",
+    "Paper": "Microcontrollers&embedded Systems",
     "Link": "http://10.17.32.9/peqp/2009/end%20spring%202009/ece/Microcontrollers%26embedded%20Systems.pdf",
     "Year": "2009"
   },
@@ -6880,7 +6880,7 @@
   {
     "Department": "ee",
     "Semester": "end spring 2009",
-    "Paper": "Microcontrollers%26embedded Systems",
+    "Paper": "Microcontrollers&embedded Systems",
     "Link": "http://10.17.32.9/peqp/2009/end%20spring%202009/ee/Microcontrollers%26embedded%20Systems.pdf",
     "Year": "2009"
   },
@@ -6999,7 +6999,7 @@
   {
     "Department": "iem",
     "Semester": "end spring 2009",
-    "Paper": "Industrial  Engg %26 Management",
+    "Paper": "Industrial  Engg & Management",
     "Link": "http://10.17.32.9/peqp/2009/end%20spring%202009/iem/Industrial%20%20Engg%20%26%20Management.pdf",
     "Year": "2009"
   },
@@ -7125,7 +7125,7 @@
   {
     "Department": "mathematics",
     "Semester": "end spring 2009",
-    "Paper": "Finite Automata and Formal  languagr%26 Switching and Finite  Automata",
+    "Paper": "Finite Automata and Formal  languagr& Switching and Finite  Automata",
     "Link": "http://10.17.32.9/peqp/2009/end%20spring%202009/mathematics/Finite%20Automata%20and%20Formal%20%20languagr%26%20Switching%20and%20Finite%20%20Automata.pdf",
     "Year": "2009"
   },
@@ -7146,7 +7146,7 @@
   {
     "Department": "mathematics",
     "Semester": "end spring 2009",
-    "Paper": "measure theory %26 integration",
+    "Paper": "measure theory & integration",
     "Link": "http://10.17.32.9/peqp/2009/end%20spring%202009/mathematics/measure%20theory%20%26%20integration.pdf",
     "Year": "2009"
   },
@@ -8014,7 +8014,7 @@
   {
     "Department": "iem",
     "Semester": "mid autumn 2009",
-    "Paper": "Production Planning %26 Control",
+    "Paper": "Production Planning & Control",
     "Link": "http://10.17.32.9/peqp/2009/mid%20autumn%202009/iem/Production%20Planning%20%26%20Control.pdf",
     "Year": "2009"
   },
@@ -8028,7 +8028,7 @@
   {
     "Department": "mathematics",
     "Semester": "mid autumn 2009",
-    "Paper": "Analysis %26 Forecasting",
+    "Paper": "Analysis & Forecasting",
     "Link": "http://10.17.32.9/peqp/2009/mid%20autumn%202009/mathematics/Analysis%20%26%20Forecasting.pdf",
     "Year": "2009"
   },
@@ -8490,7 +8490,7 @@
   {
     "Department": "agfe",
     "Semester": "mid spring 2009",
-    "Paper": "instrumentation %26 control in food engg",
+    "Paper": "instrumentation & control in food engg",
     "Link": "http://10.17.32.9/peqp/2009/mid%20spring%202009/agfe/instrumentation%20%26%20control%20in%20food%20engg.pdf",
     "Year": "2009"
   },
@@ -8574,7 +8574,7 @@
   {
     "Department": "Archtecture",
     "Semester": "mid spring 2009",
-    "Paper": "advanced theory of architecture %26 research methodology",
+    "Paper": "advanced theory of architecture & research methodology",
     "Link": "http://10.17.32.9/peqp/2009/mid%20spring%202009/Archtecture/advanced%20theory%20of%20architecture%20%26%20research%20methodology.pdf",
     "Year": "2009"
   },
@@ -8637,7 +8637,7 @@
   {
     "Department": "chemistry",
     "Semester": "mid spring 2009",
-    "Paper": "group theory molecular spectroscopy %26 dynamics",
+    "Paper": "group theory molecular spectroscopy & dynamics",
     "Link": "http://10.17.32.9/peqp/2009/mid%20spring%202009/chemistry/group%20theory%20molecular%20spectroscopy%20%26%20dynamics.pdf",
     "Year": "2009"
   },
@@ -10681,7 +10681,7 @@
   {
     "Department": "agrf2010",
     "Semester": "end spring 2010",
-    "Paper": "agro finance and marketing management%2Bagricultural finance and  marketing",
+    "Paper": "agro finance and marketing management+agricultural finance and  marketing",
     "Link": "http://10.17.32.9/peqp/2010/end%20spring%202010/agrf2010/agro%20finance%20and%20marketing%20management%2Bagricultural%20finance%20and%20%20marketing.pdf",
     "Year": "2010"
   },
@@ -13915,7 +13915,7 @@
   {
     "Department": "ocean_naval",
     "Semester": "mid spring 2010",
-    "Paper": "computer aided marine design %26 production",
+    "Paper": "computer aided marine design & production",
     "Link": "http://10.17.32.9/peqp/2010/mid%20spring%202010/ocean_naval/computer%20aided%20marine%20design%20%26%20production.pdf",
     "Year": "2010"
   },
@@ -14004,7 +14004,7 @@
   },
   {
     "Semester": "END AUTUMN 2011",
-    "Paper": "Advances in Tractor Hydraulics %26 Transmission systems",
+    "Paper": "Advances in Tractor Hydraulics & Transmission systems",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Agricultural%20%26%20Food%20Engineering%20Department",
     "Year": "2011",
     "Department": "Agricultural %26 Food Engineering Department",
@@ -14014,7 +14014,7 @@
   },
   {
     "Semester": "END AUTUMN 2011",
-    "Paper": "Agro Project Cash Flow Analysis %26 Finance",
+    "Paper": "Agro Project Cash Flow Analysis & Finance",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Agricultural%20%26%20Food%20Engineering%20Department",
     "Year": "2011",
     "Department": "Agricultural %26 Food Engineering Department",
@@ -14024,7 +14024,7 @@
   },
   {
     "Semester": "END AUTUMN 2011",
-    "Paper": "Climate Change %26 Water Resources",
+    "Paper": "Climate Change & Water Resources",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Agricultural%20%26%20Food%20Engineering%20Department",
     "Year": "2011",
     "Department": "Agricultural %26 Food Engineering Department",
@@ -14064,7 +14064,7 @@
   },
   {
     "Semester": "END AUTUMN 2011",
-    "Paper": "Dairy and Food Engineering Operations %97 I",
+    "Paper": "Dairy and Food Engineering Operations I",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Agricultural%20%26%20Food%20Engineering%20Department",
     "Year": "2011",
     "Department": "Agricultural %26 Food Engineering Department",
@@ -14084,7 +14084,7 @@
   },
   {
     "Semester": "END AUTUMN 2011",
-    "Paper": "Fat %26 Oil Technology",
+    "Paper": "Fat & Oil Technology",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Agricultural%20%26%20Food%20Engineering%20Department",
     "Year": "2011",
     "Department": "Agricultural %26 Food Engineering Department",
@@ -14104,7 +14104,7 @@
   },
   {
     "Semester": "END AUTUMN 2011",
-    "Paper": "Food Chemistry %26 Microbiology",
+    "Paper": "Food Chemistry & Microbiology",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Agricultural%20%26%20Food%20Engineering%20Department",
     "Year": "2011",
     "Department": "Agricultural %26 Food Engineering Department",
@@ -14124,7 +14124,7 @@
   },
   {
     "Semester": "END AUTUMN 2011",
-    "Paper": "Geo-Informatics for Land %26 Water Resources",
+    "Paper": "Geo-Informatics for Land & Water Resources",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Agricultural%20%26%20Food%20Engineering%20Department",
     "Year": "2011",
     "Department": "Agricultural %26 Food Engineering Department",
@@ -14134,7 +14134,7 @@
   },
   {
     "Semester": "END AUTUMN 2011",
-    "Paper": "Grain Storage Principles %26 Structures",
+    "Paper": "Grain Storage Principles & Structures",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Agricultural%20%26%20Food%20Engineering%20Department",
     "Year": "2011",
     "Department": "Agricultural %26 Food Engineering Department",
@@ -14144,7 +14144,7 @@
   },
   {
     "Semester": "END AUTUMN 2011",
-    "Paper": "gro Project Cash Flow Analysis %26 Finance",
+    "Paper": "gro Project Cash Flow Analysis & Finance",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Agricultural%20%26%20Food%20Engineering%20Department",
     "Year": "2011",
     "Department": "Agricultural %26 Food Engineering Department",
@@ -14335,14 +14335,14 @@
   {
     "Department": "Architecture %26 Regional Planning",
     "Semester": "END AUTUMN 2011",
-    "Paper": "Advanced Building Materials %26 Composites",
+    "Paper": "Advanced Building Materials & Composites",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Architecture%20%26%20Regional%20Planning/Advanced%20Building%20Materials%20%26%20Composites.pdf",
     "Year": "2011"
   },
   {
     "Department": "Architecture %26 Regional Planning",
     "Semester": "END AUTUMN 2011",
-    "Paper": "Climatology %26 Solar Architecture",
+    "Paper": "Climatology & Solar Architecture",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Architecture%20%26%20Regional%20Planning/Climatology%20%26%20Solar%20Architecture.pdf",
     "Year": "2011"
   },
@@ -14692,7 +14692,7 @@
   {
     "Department": "ECE",
     "Semester": "END AUTUMN 2011",
-    "Paper": "RF %26 Microwave Engineering",
+    "Paper": "RF & Microwave Engineering",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/ECE/RF%20%26%20Microwave%20Engineering.pdf",
     "Year": "2011"
   },
@@ -14874,7 +14874,7 @@
   {
     "Department": "hss",
     "Semester": "END AUTUMN 2011",
-    "Paper": "Modernization %26 Creative Communication",
+    "Paper": "Modernization & Creative Communication",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/hss/Modernization%20%26%20Creative%20Communication.pdf",
     "Year": "2011"
   },
@@ -14999,14 +14999,14 @@
   {
     "Department": "Industrial Engineering and Management",
     "Semester": "END AUTUMN 2011",
-    "Paper": "Operations Research -1",
+    "Paper": "Operations Research 1",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Industrial%20Engineering%20and%20Management/Operations%20Research%20-1.pdf",
     "Year": "2011"
   },
   {
     "Department": "Industrial Engineering and Management",
     "Semester": "END AUTUMN 2011",
-    "Paper": "Production Planning %26 Control",
+    "Paper": "Production Planning & Control",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Industrial%20Engineering%20and%20Management/Production%20Planning%20%26%20Control.pdf",
     "Year": "2011"
   },
@@ -15216,7 +15216,7 @@
   {
     "Department": "Mathematics",
     "Semester": "END AUTUMN 2011",
-    "Paper": "Probability %26 Statistics",
+    "Paper": "Probability & Statistics",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Mathematics/Probability%20%26%20Statistics.pdf",
     "Year": "2011"
   },
@@ -15363,7 +15363,7 @@
   {
     "Department": "Ocean Engineering and Naval Architecture",
     "Semester": "END AUTUMN 2011",
-    "Paper": "Hydrostatics %26 Stability",
+    "Paper": "Hydrostatics & Stability",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Ocean%20Engineering%20and%20Naval%20Architecture/Hydrostatics%20%26%20Stability.pdf",
     "Year": "2011"
   },
@@ -15377,14 +15377,14 @@
   {
     "Department": "Ocean Engineering and Naval Architecture",
     "Semester": "END AUTUMN 2011",
-    "Paper": "Marine Construction %26 Welding",
+    "Paper": "Marine Construction & Welding",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Ocean%20Engineering%20and%20Naval%20Architecture/Marine%20Construction%20%26%20Welding.pdf",
     "Year": "2011"
   },
   {
     "Department": "Ocean Engineering and Naval Architecture",
     "Semester": "END AUTUMN 2011",
-    "Paper": "Marine Production %26 Planning",
+    "Paper": "Marine Production & Planning",
     "Link": "http://10.17.32.9/peqp/2011/END%20AUTUMN%202011/Ocean%20Engineering%20and%20Naval%20Architecture/Marine%20Production%20%26%20Planning.pdf",
     "Year": "2011"
   },
@@ -15675,14 +15675,14 @@
   {
     "Department": "AGRF",
     "Semester": "end spring 2011",
-    "Paper": "AG60080 Marketing of Food %26 Agricultural Products",
+    "Paper": "AG60080 Marketing of Food & Agricultural Products",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/AGRF/AG60080%20Marketing%20of%20Food%20%26%20Agricultural%20Products.pdf",
     "Year": "2011"
   },
   {
     "Department": "AGRF",
     "Semester": "end spring 2011",
-    "Paper": "AG60124 Food Handling %26 Packaging",
+    "Paper": "AG60124 Food Handling & Packaging",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/AGRF/AG60124%20Food%20Handling%20%26%20Packaging.pdf",
     "Year": "2011"
   },
@@ -15696,14 +15696,14 @@
   {
     "Department": "AGRF",
     "Semester": "end spring 2011",
-    "Paper": "Crop Breeding %26 Biotechnological applications",
+    "Paper": "Crop Breeding & Biotechnological applications",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/AGRF/Crop%20Breeding%20%26%20Biotechnological%20applications.pdf",
     "Year": "2011"
   },
   {
     "Department": "AGRF",
     "Semester": "end spring 2011",
-    "Paper": "Environmental Microbiology %26 Biopollution Control Subject No(AG60130)",
+    "Paper": "Environmental Microbiology & Biopollution Control Subject No(AG60130)",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/AGRF/Environmental%20Microbiology%20%26%20Biopollution%20Control%20Subject%20No(AG60130).pdf",
     "Year": "2011"
   },
@@ -15759,7 +15759,7 @@
   {
     "Department": "AGRF",
     "Semester": "end spring 2011",
-    "Paper": "Management %26 Productivity",
+    "Paper": "Management & Productivity",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/AGRF/Management%20%26%20Productivity.pdf",
     "Year": "2011"
   },
@@ -15787,7 +15787,7 @@
   {
     "Department": "AGRF",
     "Semester": "end spring 2011",
-    "Paper": "Pharmacognosy %26 Metabolic Engineering",
+    "Paper": "Pharmacognosy & Metabolic Engineering",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/AGRF/Pharmacognosy%20%26%20Metabolic%20Engineering.pdf",
     "Year": "2011"
   },
@@ -15829,14 +15829,14 @@
   {
     "Department": "AGRF",
     "Semester": "end spring 2011",
-    "Paper": "Tractor %26 Power Systems END SPRING",
+    "Paper": "Tractor & Power Systems END SPRING",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/AGRF/Tractor%20%26%20Power%20Systems%20END%20SPRING.pdf",
     "Year": "2011"
   },
   {
     "Department": "AGRF",
     "Semester": "end spring 2011",
-    "Paper": "Tractor %26 Power Systems",
+    "Paper": "Tractor & Power Systems",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/AGRF/Tractor%20%26%20Power%20Systems.pdf",
     "Year": "2011"
   },
@@ -15878,21 +15878,21 @@
   {
     "Department": "agricilture",
     "Semester": "end spring 2011",
-    "Paper": "Crop Breeding %26 Biotechnological applications",
+    "Paper": "Crop Breeding & Biotechnological applications",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/agricilture/Crop%20Breeding%20%26%20Biotechnological%20applications.pdf",
     "Year": "2011"
   },
   {
     "Department": "agricilture",
     "Semester": "end spring 2011",
-    "Paper": "Dairy and Food Processing Operations %97 II",
+    "Paper": "Dairy and Food Processing Operations II",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/agricilture/Dairy%20and%20Food%20Processing%20Operations%20%97%20II.pdf",
     "Year": "2011"
   },
   {
     "Department": "agricilture",
     "Semester": "end spring 2011",
-    "Paper": "environmental Microbiology %26 Biopollution Control",
+    "Paper": "environmental Microbiology & Biopollution Control",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/agricilture/environmental%20Microbiology%20%26%20Biopollution%20Control.pdf",
     "Year": "2011"
   },
@@ -15913,7 +15913,7 @@
   {
     "Department": "agricilture",
     "Semester": "end spring 2011",
-    "Paper": "Food Process %26 Products Technology",
+    "Paper": "Food Process & Products Technology",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/agricilture/Food%20Process%20%26%20Products%20Technology.pdf",
     "Year": "2011"
   },
@@ -15941,14 +15941,14 @@
   {
     "Department": "agricilture",
     "Semester": "end spring 2011",
-    "Paper": "Management %26 Productivity",
+    "Paper": "Management & Productivity",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/agricilture/Management%20%26%20Productivity.pdf",
     "Year": "2011"
   },
   {
     "Department": "agricilture",
     "Semester": "end spring 2011",
-    "Paper": "Marketing of Food %26 Agricultural Products",
+    "Paper": "Marketing of Food & Agricultural Products",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/agricilture/Marketing%20of%20Food%20%26%20Agricultural%20Products.pdf",
     "Year": "2011"
   },
@@ -15962,7 +15962,7 @@
   {
     "Department": "agricilture",
     "Semester": "end spring 2011",
-    "Paper": "Non-Point Source Pollution %26 Managt.",
+    "Paper": "Non-Point Source Pollution & Managt.",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/agricilture/Non-Point%20Source%20Pollution%20%26%20Managt..pdf",
     "Year": "2011"
   },
@@ -15976,7 +15976,7 @@
   {
     "Department": "agricilture",
     "Semester": "end spring 2011",
-    "Paper": "Pharmacognosy %26 Metabolic Engineering",
+    "Paper": "Pharmacognosy & Metabolic Engineering",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/agricilture/Pharmacognosy%20%26%20Metabolic%20Engineering.pdf",
     "Year": "2011"
   },
@@ -16123,14 +16123,14 @@
   {
     "Department": "architecure and regional planning",
     "Semester": "end spring 2011",
-    "Paper": "PROFESSIONAL PRACTICE %26 BUILDING BYE-LAW end spring",
+    "Paper": "PROFESSIONAL PRACTICE & BUILDING BYE-LAW end spring",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/architecure%20and%20regional%20planning/PROFESSIONAL%20PRACTICE%20%26%20BUILDING%20BYE-LAW%20end%20spring.pdf",
     "Year": "2011"
   },
   {
     "Department": "architecure and regional planning",
     "Semester": "end spring 2011",
-    "Paper": "PROFESSIONAL PRACTICE %26 BUILDING BYE-LAWS",
+    "Paper": "PROFESSIONAL PRACTICE & BUILDING BYE-LAWS",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/architecure%20and%20regional%20planning/PROFESSIONAL%20PRACTICE%20%26%20BUILDING%20BYE-LAWS.pdf",
     "Year": "2011"
   },
@@ -16207,7 +16207,7 @@
   {
     "Department": "chemical",
     "Semester": "end spring 2011",
-    "Paper": "I~~bility %26 Pattern Formation in Thin Polymer Films",
+    "Paper": "I~~bility & Pattern Formation in Thin Polymer Films",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/chemical/I~~bility%20%26%20Pattern%20Formation%20in%20Thin%20Polymer%20Films.pdf",
     "Year": "2011"
   },
@@ -16249,7 +16249,7 @@
   {
     "Department": "chemical",
     "Semester": "end spring 2011",
-    "Paper": "Project Engineering %26 Management",
+    "Paper": "Project Engineering & Management",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/chemical/Project%20Engineering%20%26%20Management.pdf",
     "Year": "2011"
   },
@@ -16284,14 +16284,14 @@
   {
     "Department": "Chemistry",
     "Semester": "end spring 2011",
-    "Paper": "Analytical %26 Environmental Chemistry mid spring",
+    "Paper": "Analytical & Environmental Chemistry mid spring",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/Chemistry/Analytical%20%26%20Environmental%20Chemistry%20mid%20spring.pdf",
     "Year": "2011"
   },
   {
     "Department": "Chemistry",
     "Semester": "end spring 2011",
-    "Paper": "Analytical %26 Environmental Chemistry",
+    "Paper": "Analytical & Environmental Chemistry",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/Chemistry/Analytical%20%26%20Environmental%20Chemistry.pdf",
     "Year": "2011"
   },
@@ -16452,7 +16452,7 @@
   {
     "Department": "Chemistry",
     "Semester": "end spring 2011",
-    "Paper": "Strategies %26 Methods in Organic Synthesis I",
+    "Paper": "Strategies & Methods in Organic Synthesis I",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/Chemistry/Strategies%20%26%20Methods%20in%20Organic%20Synthesis%20I.pdf",
     "Year": "2011"
   },
@@ -16466,7 +16466,7 @@
   {
     "Department": "Chemistry",
     "Semester": "end spring 2011",
-    "Paper": "Structures %26 Function ofBiomolecules Chemistry ofBiomolecules",
+    "Paper": "Structures & Function ofBiomolecules Chemistry ofBiomolecules",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/Chemistry/Structures%20%26%20Function%20ofBiomolecules%20Chemistry%20ofBiomolecules.pdf",
     "Year": "2011"
   },
@@ -16571,7 +16571,7 @@
   {
     "Department": "Computer Science",
     "Semester": "end spring 2011",
-    "Paper": "Adv. Dig. Image Proc. %26 Computer Vision",
+    "Paper": "Adv. Dig. Image Proc. & Computer Vision",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/Computer%20Science/Adv.%20Dig.%20Image%20Proc.%20%26%20Computer%20Vision.pdf",
     "Year": "2011"
   },
@@ -17261,7 +17261,7 @@
   {
     "Department": "geology and geophysics",
     "Semester": "end spring 2011",
-    "Paper": "Gravity %26 Magnetic Methods of Prospecting",
+    "Paper": "Gravity & Magnetic Methods of Prospecting",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/geology%20and%20geophysics/Gravity%20%26%20Magnetic%20Methods%20of%20Prospecting.pdf",
     "Year": "2011"
   },
@@ -17275,7 +17275,7 @@
   {
     "Department": "geology and geophysics",
     "Semester": "end spring 2011",
-    "Paper": "Isotope Geology %26 Env. Modeling",
+    "Paper": "Isotope Geology & Env. Modeling",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/geology%20and%20geophysics/Isotope%20Geology%20%26%20Env.%20Modeling.pdf",
     "Year": "2011"
   },
@@ -17303,7 +17303,7 @@
   {
     "Department": "geology and geophysics",
     "Semester": "end spring 2011",
-    "Paper": "Paleontology %26 Stratigraphy",
+    "Paper": "Paleontology & Stratigraphy",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/geology%20and%20geophysics/Paleontology%20%26%20Stratigraphy.pdf",
     "Year": "2011"
   },
@@ -17317,7 +17317,7 @@
   {
     "Department": "geology and geophysics",
     "Semester": "end spring 2011",
-    "Paper": "Remote Sensing %26 GIS end spring",
+    "Paper": "Remote Sensing & GIS end spring",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/geology%20and%20geophysics/Remote%20Sensing%20%26%20GIS%20end%20spring.pdf",
     "Year": "2011"
   },
@@ -17380,7 +17380,7 @@
   {
     "Department": "geology and geophysics",
     "Semester": "end spring 2011",
-    "Paper": "Tectonics %26 Geodynamics",
+    "Paper": "Tectonics & Geodynamics",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/geology%20and%20geophysics/Tectonics%20%26%20Geodynamics.pdf",
     "Year": "2011"
   },
@@ -18131,14 +18131,14 @@
   {
     "Department": "mathematics",
     "Semester": "end spring 2011",
-    "Paper": "Probability %26 Stochastic Processes end spring",
+    "Paper": "Probability & Stochastic Processes end spring",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/mathematics/Probability%20%26%20Stochastic%20Processes%20end%20spring.pdf",
     "Year": "2011"
   },
   {
     "Department": "mathematics",
     "Semester": "end spring 2011",
-    "Paper": "Probability %26 Stochastic Processes",
+    "Paper": "Probability & Stochastic Processes",
     "Link": "http://10.17.32.9/peqp/2011/end%20spring%202011/mathematics/Probability%20%26%20Stochastic%20Processes.pdf",
     "Year": "2011"
   },
@@ -18492,7 +18492,7 @@
   {
     "Department": "agrf",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Agra Project Cash Flow Analysis %26 Finance",
+    "Paper": "Agra Project Cash Flow Analysis & Finance",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/agrf/Agra%20Project%20Cash%20Flow%20Analysis%20%26%20Finance.pdf",
     "Year": "2011"
   },
@@ -18506,7 +18506,7 @@
   {
     "Department": "agrf",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Agro Project Cash Flow Analysis %26 Finance",
+    "Paper": "Agro Project Cash Flow Analysis & Finance",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/agrf/Agro%20Project%20Cash%20Flow%20Analysis%20%26%20Finance.pdf",
     "Year": "2011"
   },
@@ -18520,14 +18520,14 @@
   {
     "Department": "agrf",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Climate Change %26 Water Resources",
+    "Paper": "Climate Change & Water Resources",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/agrf/Climate%20Change%20%26%20Water%20Resources.pdf",
     "Year": "2011"
   },
   {
     "Department": "agrf",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Cooling Technology in Food Processing %26Preservation",
+    "Paper": "Cooling Technology in Food Processing &Preservation",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/agrf/Cooling%20Technology%20in%20Food%20Processing%20%26Preservation.pdf",
     "Year": "2011"
   },
@@ -18576,7 +18576,7 @@
   {
     "Department": "agrf",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Food Chemistry %26 Microbiology",
+    "Paper": "Food Chemistry & Microbiology",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/agrf/Food%20Chemistry%20%26%20Microbiology.pdf",
     "Year": "2011"
   },
@@ -18590,14 +18590,14 @@
   {
     "Department": "agrf",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Geo- informatics for Land %26 Water Resources (AG 60203)",
+    "Paper": "Geo- informatics for Land & Water Resources (AG 60203)",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/agrf/Geo-%20informatics%20for%20Land%20%26%20Water%20Resources%20(AG%2060203).pdf",
     "Year": "2011"
   },
   {
     "Department": "agrf",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Grain Storage Principles %26 Structures",
+    "Paper": "Grain Storage Principles & Structures",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/agrf/Grain%20Storage%20Principles%20%26%20Structures.pdf",
     "Year": "2011"
   },
@@ -18836,7 +18836,7 @@
   {
     "Department": "chemistry",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Organic Chemistry %97 I",
+    "Paper": "Organic Chemistry  I",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/chemistry/Organic%20Chemistry%20%97%20I.pdf",
     "Year": "2011"
   },
@@ -19074,7 +19074,7 @@
   {
     "Department": "Electrical Engineering",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Signals %26 Networks",
+    "Paper": "Signals & Networks",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/Electrical%20Engineering/Signals%20%26%20Networks.pdf",
     "Year": "2011"
   },
@@ -19123,7 +19123,7 @@
   {
     "Department": "Electronics and Electrical Communication Engineering",
     "Semester": "mid autumn sem 2011",
-    "Paper": "RF %26 Microwave Engineering",
+    "Paper": "RF & Microwave Engineering",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/Electronics%20and%20Electrical%20Communication%20Engineering/RF%20%26%20Microwave%20Engineering.pdf",
     "Year": "2011"
   },
@@ -19277,7 +19277,7 @@
   {
     "Department": "Humanities and Social Sciences",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Modernization %26 Creative Communication",
+    "Paper": "Modernization & Creative Communication",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/Humanities%20and%20Social%20Sciences/Modernization%20%26%20Creative%20Communication.pdf",
     "Year": "2011"
   },
@@ -19388,14 +19388,14 @@
   {
     "Department": "Industrial Engg %26 Management",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Operations Research %97I (1M21003)",
+    "Paper": "Operations Research I (IM21003)",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/Industrial%20Engg%20%26%20Management/Operations%20Research%20%97I%20(1M21003).pdf",
     "Year": "2011"
   },
   {
     "Department": "Industrial Engg %26 Management",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Production Planning %26 Control",
+    "Paper": "Production Planning & Control",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/Industrial%20Engg%20%26%20Management/Production%20Planning%20%26%20Control.pdf",
     "Year": "2011"
   },
@@ -19602,7 +19602,7 @@
   {
     "Department": "mathematics",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Mathematics %97 I",
+    "Paper": "Mathematics I",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/mathematics/Mathematics%20%97%20I.pdf",
     "Year": "2011"
   },
@@ -19637,7 +19637,7 @@
   {
     "Department": "mathematics",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Probability %26 Statistics",
+    "Paper": "Probability & Statistics",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/mathematics/Probability%20%26%20Statistics.pdf",
     "Year": "2011"
   },
@@ -19798,14 +19798,14 @@
   {
     "Department": "ocean",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Hydrostatics %26 Stability",
+    "Paper": "Hydrostatics & Stability",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/ocean/Hydrostatics%20%26%20Stability.pdf",
     "Year": "2011"
   },
   {
     "Department": "ocean",
     "Semester": "mid autumn sem 2011",
-    "Paper": "Marine Construction %26 Welding",
+    "Paper": "Marine Construction & Welding",
     "Link": "http://10.17.32.9/peqp/2011/mid%20autumn%20sem%202011/ocean/Marine%20Construction%20%26%20Welding.pdf",
     "Year": "2011"
   },
@@ -20057,21 +20057,21 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "end autumn 2012",
-    "Paper": "Agro Project Cash Flow Analysis %26 Finance",
+    "Paper": "Agro Project Cash Flow Analysis & Finance",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Agro%20Project%20Cash%20Flow%20Analysis%20%26%20Finance.pdf",
     "Year": "2012"
   },
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "end autumn 2012",
-    "Paper": "Climate Change %26 Water Resources",
+    "Paper": "Climate Change & Water Resources",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Climate%20Change%20%26%20Water%20Resources.pdf",
     "Year": "2012"
   },
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "end autumn 2012",
-    "Paper": "Computer Aided Design %26 Simulation of Agricultural Machinery",
+    "Paper": "Computer Aided Design & Simulation of Agricultural Machinery",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Computer%20Aided%20Design%20%26%20Simulation%20of%20Agricultural%20Machinery.pdf",
     "Year": "2012"
   },
@@ -20120,7 +20120,7 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "end autumn 2012",
-    "Paper": "Food Chemistry %26 Microbiology",
+    "Paper": "Food Chemistry & Microbiology",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Food%20Chemistry%20%26%20Microbiology.pdf",
     "Year": "2012"
   },
@@ -20134,7 +20134,7 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "end autumn 2012",
-    "Paper": "Grain Storage Principles %26 Structures",
+    "Paper": "Grain Storage Principles & Structures",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Grain%20Storage%20Principles%20%26%20Structures.pdf",
     "Year": "2012"
   },
@@ -20169,7 +20169,7 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "end autumn 2012",
-    "Paper": "Plant Metabolites %26 Separation Technology",
+    "Paper": "Plant Metabolites & Separation Technology",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Plant%20Metabolites%20%26%20Separation%20Technology.pdf",
     "Year": "2012"
   },
@@ -20197,14 +20197,14 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "end autumn 2012",
-    "Paper": "Re1note Sensing for Land %26 Water Resources",
+    "Paper": "Re1note Sensing for Land & Water Resources",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Re1note%20Sensing%20for%20Land%20%26%20Water%20Resources.pdf",
     "Year": "2012"
   },
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "end autumn 2012",
-    "Paper": "Remote Sensing for Land %26 Water Resources (AG 60099",
+    "Paper": "Remote Sensing for Land & Water Resources (AG 60099",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Remote%20Sensing%20for%20Land%20%26%20Water%20Resources%20(AG%2060099.pdf",
     "Year": "2012"
   },
@@ -20246,7 +20246,7 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "end autumn 2012",
-    "Paper": "Tubewells %26 Pumps",
+    "Paper": "Tubewells & Pumps",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Tubewells%20%26%20Pumps.pdf",
     "Year": "2012"
   },
@@ -20260,21 +20260,21 @@
   {
     "Department": "Architecture %26Regional Planning end sem",
     "Semester": "end autumn 2012",
-    "Paper": "Advanced Building Materials %26 Composites",
+    "Paper": "Advanced Building Materials & Composites",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/Architecture%20%26Regional%20Planning%20end%20sem/Advanced%20Building%20Materials%20%26%20Composites.pdf",
     "Year": "2012"
   },
   {
     "Department": "Architecture %26Regional Planning end sem",
     "Semester": "end autumn 2012",
-    "Paper": "ADVANCED THEORY OF ARCHITECTURE %26 RESEARCH METHODS",
+    "Paper": "ADVANCED THEORY OF ARCHITECTURE & RESEARCH METHODS",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/Architecture%20%26Regional%20Planning%20end%20sem/ADVANCED%20THEORY%20OF%20ARCHITECTURE%20%26%20RESEARCH%20METHODS.pdf",
     "Year": "2012"
   },
   {
     "Department": "Architecture %26Regional Planning end sem",
     "Semester": "end autumn 2012",
-    "Paper": "Climatology %26 Solar Architecture",
+    "Paper": "Climatology & Solar Architecture",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/Architecture%20%26Regional%20Planning%20end%20sem/Climatology%20%26%20Solar%20Architecture.pdf",
     "Year": "2012"
   },
@@ -20442,7 +20442,7 @@
   {
     "Department": "Civil Engineering end sem",
     "Semester": "end autumn 2012",
-    "Paper": "Theory of Elasticity %26 Plasticity Applied Elasticity Plasticity",
+    "Paper": "Theory of Elasticity & Plasticity Applied Elasticity Plasticity",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/Civil%20Engineering%20end%20sem/Theory%20of%20Elasticity%20%26%20Plasticity%20Applied%20Elasticity%20Plasticity.pdf",
     "Year": "2012"
   },
@@ -20930,7 +20930,7 @@
   {
     "Department": "Department of Electrical Engineering end sem",
     "Semester": "end autumn 2012",
-    "Paper": "Signals %26 Networks",
+    "Paper": "Signals & Networks",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/Department%20of%20Electrical%20Engineering%20end%20sem/Signals%20%26%20Networks.pdf",
     "Year": "2012"
   },
@@ -21181,7 +21181,7 @@
   {
     "Department": "Department of Industrial Engineering and Management end sem",
     "Semester": "end autumn 2012",
-    "Paper": "Production Planning %26 Control END SEM",
+    "Paper": "Production Planning & Control END SEM",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/Department%20of%20Industrial%20Engineering%20and%20Management%20end%20sem/Production%20Planning%20%26%20Control%20END%20SEM.pdf",
     "Year": "2012"
   },
@@ -21241,7 +21241,7 @@
   {
     "Department": "Department of Physics and Meteorology end sem",
     "Semester": "end autumn 2012",
-    "Paper": "Nuclear %26 Particle Physics II",
+    "Paper": "Nuclear & Particle Physics II",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/Department%20of%20Physics%20and%20Meteorology%20end%20sem/Nuclear%20%26%20Particle%20Physics%20II.pdf",
     "Year": "2012"
   },
@@ -21332,7 +21332,7 @@
   {
     "Department": "e %26 ece end sem",
     "Semester": "end autumn 2012",
-    "Paper": "RF %26 Microwave Engg",
+    "Paper": "RF & Microwave Engg",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/e%20%26%20ece%20end%20sem/RF%20%26%20Microwave%20Engg.pdf",
     "Year": "2012"
   },
@@ -21493,14 +21493,14 @@
   {
     "Department": "OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
     "Semester": "end autumn 2012",
-    "Paper": "Marine Construction %26 Welding",
+    "Paper": "Marine Construction & Welding",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/Marine%20Construction%20%26%20Welding.pdf",
     "Year": "2012"
   },
   {
     "Department": "OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
     "Semester": "end autumn 2012",
-    "Paper": "Marine Production %26 Planning",
+    "Paper": "Marine Production & Planning",
     "Link": "http://10.17.32.9/peqp/2012/end%20autumn%202012/OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/Marine%20Production%20%26%20Planning.pdf",
     "Year": "2012"
   },
@@ -21668,7 +21668,7 @@
   {
     "Department": "agrf",
     "Semester": "END SPRING 2012",
-    "Paper": "AG4_DOJ8 Industrial Processing of Foods %26 Beverages",
+    "Paper": "AG4_DOJ8 Industrial Processing of Foods & Beverages",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/agrf/AG4_DOJ8%20Industrial%20Processing%20of%20Foods%20%26%20Beverages.pdf",
     "Year": "2012"
   },
@@ -21696,7 +21696,7 @@
   {
     "Department": "agrf",
     "Semester": "END SPRING 2012",
-    "Paper": "Crop Breeding %26 Biotechnological",
+    "Paper": "Crop Breeding & Biotechnological",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/agrf/Crop%20Breeding%20%26%20Biotechnological.pdf",
     "Year": "2012"
   },
@@ -21710,7 +21710,7 @@
   {
     "Department": "agrf",
     "Semester": "END SPRING 2012",
-    "Paper": "envirinmental Microbiology %26 Biopollution Control",
+    "Paper": "envirinmental Microbiology & Biopollution Control",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/agrf/envirinmental%20Microbiology%20%26%20Biopollution%20Control.pdf",
     "Year": "2012"
   },
@@ -21745,7 +21745,7 @@
   {
     "Department": "agrf",
     "Semester": "END SPRING 2012",
-    "Paper": "Food Science %26 Technology",
+    "Paper": "Food Science & Technology",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/agrf/Food%20Science%20%26%20Technology.pdf",
     "Year": "2012"
   },
@@ -21759,7 +21759,7 @@
   {
     "Department": "agrf",
     "Semester": "END SPRING 2012",
-    "Paper": "Irrigation %26 Drainage Engineering",
+    "Paper": "Irrigation & Drainage Engineering",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/agrf/Irrigation%20%26%20Drainage%20Engineering.pdf",
     "Year": "2012"
   },
@@ -21773,7 +21773,7 @@
   {
     "Department": "agrf",
     "Semester": "END SPRING 2012",
-    "Paper": "Marketing of Food %26 Agricultural Products",
+    "Paper": "Marketing of Food & Agricultural Products",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/agrf/Marketing%20of%20Food%20%26%20Agricultural%20Products.pdf",
     "Year": "2012"
   },
@@ -21787,7 +21787,7 @@
   {
     "Department": "agrf",
     "Semester": "END SPRING 2012",
-    "Paper": "Non-Point Source Pollution %26 Managt",
+    "Paper": "Non-Point Source Pollution & Managt",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/agrf/Non-Point%20Source%20Pollution%20%26%20Managt.pdf",
     "Year": "2012"
   },
@@ -21808,14 +21808,14 @@
   {
     "Department": "agrf",
     "Semester": "END SPRING 2012",
-    "Paper": "Pharmacognosy %26 Metabolic Engineering",
+    "Paper": "Pharmacognosy & Metabolic Engineering",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/agrf/Pharmacognosy%20%26%20Metabolic%20Engineering.pdf",
     "Year": "2012"
   },
   {
     "Department": "agrf",
     "Semester": "END SPRING 2012",
-    "Paper": "Planning %26 Design of Aquacultural Farms",
+    "Paper": "Planning & Design of Aquacultural Farms",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/agrf/Planning%20%26%20Design%20of%20Aquacultural%20Farms.pdf",
     "Year": "2012"
   },
@@ -21864,7 +21864,7 @@
   {
     "Department": "agrf",
     "Semester": "END SPRING 2012",
-    "Paper": "Tractor %26 Power Systems",
+    "Paper": "Tractor & Power Systems",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/agrf/Tractor%20%26%20Power%20Systems.pdf",
     "Year": "2012"
   },
@@ -21878,7 +21878,7 @@
   {
     "Department": "AR",
     "Semester": "END SPRING 2012",
-    "Paper": "ADVANCED THEORY OF ARCHITECTURE %26 RESEARCH METHODS",
+    "Paper": "ADVANCED THEORY OF ARCHITECTURE & RESEARCH METHODS",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/AR/ADVANCED%20THEORY%20OF%20ARCHITECTURE%20%26%20RESEARCH%20METHODS.pdf",
     "Year": "2012"
   },
@@ -21941,7 +21941,7 @@
   {
     "Department": "AR",
     "Semester": "END SPRING 2012",
-    "Paper": "PROFESSIONAL PRACTICE %26 BUILDING BYE-LAWS",
+    "Paper": "PROFESSIONAL PRACTICE & BUILDING BYE-LAWS",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/AR/PROFESSIONAL%20PRACTICE%20%26%20BUILDING%20BYE-LAWS.pdf",
     "Year": "2012"
   },
@@ -22060,7 +22060,7 @@
   {
     "Department": "Chemistry",
     "Semester": "END SPRING 2012",
-    "Paper": "Structure %26 Function of Biomolecules Chemistry of Biomolecules",
+    "Paper": "Structure & Function of Biomolecules Chemistry of Biomolecules",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Chemistry/Structure%20%26%20Function%20of%20Biomolecules%20Chemistry%20of%20Biomolecules.pdf",
     "Year": "2012"
   },
@@ -22214,7 +22214,7 @@
   {
     "Department": "Computer Science %26 Engineering",
     "Semester": "END SPRING 2012",
-    "Paper": "Programming %26 Data Structure",
+    "Paper": "Programming & Data Structure",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Computer%20Science%20%26%20Engineering/Programming%20%26%20Data%20Structure.pdf",
     "Year": "2012"
   },
@@ -22295,7 +22295,7 @@
   {
     "Department": "ECE",
     "Semester": "END SPRING 2012",
-    "Paper": "MICROCONTROLLER %26 EMBEQDED SYSTEMS",
+    "Paper": "MICROCONTROLLER & EMBEQDED SYSTEMS",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/ECE/MICROCONTROLLER%20%26%20EMBEQDED%20SYSTEMS.pdf",
     "Year": "2012"
   },
@@ -22421,7 +22421,7 @@
   {
     "Department": "hss",
     "Semester": "END SPRING 2012",
-    "Paper": "Environm%B7ental Economics",
+    "Paper": "Environm·ental Economics",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/hss/Environm%B7ental%20Economics.pdf",
     "Year": "2012"
   },
@@ -22477,7 +22477,7 @@
   {
     "Department": "hss",
     "Semester": "END SPRING 2012",
-    "Paper": "Modernization %26 Creative Communication",
+    "Paper": "Modernization & Creative Communication",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/hss/Modernization%20%26%20Creative%20Communication.pdf",
     "Year": "2012"
   },
@@ -22526,7 +22526,7 @@
   {
     "Department": "IEM",
     "Semester": "END SPRING 2012",
-    "Paper": "Advanced Production Planning %26 Inventory Control",
+    "Paper": "Advanced Production Planning & Inventory Control",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/IEM/Advanced%20Production%20Planning%20%26%20Inventory%20Control.pdf",
     "Year": "2012"
   },
@@ -22687,7 +22687,7 @@
   {
     "Department": "Mathematics",
     "Semester": "END SPRING 2012",
-    "Paper": "File Organization %26 Database Systems",
+    "Paper": "File Organization & Database Systems",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Mathematics/File%20Organization%20%26%20Database%20Systems.pdf",
     "Year": "2012"
   },
@@ -22736,7 +22736,7 @@
   {
     "Department": "Mathematics",
     "Semester": "END SPRING 2012",
-    "Paper": "Measure Theory %26 Integration",
+    "Paper": "Measure Theory & Integration",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Mathematics/Measure%20Theory%20%26%20Integration.pdf",
     "Year": "2012"
   },
@@ -22792,14 +22792,14 @@
   {
     "Department": "Mathematics",
     "Semester": "END SPRING 2012",
-    "Paper": "Probability %26 Statistics",
+    "Paper": "Probability & Statistics",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Mathematics/Probability%20%26%20Statistics.pdf",
     "Year": "2012"
   },
   {
     "Department": "Mathematics",
     "Semester": "END SPRING 2012",
-    "Paper": "Probability %26 Stochastic Processes",
+    "Paper": "Probability & Stochastic Processes",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Mathematics/Probability%20%26%20Stochastic%20Processes.pdf",
     "Year": "2012"
   },
@@ -22940,7 +22940,7 @@
   {
     "Department": "Physics and Meteorology",
     "Semester": "END SPRING 2012",
-    "Paper": "Nuclear %26 Particle Physics I",
+    "Paper": "Nuclear & Particle Physics I",
     "Link": "http://10.17.32.9/peqp/2012/END%20SPRING%202012/Physics%20and%20Meteorology/Nuclear%20%26%20Particle%20Physics%20I.pdf",
     "Year": "2012"
   },
@@ -23087,7 +23087,7 @@
   {
     "Department": "AGRF",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Advances in Tractor Hydraulics %26 Transmission Systems",
+    "Paper": "Advances in Tractor Hydraulics & Transmission Systems",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/AGRF/Advances%20in%20Tractor%20Hydraulics%20%26%20Transmission%20Systems.pdf",
     "Year": "2012"
   },
@@ -23101,21 +23101,21 @@
   {
     "Department": "AGRF",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Agro Project Cash Flow Analysis %26 Finance",
+    "Paper": "Agro Project Cash Flow Analysis & Finance",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/AGRF/Agro%20Project%20Cash%20Flow%20Analysis%20%26%20Finance.pdf",
     "Year": "2012"
   },
   {
     "Department": "AGRF",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Climate Change %26 Water Resources",
+    "Paper": "Climate Change & Water Resources",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/AGRF/Climate%20Change%20%26%20Water%20Resources.pdf",
     "Year": "2012"
   },
   {
     "Department": "AGRF",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Computer Aided Design %26 Simulation of Agricultural Machinery",
+    "Paper": "Computer Aided Design & Simulation of Agricultural Machinery",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/AGRF/Computer%20Aided%20Design%20%26%20Simulation%20of%20Agricultural%20Machinery.pdf",
     "Year": "2012"
   },
@@ -23157,7 +23157,7 @@
   {
     "Department": "AGRF",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Food Chemistry %26 Microbiology",
+    "Paper": "Food Chemistry & Microbiology",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/AGRF/Food%20Chemistry%20%26%20Microbiology.pdf",
     "Year": "2012"
   },
@@ -23171,7 +23171,7 @@
   {
     "Department": "AGRF",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Geo-Informatics for Land %26 Water Resources",
+    "Paper": "Geo-Informatics for Land & Water Resources",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/AGRF/Geo-Informatics%20for%20Land%20%26%20Water%20Resources.pdf",
     "Year": "2012"
   },
@@ -23213,7 +23213,7 @@
   {
     "Department": "AGRF",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Plant Metabolites %26 Separation Technology",
+    "Paper": "Plant Metabolites & Separation Technology",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/AGRF/Plant%20Metabolites%20%26%20Separation%20Technology.pdf",
     "Year": "2012"
   },
@@ -23241,7 +23241,7 @@
   {
     "Department": "AGRF",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Remote Sensing for Land %26 Water Resources",
+    "Paper": "Remote Sensing for Land & Water Resources",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/AGRF/Remote%20Sensing%20for%20Land%20%26%20Water%20Resources.pdf",
     "Year": "2012"
   },
@@ -23297,7 +23297,7 @@
   {
     "Department": "AGRF",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Tubewells %26 Pumps",
+    "Paper": "Tubewells & Pumps",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/AGRF/Tubewells%20%26%20Pumps.pdf",
     "Year": "2012"
   },
@@ -23311,14 +23311,14 @@
   {
     "Department": "ARCHITECTURE AND REGIONAL PLANNING",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Advanced Building Materials %26 Composites",
+    "Paper": "Advanced Building Materials & Composites",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/ARCHITECTURE%20AND%20REGIONAL%20PLANNING/Advanced%20Building%20Materials%20%26%20Composites.pdf",
     "Year": "2012"
   },
   {
     "Department": "ARCHITECTURE AND REGIONAL PLANNING",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "ADVANCED THEORY OF ARCHITECTURE %26 RESEARCH METHODS",
+    "Paper": "ADVANCED THEORY OF ARCHITECTURE & RESEARCH METHODS",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/ARCHITECTURE%20AND%20REGIONAL%20PLANNING/ADVANCED%20THEORY%20OF%20ARCHITECTURE%20%26%20RESEARCH%20METHODS.pdf",
     "Year": "2012"
   },
@@ -23626,7 +23626,7 @@
   {
     "Department": "Civil Engineering Dept",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Theory ofElasticity %26 Plasticity Applied Elasticity Plasticity",
+    "Paper": "Theory ofElasticity & Plasticity Applied Elasticity Plasticity",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Civil%20Engineering%20Dept/Theory%20ofElasticity%20%26%20Plasticity%20Applied%20Elasticity%20Plasticity.pdf",
     "Year": "2012"
   },
@@ -23801,7 +23801,7 @@
   {
     "Department": "ECE",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "RF %26 Microwave Engg",
+    "Paper": "RF & Microwave Engg",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/ECE/RF%20%26%20Microwave%20Engg.pdf",
     "Year": "2012"
   },
@@ -23864,7 +23864,7 @@
   {
     "Department": "Electrical Engineering",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Signals %26 Networks",
+    "Paper": "Signals & Networks",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Electrical%20Engineering/Signals%20%26%20Networks.pdf",
     "Year": "2012"
   },
@@ -24129,7 +24129,7 @@
   {
     "Department": "Industrial Engineering and Management",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Production Plalining %26 Control",
+    "Paper": "Production Plalining & Control",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/Industrial%20Engineering%20and%20Management/Production%20Plalining%20%26%20Control.pdf",
     "Year": "2012"
   },
@@ -24339,7 +24339,7 @@
   {
     "Department": "mathematics",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Probability %26 Statistics",
+    "Paper": "Probability & Statistics",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/mathematics/Probability%20%26%20Statistics.pdf",
     "Year": "2012"
   },
@@ -24521,7 +24521,7 @@
   {
     "Department": "OE%26NA",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Marine Production %26 Planning",
+    "Paper": "Marine Production & Planning",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/OE%26NA/Marine%20Production%20%26%20Planning.pdf",
     "Year": "2012"
   },
@@ -24542,7 +24542,7 @@
   {
     "Department": "OE%26NA",
     "Semester": "MID AUTUMN 2012",
-    "Paper": "Physical %26 Dynamical Oceanography",
+    "Paper": "Physical & Dynamical Oceanography",
     "Link": "http://10.17.32.9/peqp/2012/MID%20AUTUMN%202012/OE%26NA/Physical%20%26%20Dynamical%20Oceanography.pdf",
     "Year": "2012"
   },
@@ -24675,14 +24675,14 @@
   {
     "Department": "AGRI AND FOOD ENGG",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "AG33006 Food Science %26 Technology",
+    "Paper": "AG33006 Food Science & Technology",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/AGRI%20AND%20FOOD%20ENGG/AG33006%20Food%20Science%20%26%20Technology.pdf",
     "Year": "2012"
   },
   {
     "Department": "AGRI AND FOOD ENGG",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "AG40018 Industrial Processing of Foods %26 Beverages",
+    "Paper": "AG40018 Industrial Processing of Foods & Beverages",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/AGRI%20AND%20FOOD%20ENGG/AG40018%20Industrial%20Processing%20of%20Foods%20%26%20Beverages.pdf",
     "Year": "2012"
   },
@@ -24717,14 +24717,14 @@
   {
     "Department": "AGRI AND FOOD ENGG",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "AG60080 Marketing of Food %26 Agricultural Products",
+    "Paper": "AG60080 Marketing of Food & Agricultural Products",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/AGRI%20AND%20FOOD%20ENGG/AG60080%20Marketing%20of%20Food%20%26%20Agricultural%20Products.pdf",
     "Year": "2012"
   },
   {
     "Department": "AGRI AND FOOD ENGG",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "AG60094 %26 Seed Technology",
+    "Paper": "AG60094 & Seed Technology",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/AGRI%20AND%20FOOD%20ENGG/AG60094%20%26%20Seed%20Technology.pdf",
     "Year": "2012"
   },
@@ -24745,7 +24745,7 @@
   {
     "Department": "AGRI AND FOOD ENGG",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Crop Breeding %26 Biotechnological",
+    "Paper": "Crop Breeding & Biotechnological",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/AGRI%20AND%20FOOD%20ENGG/Crop%20Breeding%20%26%20Biotechnological.pdf",
     "Year": "2012"
   },
@@ -24759,7 +24759,7 @@
   {
     "Department": "AGRI AND FOOD ENGG",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Environmental Microbiology %26 Biopollution Control",
+    "Paper": "Environmental Microbiology & Biopollution Control",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/AGRI%20AND%20FOOD%20ENGG/Environmental%20Microbiology%20%26%20Biopollution%20Control.pdf",
     "Year": "2012"
   },
@@ -24773,7 +24773,7 @@
   {
     "Department": "AGRI AND FOOD ENGG",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Food Handling %26 Packaging",
+    "Paper": "Food Handling & Packaging",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/AGRI%20AND%20FOOD%20ENGG/Food%20Handling%20%26%20Packaging.pdf",
     "Year": "2012"
   },
@@ -24833,14 +24833,14 @@
   {
     "Department": "AGRI AND FOOD ENGG",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Pharmacognosy %26 Metabolic Engineering",
+    "Paper": "Pharmacognosy & Metabolic Engineering",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/AGRI%20AND%20FOOD%20ENGG/Pharmacognosy%20%26%20Metabolic%20Engineering.pdf",
     "Year": "2012"
   },
   {
     "Department": "AGRI AND FOOD ENGG",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Planning %26 Design of Aquacultural Farms",
+    "Paper": "Planning & Design of Aquacultural Farms",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/AGRI%20AND%20FOOD%20ENGG/Planning%20%26%20Design%20of%20Aquacultural%20Farms.pdf",
     "Year": "2012"
   },
@@ -24882,7 +24882,7 @@
   {
     "Department": "ARCHITECTURE AND REGIONAL PLANNING",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "ADVANCED THEORY OF ARCHITECTURE %26 RESEARCH METHODS",
+    "Paper": "ADVANCED THEORY OF ARCHITECTURE & RESEARCH METHODS",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/ARCHITECTURE%20AND%20REGIONAL%20PLANNING/ADVANCED%20THEORY%20OF%20ARCHITECTURE%20%26%20RESEARCH%20METHODS.pdf",
     "Year": "2012"
   },
@@ -25001,7 +25001,7 @@
   {
     "Department": "CHEMISTRY",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Structures %26 Function of Biomolecules I Chemistry of Biomolecules",
+    "Paper": "Structures & Function of Biomolecules I Chemistry of Biomolecules",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/CHEMISTRY/Structures%20%26%20Function%20of%20Biomolecules%20I%20Chemistry%20of%20Biomolecules.pdf",
     "Year": "2012"
   },
@@ -25134,7 +25134,7 @@
   {
     "Department": "COMPUTER SCIENCE ENGG",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "CSllOOl Programmng %26 Data Structure",
+    "Paper": "CSllOOl Programmng & Data Structure",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/COMPUTER%20SCIENCE%20ENGG/CSllOOl%20Programmng%20%26%20Data%20Structure.pdf",
     "Year": "2012"
   },
@@ -25302,7 +25302,7 @@
   {
     "Department": "Dept. of Humanities %26 Social Sciences",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Modernization %26 Creative Communication",
+    "Paper": "Modernization & Creative Communication",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/Dept.%20of%20Humanities%20%26%20Social%20Sciences/Modernization%20%26%20Creative%20Communication.pdf",
     "Year": "2012"
   },
@@ -25442,7 +25442,7 @@
   {
     "Department": "ELECTRICAL ENGG",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Electromagnetic Field %26 its Applications (EE30012)",
+    "Paper": "Electromagnetic Field & its Applications (EE30012)",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/ELECTRICAL%20ENGG/Electromagnetic%20Field%20%26%20its%20Applications%20(EE30012).pdf",
     "Year": "2012"
   },
@@ -25484,7 +25484,7 @@
   {
     "Department": "industrial engg",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "%A3-Business (IM60054)",
+    "Paper": "£-Business (IM60054)",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/industrial%20engg/%A3-Business%20(IM60054).pdf",
     "Year": "2012"
   },
@@ -25680,7 +25680,7 @@
   {
     "Department": "MATHEMATICS",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Measure Theory %26 Integration",
+    "Paper": "Measure Theory & Integration",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/MATHEMATICS/Measure%20Theory%20%26%20Integration.pdf",
     "Year": "2012"
   },
@@ -25757,14 +25757,14 @@
   {
     "Department": "MATHEMATICS",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Probability %26 Statistics",
+    "Paper": "Probability & Statistics",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/MATHEMATICS/Probability%20%26%20Statistics.pdf",
     "Year": "2012"
   },
   {
     "Department": "MATHEMATICS",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Probability %26 Stochastic Processes",
+    "Paper": "Probability & Stochastic Processes",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/MATHEMATICS/Probability%20%26%20Stochastic%20Processes.pdf",
     "Year": "2012"
   },
@@ -25887,7 +25887,7 @@
   {
     "Department": "ocean engg",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Design %26 Construction of Ocean Structures",
+    "Paper": "Design & Construction of Ocean Structures",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/ocean%20engg/Design%20%26%20Construction%20of%20Ocean%20Structures.pdf",
     "Year": "2012"
   },
@@ -25936,7 +25936,7 @@
   {
     "Department": "ocean engg",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Port %26 Harbour Engineering",
+    "Paper": "Port & Harbour Engineering",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/ocean%20engg/Port%20%26%20Harbour%20Engineering.pdf",
     "Year": "2012"
   },
@@ -25957,7 +25957,7 @@
   {
     "Department": "PHYSICS AND METEOROLOGY",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Atomic %26 Molecular Physics",
+    "Paper": "Atomic & Molecular Physics",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/PHYSICS%20AND%20METEOROLOGY/Atomic%20%26%20Molecular%20Physics.pdf",
     "Year": "2012"
   },
@@ -25971,7 +25971,7 @@
   {
     "Department": "PHYSICS AND METEOROLOGY",
     "Semester": "MID SPRING SEM 2012",
-    "Paper": "Nuclear %26 Particle Physics I",
+    "Paper": "Nuclear & Particle Physics I",
     "Link": "http://10.17.32.9/peqp/2012/MID%20SPRING%20SEM%202012/PHYSICS%20AND%20METEOROLOGY/Nuclear%20%26%20Particle%20Physics%20I.pdf",
     "Year": "2012"
   },
@@ -26020,7 +26020,7 @@
   {
     "Department": "AGRF",
     "Semester": "End Autumne 2013",
-    "Paper": "Climate Change %26 Water Resources",
+    "Paper": "Climate Change & Water Resources",
     "Link": "http://10.17.32.9/peqp/2013/End%20Autumne%202013/AGRF/Climate%20Change%20%26%20Water%20Resources.pdf",
     "Year": "2013"
   },
@@ -26062,7 +26062,7 @@
   {
     "Department": "AGRF",
     "Semester": "End Autumne 2013",
-    "Paper": "GEO-INFORMATICS FOR LAND %26 WATER RESOURCES",
+    "Paper": "GEO-INFORMATICS FOR LAND & WATER RESOURCES",
     "Link": "http://10.17.32.9/peqp/2013/End%20Autumne%202013/AGRF/GEO-INFORMATICS%20FOR%20LAND%20%26%20WATER%20RESOURCES.pdf",
     "Year": "2013"
   },
@@ -26090,7 +26090,7 @@
   {
     "Department": "AGRF",
     "Semester": "End Autumne 2013",
-    "Paper": "Plant Metabolites %26 Separation Technology",
+    "Paper": "Plant Metabolites & Separation Technology",
     "Link": "http://10.17.32.9/peqp/2013/End%20Autumne%202013/AGRF/Plant%20Metabolites%20%26%20Separation%20Technology.pdf",
     "Year": "2013"
   },
@@ -26345,7 +26345,7 @@
   {
     "Department": "AGRICULTURAL %26 FOOD ENGINEERING DEPARTMENT",
     "Semester": "End Spring 2013",
-    "Paper": "Environmental Microbiology %26 Biopollution Control",
+    "Paper": "Environmental Microbiology & Biopollution Control",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/AGRICULTURAL%20%26%20FOOD%20ENGINEERING%20DEPARTMENT/Environmental%20Microbiology%20%26%20Biopollution%20Control.pdf",
     "Year": "2013"
   },
@@ -26398,7 +26398,7 @@
   {
     "Department": "AGRICULTURAL %26 FOOD ENGINEERING DEPARTMENT",
     "Semester": "End Spring 2013",
-    "Paper": "Food Science %26 Technology",
+    "Paper": "Food Science & Technology",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/AGRICULTURAL%20%26%20FOOD%20ENGINEERING%20DEPARTMENT/Food%20Science%20%26%20Technology.pdf",
     "Year": "2013"
   },
@@ -26447,7 +26447,7 @@
   {
     "Department": "AGRICULTURAL %26 FOOD ENGINEERING DEPARTMENT",
     "Semester": "End Spring 2013",
-    "Paper": "Marketing of Food %26 Agricultural Products",
+    "Paper": "Marketing of Food & Agricultural Products",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/AGRICULTURAL%20%26%20FOOD%20ENGINEERING%20DEPARTMENT/Marketing%20of%20Food%20%26%20Agricultural%20Products.pdf",
     "Year": "2013"
   },
@@ -26468,7 +26468,7 @@
   {
     "Department": "AGRICULTURAL %26 FOOD ENGINEERING DEPARTMENT",
     "Semester": "End Spring 2013",
-    "Paper": "Non-Point Source Pollution %26 Managt",
+    "Paper": "Non-Point Source Pollution & Managt",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/AGRICULTURAL%20%26%20FOOD%20ENGINEERING%20DEPARTMENT/Non-Point%20Source%20Pollution%20%26%20Managt.pdf",
     "Year": "2013"
   },
@@ -26489,14 +26489,14 @@
   {
     "Department": "AGRICULTURAL %26 FOOD ENGINEERING DEPARTMENT",
     "Semester": "End Spring 2013",
-    "Paper": "Pharmacognosy %26 Metabolic Engineering",
+    "Paper": "Pharmacognosy & Metabolic Engineering",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/AGRICULTURAL%20%26%20FOOD%20ENGINEERING%20DEPARTMENT/Pharmacognosy%20%26%20Metabolic%20Engineering.pdf",
     "Year": "2013"
   },
   {
     "Department": "AGRICULTURAL %26 FOOD ENGINEERING DEPARTMENT",
     "Semester": "End Spring 2013",
-    "Paper": "Planning %26 Design of Aquacultural Farms",
+    "Paper": "Planning & Design of Aquacultural Farms",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/AGRICULTURAL%20%26%20FOOD%20ENGINEERING%20DEPARTMENT/Planning%20%26%20Design%20of%20Aquacultural%20Farms.pdf",
     "Year": "2013"
   },
@@ -26531,7 +26531,7 @@
   {
     "Department": "AGRICULTURAL %26 FOOD ENGINEERING DEPARTMENT",
     "Semester": "End Spring 2013",
-    "Paper": "Tractor %26 Power Systems",
+    "Paper": "Tractor & Power Systems",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/AGRICULTURAL%20%26%20FOOD%20ENGINEERING%20DEPARTMENT/Tractor%20%26%20Power%20Systems.pdf",
     "Year": "2013"
   },
@@ -26552,7 +26552,7 @@
   {
     "Department": "Architecture and Regional Planning",
     "Semester": "End Spring 2013",
-    "Paper": "ADVANCED THEORY OF ARCHITECTURE %26 RESEARCH METHODS",
+    "Paper": "ADVANCED THEORY OF ARCHITECTURE & RESEARCH METHODS",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Architecture%20and%20Regional%20Planning/ADVANCED%20THEORY%20OF%20ARCHITECTURE%20%26%20RESEARCH%20METHODS.pdf",
     "Year": "2013"
   },
@@ -26629,7 +26629,7 @@
   {
     "Department": "Architecture and Regional Planning",
     "Semester": "End Spring 2013",
-    "Paper": "PROFESSIONAL PRACTICE %26 BUILDING BYE-LAWS",
+    "Paper": "PROFESSIONAL PRACTICE & BUILDING BYE-LAWS",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Architecture%20and%20Regional%20Planning/PROFESSIONAL%20PRACTICE%20%26%20BUILDING%20BYE-LAWS.pdf",
     "Year": "2013"
   },
@@ -26720,7 +26720,7 @@
   {
     "Department": "chemical",
     "Semester": "End Spring 2013",
-    "Paper": "Project Engineering %26 Management",
+    "Paper": "Project Engineering & Management",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/chemical/Project%20Engineering%20%26%20Management.pdf",
     "Year": "2013"
   },
@@ -26734,7 +26734,7 @@
   {
     "Department": "chemistry",
     "Semester": "End Spring 2013",
-    "Paper": "Analytical %26 Environmental Chemistry",
+    "Paper": "Analytical & Environmental Chemistry",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/chemistry/Analytical%20%26%20Environmental%20Chemistry.pdf",
     "Year": "2013"
   },
@@ -26790,14 +26790,14 @@
   {
     "Department": "chemistry",
     "Semester": "End Spring 2013",
-    "Paper": "Strategies %26 Methods in Organic Synthesis",
+    "Paper": "Strategies & Methods in Organic Synthesis",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/chemistry/Strategies%20%26%20Methods%20in%20Organic%20Synthesis.pdf",
     "Year": "2013"
   },
   {
     "Department": "chemistry",
     "Semester": "End Spring 2013",
-    "Paper": "Structure %26 Function of Biomolecules Chemistry of Biomolecules",
+    "Paper": "Structure & Function of Biomolecules Chemistry of Biomolecules",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/chemistry/Structure%20%26%20Function%20of%20Biomolecules%20Chemistry%20of%20Biomolecules.pdf",
     "Year": "2013"
   },
@@ -27007,7 +27007,7 @@
   {
     "Department": "Computer science and Engineering",
     "Semester": "End Spring 2013",
-    "Paper": "Database Man%B7agement Systems",
+    "Paper": "Database Man·agement Systems",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Computer%20science%20and%20Engineering/Database%20Man%B7agement%20Systems.pdf",
     "Year": "2013"
   },
@@ -27077,14 +27077,14 @@
   {
     "Department": "Computer science and Engineering",
     "Semester": "End Spring 2013",
-    "Paper": "Programming %26 Data Structures cs11002",
+    "Paper": "Programming & Data Structures cs11002",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Computer%20science%20and%20Engineering/Programming%20%26%20Data%20Structures%20cs11002.pdf",
     "Year": "2013"
   },
   {
     "Department": "Computer science and Engineering",
     "Semester": "End Spring 2013",
-    "Paper": "Programming %26 Data Structures",
+    "Paper": "Programming & Data Structures",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Computer%20science%20and%20Engineering/Programming%20%26%20Data%20Structures.pdf",
     "Year": "2013"
   },
@@ -27196,7 +27196,7 @@
   {
     "Department": "ECE",
     "Semester": "End Spring 2013",
-    "Paper": "Name RF %26 Microwave Engineering",
+    "Paper": "Name RF & Microwave Engineering",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/ECE/Name%20RF%20%26%20Microwave%20Engineering.pdf",
     "Year": "2013"
   },
@@ -27252,7 +27252,7 @@
   {
     "Department": "electrical engineering",
     "Semester": "End Spring 2013",
-    "Paper": "Electromagnetic Theory %26 Application",
+    "Paper": "Electromagnetic Theory & Application",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/electrical%20engineering/Electromagnetic%20Theory%20%26%20Application.pdf",
     "Year": "2013"
   },
@@ -27294,7 +27294,7 @@
   {
     "Department": "electrical engineering",
     "Semester": "End Spring 2013",
-    "Paper": "Signals %26 Networks",
+    "Paper": "Signals & Networks",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/electrical%20engineering/Signals%20%26%20Networks.pdf",
     "Year": "2013"
   },
@@ -27732,7 +27732,7 @@
   {
     "Department": "Mathematics",
     "Semester": "End Spring 2013",
-    "Paper": "File Organization %26 Database Systems",
+    "Paper": "File Organization & Database Systems",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Mathematics/File%20Organization%20%26%20Database%20Systems.pdf",
     "Year": "2013"
   },
@@ -27788,7 +27788,7 @@
   {
     "Department": "Mathematics",
     "Semester": "End Spring 2013",
-    "Paper": "Measure Theory %26 Integration",
+    "Paper": "Measure Theory & Integration",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Mathematics/Measure%20Theory%20%26%20Integration.pdf",
     "Year": "2013"
   },
@@ -27854,14 +27854,14 @@
   {
     "Department": "Mathematics",
     "Semester": "End Spring 2013",
-    "Paper": "Probability %26 Statistics",
+    "Paper": "Probability & Statistics",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Mathematics/Probability%20%26%20Statistics.pdf",
     "Year": "2013"
   },
   {
     "Department": "Mathematics",
     "Semester": "End Spring 2013",
-    "Paper": "Probability %26 Stochastic Processes",
+    "Paper": "Probability & Stochastic Processes",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Mathematics/Probability%20%26%20Stochastic%20Processes.pdf",
     "Year": "2013"
   },
@@ -28050,14 +28050,14 @@
   {
     "Department": "OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
     "Semester": "End Spring 2013",
-    "Paper": "Computer Aided Marine Design %26 Production",
+    "Paper": "Computer Aided Marine Design & Production",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/Computer%20Aided%20Marine%20Design%20%26%20Production.pdf",
     "Year": "2013"
   },
   {
     "Department": "OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
     "Semester": "End Spring 2013",
-    "Paper": "Design %26 Construction of Ocean Structures",
+    "Paper": "Design & Construction of Ocean Structures",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/Design%20%26%20Construction%20of%20Ocean%20Structures.pdf",
     "Year": "2013"
   },
@@ -28099,7 +28099,7 @@
   {
     "Department": "OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
     "Semester": "End Spring 2013",
-    "Paper": "Ocean Circulation %26 Wave Modeling",
+    "Paper": "Ocean Circulation & Wave Modeling",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/Ocean%20Circulation%20%26%20Wave%20Modeling.pdf",
     "Year": "2013"
   },
@@ -28113,7 +28113,7 @@
   {
     "Department": "OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
     "Semester": "End Spring 2013",
-    "Paper": "Port %26 Harbor Engineering",
+    "Paper": "Port & Harbor Engineering",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/Port%20%26%20Harbor%20Engineering.pdf",
     "Year": "2013"
   },
@@ -28176,14 +28176,14 @@
   {
     "Department": "Physics",
     "Semester": "End Spring 2013",
-    "Paper": "Nuclear %26 Particle Physics I",
+    "Paper": "Nuclear & Particle Physics I",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Physics/Nuclear%20%26%20Particle%20Physics%20I.pdf",
     "Year": "2013"
   },
   {
     "Department": "Physics",
     "Semester": "End Spring 2013",
-    "Paper": "Order %26 Chaos",
+    "Paper": "Order & Chaos",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/Physics/Order%20%26%20Chaos.pdf",
     "Year": "2013"
   },
@@ -28397,7 +28397,7 @@
   {
     "Department": "VGSOM",
     "Semester": "End Spring 2013",
-    "Paper": "Derivatives %26 Risk Management",
+    "Paper": "Derivatives & Risk Management",
     "Link": "http://10.17.32.9/peqp/2013/End%20Spring%202013/VGSOM/Derivatives%20%26%20Risk%20Management.pdf",
     "Year": "2013"
   },
@@ -28425,21 +28425,21 @@
   {
     "Department": "AGRF",
     "Semester": "Mid Autumn 2013",
-    "Paper": "AG60061%26 Crop Production Systems",
+    "Paper": "AG60061& Crop Production Systems",
     "Link": "http://10.17.32.9/peqp/2013/Mid%20Autumn%202013/AGRF/AG60061%26%20Crop%20Production%20Systems.pdf",
     "Year": "2013"
   },
   {
     "Department": "AGRF",
     "Semester": "Mid Autumn 2013",
-    "Paper": "Climate Change %26 Water Resources",
+    "Paper": "Climate Change & Water Resources",
     "Link": "http://10.17.32.9/peqp/2013/Mid%20Autumn%202013/AGRF/Climate%20Change%20%26%20Water%20Resources.pdf",
     "Year": "2013"
   },
   {
     "Department": "AGRF",
     "Semester": "Mid Autumn 2013",
-    "Paper": "Computer Aided Design %26 Simulation of Agricultural Machinery",
+    "Paper": "Computer Aided Design & Simulation of Agricultural Machinery",
     "Link": "http://10.17.32.9/peqp/2013/Mid%20Autumn%202013/AGRF/Computer%20Aided%20Design%20%26%20Simulation%20of%20Agricultural%20Machinery.pdf",
     "Year": "2013"
   },
@@ -28474,7 +28474,7 @@
   {
     "Department": "AGRF",
     "Semester": "Mid Autumn 2013",
-    "Paper": "GEO-INFORMA TICS FOR LAND %26 WATER RESOURCES (AG60203)",
+    "Paper": "GEO-INFORMA TICS FOR LAND & WATER RESOURCES (AG60203)",
     "Link": "http://10.17.32.9/peqp/2013/Mid%20Autumn%202013/AGRF/GEO-INFORMA%20TICS%20FOR%20LAND%20%26%20WATER%20RESOURCES%20(AG60203).pdf",
     "Year": "2013"
   },
@@ -28495,7 +28495,7 @@
   {
     "Department": "AGRF",
     "Semester": "Mid Autumn 2013",
-    "Paper": "Plant Metabolites %26 Separation Technology",
+    "Paper": "Plant Metabolites & Separation Technology",
     "Link": "http://10.17.32.9/peqp/2013/Mid%20Autumn%202013/AGRF/Plant%20Metabolites%20%26%20Separation%20Technology.pdf",
     "Year": "2013"
   },
@@ -28765,7 +28765,7 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "MID SPRING 2013",
-    "Paper": "CropoBreeding %26 Biotechnological Applications",
+    "Paper": "CropoBreeding & Biotechnological Applications",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/CropoBreeding%20%26%20Biotechnological%20Applications.pdf",
     "Year": "2013"
   },
@@ -28779,7 +28779,7 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "MID SPRING 2013",
-    "Paper": "Environmental Microbiology %26 Biopollution Control",
+    "Paper": "Environmental Microbiology & Biopollution Control",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Environmental%20Microbiology%20%26%20Biopollution%20Control.pdf",
     "Year": "2013"
   },
@@ -28793,14 +28793,14 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "MID SPRING 2013",
-    "Paper": "Food Science %26 Technology%B7",
+    "Paper": "Food Science & Technology·",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Food%20Science%20%26%20Technology%B7.pdf",
     "Year": "2013"
   },
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "MID SPRING 2013",
-    "Paper": "Geo-Informatics for Land %26 Water Resources (AG 60203) END SEM",
+    "Paper": "Geo-Informatics for Land & Water Resources (AG 60203) END SEM",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Geo-Informatics%20for%20Land%20%26%20Water%20Resources%20(AG%2060203)%20END%20SEM.pdf",
     "Year": "2013"
   },
@@ -28821,14 +28821,14 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "MID SPRING 2013",
-    "Paper": "Irrigation %26 Drainage Engineering (No. AG 31 004)",
+    "Paper": "Irrigation & Drainage Engineering (No. AG 31 004)",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Irrigation%20%26%20Drainage%20Engineering%20(No.%20AG%2031%20004).pdf",
     "Year": "2013"
   },
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "MID SPRING 2013",
-    "Paper": "L WRE %26 Water Management",
+    "Paper": "L WRE & Water Management",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/L%20WRE%20%26%20Water%20Management.pdf",
     "Year": "2013"
   },
@@ -28842,7 +28842,7 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "MID SPRING 2013",
-    "Paper": "Marketing of Food %26 Agricultural Products",
+    "Paper": "Marketing of Food & Agricultural Products",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Marketing%20of%20Food%20%26%20Agricultural%20Products.pdf",
     "Year": "2013"
   },
@@ -28884,21 +28884,21 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "MID SPRING 2013",
-    "Paper": "Pages from Planning %26 Design of Aquacultural Farms-",
+    "Paper": "Pages from Planning & Design of Aquacultural Farms-",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Pages%20from%20Planning%20%26%20Design%20of%20Aquacultural%20Farms-.pdf",
     "Year": "2013"
   },
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "MID SPRING 2013",
-    "Paper": "Pharmacognosy %26 Metabolic Engineering",
+    "Paper": "Pharmacognosy & Metabolic Engineering",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Pharmacognosy%20%26%20Metabolic%20Engineering.pdf",
     "Year": "2013"
   },
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "MID SPRING 2013",
-    "Paper": "Planning %26 Design of Aquacultural Farms",
+    "Paper": "Planning & Design of Aquacultural Farms",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Planning%20%26%20Design%20of%20Aquacultural%20Farms.pdf",
     "Year": "2013"
   },
@@ -28940,7 +28940,7 @@
   {
     "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
     "Semester": "MID SPRING 2013",
-    "Paper": "Tractor %26 Power Systems",
+    "Paper": "Tractor & Power Systems",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Tractor%20%26%20Power%20Systems.pdf",
     "Year": "2013"
   },
@@ -28968,7 +28968,7 @@
   {
     "Department": "ARCHITECTURE AND REGIONAL PLANNING",
     "Semester": "MID SPRING 2013",
-    "Paper": "ADVANCED THEORY OF ARCHITECTURE %26 RESEARCH METHODS",
+    "Paper": "ADVANCED THEORY OF ARCHITECTURE & RESEARCH METHODS",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/ARCHITECTURE%20AND%20REGIONAL%20PLANNING/ADVANCED%20THEORY%20OF%20ARCHITECTURE%20%26%20RESEARCH%20METHODS.pdf",
     "Year": "2013"
   },
@@ -29045,7 +29045,7 @@
   {
     "Department": "ARCHITECTURE AND REGIONAL PLANNING",
     "Semester": "MID SPRING 2013",
-    "Paper": "PROFESSIONAL PRACTICE %26 BUILDING BYE-LAWS",
+    "Paper": "PROFESSIONAL PRACTICE & BUILDING BYE-LAWS",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/ARCHITECTURE%20AND%20REGIONAL%20PLANNING/PROFESSIONAL%20PRACTICE%20%26%20BUILDING%20BYE-LAWS.pdf",
     "Year": "2013"
   },
@@ -29066,7 +29066,7 @@
   {
     "Department": "BIOTECHNOLOGY DEPARTMENT",
     "Semester": "MID SPRING 2013",
-    "Paper": "Plant Cell %26 Tissue Culture",
+    "Paper": "Plant Cell & Tissue Culture",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/BIOTECHNOLOGY%20DEPARTMENT/Plant%20Cell%20%26%20Tissue%20Culture.pdf",
     "Year": "2013"
   },
@@ -29136,14 +29136,14 @@
   {
     "Department": "CHEMICAL ENGINEERING",
     "Semester": "MID SPRING 2013",
-    "Paper": "Project Engineering %26 Management",
+    "Paper": "Project Engineering & Management",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/CHEMICAL%20ENGINEERING/Project%20Engineering%20%26%20Management.pdf",
     "Year": "2013"
   },
   {
     "Department": "CHEMISTRY",
     "Semester": "MID SPRING 2013",
-    "Paper": "Analytical %26 Environmental Chemistry",
+    "Paper": "Analytical & Environmental Chemistry",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/CHEMISTRY/Analytical%20%26%20Environmental%20Chemistry.pdf",
     "Year": "2013"
   },
@@ -29171,7 +29171,7 @@
   {
     "Department": "CHEMISTRY",
     "Semester": "MID SPRING 2013",
-    "Paper": "MOLECULAR THERMODYNAMICS %26 KINETICS",
+    "Paper": "MOLECULAR THERMODYNAMICS & KINETICS",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/CHEMISTRY/MOLECULAR%20THERMODYNAMICS%20%26%20KINETICS.pdf",
     "Year": "2013"
   },
@@ -29199,14 +29199,14 @@
   {
     "Department": "CHEMISTRY",
     "Semester": "MID SPRING 2013",
-    "Paper": "Strategies %26 Methods in Organic Synthesis",
+    "Paper": "Strategies & Methods in Organic Synthesis",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/CHEMISTRY/Strategies%20%26%20Methods%20in%20Organic%20Synthesis.pdf",
     "Year": "2013"
   },
   {
     "Department": "CIVIL ENGINEERING",
     "Semester": "MID SPRING 2013",
-    "Paper": "ADVANCED FOUNDATION ENGINEERING%B7 END SEM",
+    "Paper": "ADVANCED FOUNDATION ENGINEERING· END SEM",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/CIVIL%20ENGINEERING/ADVANCED%20FOUNDATION%20ENGINEERING%B7%20END%20SEM.pdf",
     "Year": "2013"
   },
@@ -29416,7 +29416,7 @@
   {
     "Department": "COMPUTER SCIENCE",
     "Semester": "MID SPRING 2013",
-    "Paper": "PROGRAMMING %26 DATA STRUCTURES",
+    "Paper": "PROGRAMMING & DATA STRUCTURES",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/COMPUTER%20SCIENCE/PROGRAMMING%20%26%20DATA%20STRUCTURES.pdf",
     "Year": "2013"
   },
@@ -29542,7 +29542,7 @@
   {
     "Department": "ELECTRICAL ENGINEERING",
     "Semester": "MID SPRING 2013",
-    "Paper": "Electromagnetic Theory %26 Application",
+    "Paper": "Electromagnetic Theory & Application",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/ELECTRICAL%20ENGINEERING/Electromagnetic%20Theory%20%26%20Application.pdf",
     "Year": "2013"
   },
@@ -29696,7 +29696,7 @@
   {
     "Department": "HSS",
     "Semester": "MID SPRING 2013",
-    "Paper": "Modernisation and%B7 Creative Collli11unication",
+    "Paper": "Modernisation and· Creative Collli11unication",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/HSS/Modernisation%20and%B7%20Creative%20Collli11unication.pdf",
     "Year": "2013"
   },
@@ -29941,7 +29941,7 @@
   {
     "Department": "mathematics",
     "Semester": "MID SPRING 2013",
-    "Paper": "File Organization %26 Database Systems",
+    "Paper": "File Organization & Database Systems",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/mathematics/File%20Organization%20%26%20Database%20Systems.pdf",
     "Year": "2013"
   },
@@ -30008,7 +30008,7 @@
   {
     "Department": "mathematics",
     "Semester": "MID SPRING 2013",
-    "Paper": "Measure Theory %26 Integration",
+    "Paper": "Measure Theory & Integration",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/mathematics/Measure%20Theory%20%26%20Integration.pdf",
     "Year": "2013"
   },
@@ -30092,14 +30092,14 @@
   {
     "Department": "mathematics",
     "Semester": "MID SPRING 2013",
-    "Paper": "Probability %26 Statistics",
+    "Paper": "Probability & Statistics",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/mathematics/Probability%20%26%20Statistics.pdf",
     "Year": "2013"
   },
   {
     "Department": "mathematics",
     "Semester": "MID SPRING 2013",
-    "Paper": "Probability%26 Stochastic Processes",
+    "Paper": "Probability& Stochastic Processes",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/mathematics/Probability%26%20Stochastic%20Processes.pdf",
     "Year": "2013"
   },
@@ -30288,14 +30288,14 @@
   {
     "Department": "PHYSICS",
     "Semester": "MID SPRING 2013",
-    "Paper": "Nuclear %26 Particle Physics I",
+    "Paper": "Nuclear & Particle Physics I",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/PHYSICS/Nuclear%20%26%20Particle%20Physics%20I.pdf",
     "Year": "2013"
   },
   {
     "Department": "PHYSICS",
     "Semester": "MID SPRING 2013",
-    "Paper": "Order %26 Chaos",
+    "Paper": "Order & Chaos",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/PHYSICS/Order%20%26%20Chaos.pdf",
     "Year": "2013"
   },
@@ -30344,7 +30344,7 @@
   {
     "Department": "RAJENDRA MISHRA SCHOOL OF ENGINEERING AND ENTREPRENEURSHIP",
     "Semester": "MID SPRING 2013",
-    "Paper": "Managem~nt%B7ofGrowth Ventures",
+    "Paper": "Managem~nt·ofGrowth Ventures",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/RAJENDRA%20MISHRA%20SCHOOL%20OF%20ENGINEERING%20AND%20ENTREPRENEURSHIP/Managem~nt%B7ofGrowth%20Ventures.pdf",
     "Year": "2013"
   },
@@ -30443,7 +30443,7 @@
   {
     "Department": "RAJIV GANDHI SCHOOL OF INTELLECTUAL PROPERTY LAW",
     "Semester": "MID SPRING 2013",
-    "Paper": "Introduction to Intellectual %B7Property.Law",
+    "Paper": "Introduction to Intellectual ·Property.Law",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/RAJIV%20GANDHI%20SCHOOL%20OF%20INTELLECTUAL%20PROPERTY%20LAW/Introduction%20to%20Intellectual%20%B7Property.Law.pdf",
     "Year": "2013"
   },
@@ -30457,7 +30457,7 @@
   {
     "Department": "RAJIV GANDHI SCHOOL OF INTELLECTUAL PROPERTY LAW",
     "Semester": "MID SPRING 2013",
-    "Paper": "Labour and Industrial Law%B7 II",
+    "Paper": "Labour and Industrial Law· II",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/RAJIV%20GANDHI%20SCHOOL%20OF%20INTELLECTUAL%20PROPERTY%20LAW/Labour%20and%20Industrial%20Law%B7%20II.pdf",
     "Year": "2013"
   },
@@ -30534,7 +30534,7 @@
   {
     "Department": "VGSOM",
     "Semester": "MID SPRING 2013",
-    "Paper": "Derivatives %26 Risk Management",
+    "Paper": "Derivatives & Risk Management",
     "Link": "http://10.17.32.9/peqp/2013/MID%20SPRING%202013/VGSOM/Derivatives%20%26%20Risk%20Management.pdf",
     "Year": "2013"
   },
@@ -30856,7 +30856,7 @@
   {
     "Department": "agrf",
     "Semester": "Mid Spring 2014",
-    "Paper": "Crop Breeding %26 Biotechnological",
+    "Paper": "Crop Breeding & Biotechnological",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/agrf/Crop%20Breeding%20%26%20Biotechnological.pdf",
     "Year": "2014"
   },
@@ -30870,7 +30870,7 @@
   {
     "Department": "agrf",
     "Semester": "Mid Spring 2014",
-    "Paper": "Environmental Microbiology %26 Biopollution Control",
+    "Paper": "Environmental Microbiology & Biopollution Control",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/agrf/Environmental%20Microbiology%20%26%20Biopollution%20Control.pdf",
     "Year": "2014"
   },
@@ -30902,7 +30902,7 @@
   {
     "Department": "agrf",
     "Semester": "Mid Spring 2014",
-    "Paper": "Food Process %26 Product Technology",
+    "Paper": "Food Process & Product Technology",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/agrf/Food%20Process%20%26%20Product%20Technology.pdf",
     "Year": "2014"
   },
@@ -30916,7 +30916,7 @@
   {
     "Department": "agrf",
     "Semester": "Mid Spring 2014",
-    "Paper": "Food Science %26 Technology",
+    "Paper": "Food Science & Technology",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/agrf/Food%20Science%20%26%20Technology.pdf",
     "Year": "2014"
   },
@@ -30937,14 +30937,14 @@
   {
     "Department": "agrf",
     "Semester": "Mid Spring 2014",
-    "Paper": "Irrigation %26 Dramage Engmeenng",
+    "Paper": "Irrigation & Dramage Engmeenng",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/agrf/Irrigation%20%26%20Dramage%20Engmeenng.pdf",
     "Year": "2014"
   },
   {
     "Department": "agrf",
     "Semester": "Mid Spring 2014",
-    "Paper": "Management %26 Productivity",
+    "Paper": "Management & Productivity",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/agrf/Management%20%26%20Productivity.pdf",
     "Year": "2014"
   },
@@ -30979,7 +30979,7 @@
   {
     "Department": "agrf",
     "Semester": "Mid Spring 2014",
-    "Paper": "Non-point source poll.%26 Manage",
+    "Paper": "Non-point source poll.& Manage",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/agrf/Non-point%20source%20poll.%26%20Manage.pdf",
     "Year": "2014"
   },
@@ -31000,14 +31000,14 @@
   {
     "Department": "agrf",
     "Semester": "Mid Spring 2014",
-    "Paper": "Pharmacognosy %26 Metabolic Engineering",
+    "Paper": "Pharmacognosy & Metabolic Engineering",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/agrf/Pharmacognosy%20%26%20Metabolic%20Engineering.pdf",
     "Year": "2014"
   },
   {
     "Department": "agrf",
     "Semester": "Mid Spring 2014",
-    "Paper": "Planning %26 Design of Aquacultural Farms",
+    "Paper": "Planning & Design of Aquacultural Farms",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/agrf/Planning%20%26%20Design%20of%20Aquacultural%20Farms.pdf",
     "Year": "2014"
   },
@@ -31042,7 +31042,7 @@
   {
     "Department": "agrf",
     "Semester": "Mid Spring 2014",
-    "Paper": "Tractor %26 Power Systems",
+    "Paper": "Tractor & Power Systems",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/agrf/Tractor%20%26%20Power%20Systems.pdf",
     "Year": "2014"
   },
@@ -31070,7 +31070,7 @@
   {
     "Department": "Arospace",
     "Semester": "Mid Spring 2014",
-    "Paper": "Aircraft Stability %26 Control",
+    "Paper": "Aircraft Stability & Control",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/Arospace/Aircraft%20Stability%20%26%20Control.pdf",
     "Year": "2014"
   },
@@ -31210,7 +31210,7 @@
   {
     "Department": "Chemical Engineering",
     "Semester": "Mid Spring 2014",
-    "Paper": "Project Engineering %26 Management",
+    "Paper": "Project Engineering & Management",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/Chemical%20Engineering/Project%20Engineering%20%26%20Management.pdf",
     "Year": "2014"
   },
@@ -31224,7 +31224,7 @@
   {
     "Department": "chemistry",
     "Semester": "Mid Spring 2014",
-    "Paper": "Analytical %26 Environmental Chemistry",
+    "Paper": "Analytical & Environmental Chemistry",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/chemistry/Analytical%20%26%20Environmental%20Chemistry.pdf",
     "Year": "2014"
   },
@@ -31252,7 +31252,7 @@
   {
     "Department": "chemistry",
     "Semester": "Mid Spring 2014",
-    "Paper": "Structures %26 Function of Biomolecules",
+    "Paper": "Structures & Function of Biomolecules",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/chemistry/Structures%20%26%20Function%20of%20Biomolecules.pdf",
     "Year": "2014"
   },
@@ -31392,7 +31392,7 @@
   {
     "Department": "Computer Science and Engineering",
     "Semester": "Mid Spring 2014",
-    "Paper": "software%B7 Engineering",
+    "Paper": "software· Engineering",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/Computer%20Science%20and%20Engineering/software%B7%20Engineering.pdf",
     "Year": "2014"
   },
@@ -31441,7 +31441,7 @@
   {
     "Department": "Electrical Engineering",
     "Semester": "Mid Spring 2014",
-    "Paper": "Electromagnetic Theory %26 Application",
+    "Paper": "Electromagnetic Theory & Application",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/Electrical%20Engineering/Electromagnetic%20Theory%20%26%20Application.pdf",
     "Year": "2014"
   },
@@ -31756,7 +31756,7 @@
   {
     "Department": "Mathematics",
     "Semester": "Mid Spring 2014",
-    "Paper": "File Organization %26 Database Systems",
+    "Paper": "File Organization & Database Systems",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/Mathematics/File%20Organization%20%26%20Database%20Systems.pdf",
     "Year": "2014"
   },
@@ -31868,7 +31868,7 @@
   {
     "Department": "Mathematics",
     "Semester": "Mid Spring 2014",
-    "Paper": "Measure Theory %26 Integration",
+    "Paper": "Measure Theory & Integration",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/Mathematics/Measure%20Theory%20%26%20Integration.pdf",
     "Year": "2014"
   },
@@ -31903,7 +31903,7 @@
   {
     "Department": "Mathematics",
     "Semester": "Mid Spring 2014",
-    "Paper": "Probability %26 Stochastic Processes",
+    "Paper": "Probability & Stochastic Processes",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/Mathematics/Probability%20%26%20Stochastic%20Processes.pdf",
     "Year": "2014"
   },
@@ -31973,7 +31973,7 @@
   {
     "Department": "mechanical engineering",
     "Semester": "Mid Spring 2014",
-    "Paper": "Machine Tools and Machining (ME30604%7D",
+    "Paper": "Machine Tools and Machining (ME30604}",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/mechanical%20engineering/Machine%20Tools%20and%20Machining%20(ME30604%7D.pdf",
     "Year": "2014"
   },
@@ -32078,7 +32078,7 @@
   {
     "Department": "ocean and naval architecture",
     "Semester": "Mid Spring 2014",
-    "Paper": "Seakeeping %26 Maneuvering",
+    "Paper": "Seakeeping & Maneuvering",
     "Link": "http://10.17.32.9/peqp/2014/Mid%20Spring%202014/ocean%20and%20naval%20architecture/Seakeeping%20%26%20Maneuvering.pdf",
     "Year": "2014"
   },
