@@ -11,13 +11,8 @@ MID_AUTUMN_PERIOD = ["#{this_year}-10-01","#{this_year}-11-30"]
 END_AUTUMN_PERIOD = ["#{this_year}-12-01","#{(this_year.to_i+1).to_s}-02-14"]
 
 def semester_exists semester
-  possible_semesters = /(mid|end) (spring|autumn) (20)([0-9]{2})/
-    if possible_semesters.match(semester)
-      return true
-    else
-      return false
-    end
-end
+  /(mid|end) (spring|autumn) (20)([0-9]{2})/.match(semester)
+end	
 
 def default today
   this_year = Date.today.strftime("%Y")
@@ -32,18 +27,21 @@ def default today
   end
 end
 
-if ARGV.length == 1 && ARGV[0] == "pretty"
-  pretty = true
-  ARGV.clear
-end
+pretty = false
+testing = false
 
-if ARGV.length == 1 && ARGV[0] == "testing"
-  testing = true
+if ARGV.length == 1
+  case ARGV[0]
+  when "pretty"
+    pretty = true
+  when "testing"
+    testing = true
+  end
   ARGV.clear
 end
 
 obj = JSON.parse(File.read("data/data.json"))
-puts "#{obj.length} objects earlier!"
+puts "DEBUG: #{obj.length} before object addition!"
 
 # Find out default semester
 default_semester = default(Date.today.to_s)
