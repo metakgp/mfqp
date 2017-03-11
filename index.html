@@ -69,6 +69,31 @@
              text-align: center;
          }
 
+         .button {
+             background-color: #1b1b1b;
+             border: none;
+             color: white;
+             padding: 2px 4px;
+             border-radius: 4px;
+             text-align: center;
+             text-decoration: none;
+             display: inline-block;
+             font-size: 18px;
+             font-weight: bold;
+             margin: 4px 2px;
+             cursor: pointer;
+         }
+
+         #fboverlay {
+               opacity: 1;
+              filter: alpha(opacity=100);
+              -webkit-filter: grayscale(100%);
+              -moz-filter: grayscale(100%);
+              -o-filter: grayscale(100%);
+              -ms-filter: grayscale(100%);
+              filter: grayscale(100%);
+         }
+
         </style>
         <script type="text/javascript">
          var fuse;
@@ -164,7 +189,10 @@
         </div>
         <div class="ratings">
             <div><a href="http://metakgp.github.io/"><img src="ratings.png" width="50%"></a></div>
-            <div class="fb-page" data-href="https://www.facebook.com/metakgp" data-width="180" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"></div></div>
+            <footer style="align-items: center;">
+              <div><a href="https://metakgp.github.io/mfqp-source/" class="button">Upload question paper</a></div>
+              <div id="fboverlay" class="fb-like" data-href="https://www.facebook.com/metakgp/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false" data-colorscheme="dark"></div>
+            </footer>
         </div>
     </body>
 </html>
