@@ -100,7 +100,7 @@ unless ARGV[0].nil?
   ARGV.clear
 end
 
-filename = "date.json"
+filename = "data/data.json"
 default_semester = default(Date.today.to_s)
 batch , batch_semester = loop_batch default_semester
 obj = (File.exists? filename) ? JSON.parse(File.read(filename)) : []
