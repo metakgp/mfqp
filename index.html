@@ -93,7 +93,7 @@
 
              var worker = new Worker('./resources/scripts/worker2.js');
 
-             $.getJSON("./resources/data/data.json")
+             $.getJSON("./data/data.json")
               .success(function(json) {
                   worker.postMessage({type: 'data', data: json});
               })

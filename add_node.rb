@@ -42,7 +42,7 @@ if ARGV.length == 1 && ARGV[0] == "testing"
   ARGV.clear
 end
 
-obj = JSON.parse(File.read("resoures/data/data.json"))
+obj = JSON.parse(File.read("data/data.json"))
 puts "#{obj.length} objects earlier!"
 
 # Find out default semester
@@ -117,10 +117,10 @@ end
 
 if not testing
   puts "#{obj.length} papers now."
-  File.delete("resources/data/data.json")
+  File.delete("data/data.json")
   if pretty
-    File.open("resources/data/data.json", "w") { |file| file.write(JSON.pretty_generate(obj)) }
+    File.open("data/data.json", "w") { |file| file.write(JSON.pretty_generate(obj)) }
   else
-    File.open("resources/data/data.json", "w") { |file| file.write(JSON.generate(obj)) }
+    File.open("data/data.json", "w") { |file| file.write(JSON.generate(obj)) }
   end
 end
