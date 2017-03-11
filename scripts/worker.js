@@ -1,5 +1,3 @@
-importScripts('fuse.min.js');
-
 var data;
 var fuseLengths = [8, 16, 32, 64, 128];
 var fuses = [];
