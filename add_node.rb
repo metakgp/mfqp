@@ -40,8 +40,7 @@ if ARGV.length == 1
   ARGV.clear
 end
 
-
-obj = JSON.parse(File.read("data.json"))
+obj = JSON.parse(File.read("data/data.json"))
 puts "DEBUG: #{obj.length} before object addition!"
 
 # Find out default semester
@@ -56,11 +55,11 @@ while !["y","Y","n","N"].include? batch
     while !semester_exists(batch_semester)
       puts "Enter batch semester (#{default_semester}) : "
       batch_semester = gets.chomp
-      if batch_semester.length == 0 
+      if batch_semester.length == 0
         batch_semester = default_semester
         puts "Used default semester"
       end
-    end	
+    end
   elsif batch.downcase == "n"
     puts "Batch insert is not chosen."
   else
@@ -84,14 +83,14 @@ while true
   semester = ""
 
   if batch.downcase == "n"
-    while !semester_exists(semester) 
+    while !semester_exists(semester)
       puts "Enter semester (#{default_semester}) : "
       semester = gets.chomp
       if semester.length == 0
         semester = default_semester
         puts "Used default semester"
       end
-    end	
+    end
   else
     semester = batch_semester
   end
@@ -116,10 +115,10 @@ end
 
 if not testing
   puts "#{obj.length} papers now."
-  File.delete("data.json")
+  File.delete("data/data.json")
   if pretty
-    File.open("data.json", "w") { |file| file.write(JSON.pretty_generate(obj)) }
+    File.open("data/data.json", "w") { |file| file.write(JSON.pretty_generate(obj)) }
   else
-    File.open("data.json", "w") { |file| file.write(JSON.generate(obj)) }
+    File.open("data/data.json", "w") { |file| file.write(JSON.generate(obj)) }
   end
 end
