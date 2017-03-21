@@ -101,7 +101,7 @@
                  param_str.split("&").forEach(function (param) {
                      params[param.split("=")[0]] = param.split("=")[1];
                      if(param.split("=")[0] == 'search') {
-                         param_query = param.split("=")[1]
+                         param_query = decodeURIComponent(param.split("=")[1])
                      }
                  })
              }
