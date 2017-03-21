@@ -125,7 +125,7 @@
              worker.onmessage = function(e) {
                  if(e.data.callback == "data") {
                     if(param_query) {
-                        search(param_query);
+                        search();
                     }
                 } else if (e.data.callback == "query") {
                     var results = e.data;
