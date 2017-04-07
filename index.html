@@ -104,6 +104,7 @@
                 worker.postMessage({type: 'data', data: json});
                 var search_query = $.url("?").search;
                 if (search_query) {
+                  search_query = search_query.slice(0, -1);
                   $("#query").val(search_query);
                   search();
                 }
