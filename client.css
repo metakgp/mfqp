@@ -1,4 +1,3 @@
-
 .query-div {
   text-align: center;
   margin-top: 4em;
@@ -66,3 +65,6 @@ textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {
   cursor: pointer;
 }
 
+.local-storage-div {
+  margin-top: 6em;
+}

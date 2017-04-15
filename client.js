@@ -3,12 +3,45 @@ var nextQuery = null;
 var processing = false;
 var currentQuery = null;
 
+var addItem = function(item) {
+  $("ul.local-storage-list").append("<li>" + item + "</li>");
+};
+
 $(function() {
 
   $('#query').focus();
+  // populate the left side localStorage list
+  // if the localStorage exists, else hide div
+  if(!localStorage.getItem("searched")) {
+    $("div.local-storage-div").hide();
+  } else {
+    var history = localStorage.getItem("searched");
+    $.each(history.split(","), function(index, item) {
+      addItem(item);
+    });
+  }
+
+  $(document).click(function(e) {
+    console.log("Clicked somewhere in the doc");
+    // figure out if this is a result click
+    if(e.target.classList.contains("result-link")) {
+      // this is a result link
+      var query_value = $("#query").val().trim();
+      if(localStorage.getItem("searched")) {
+        localStorage.setItem("searched", localStorage.getItem("searched") + "," + query_value);
+      } else {
+        localStorage.setItem("searched", query_value);
+      }
+      addItem(query_value);
+      if(!$("div.local-storage-div").is(":visible")) {
+        $("div.local-storage-div").show();
+      }
+      console.log("Local storage: " + localStorage.getItem("searched"));
+    }
+  });
+
 
   var worker = new Worker('resources/scripts/worker2.js');
-
   $.getJSON("data/data.json")
   .success(function(json) {
     worker.postMessage({type: 'data', data: json});

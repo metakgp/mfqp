@@ -7,6 +7,8 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/2.6.1/fuse.min.js"></script>
         <link rel="stylesheet" href="resources/styles/main.css">
         <link rel="shortcut icon" href="resources/images/favicon.ico?v=1" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+       <link rel="stylesheet" href="client.css" />
         <title>mfqp</title>
         <script>
          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -18,8 +20,8 @@
          ga('send', 'pageview');
 
        </script>
-       <link rel="stylesheet" href="client.css" />
-       <script type="text/javascript" src="client.js"></script>
+
+       <script src="client.js"></script>
     </head>
     <body>
         <div id="fb-root"></div>
@@ -30,6 +32,20 @@
             js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=566171210148246";
             fjs.parentNode.insertBefore(js, fjs);
          }(document, 'script', 'facebook-jssdk'));</script>
+
+				<div class="container-fluid">
+
+					<div class="row">
+
+					<div class="col-md-2">
+						<div class="local-storage-div">
+						<h3>Previous searches</h3>
+						<ul class="local-storage-list">
+						</ul>
+					</div>
+					</div>
+
+					<div class="col-md-8">
 
         <div class="query-div">
             <input type="text" id="query" placeholder="Search for question papers..."></input>
@@ -54,5 +70,12 @@
               <div class="fb-like" data-href="https://www.facebook.com/metakgp/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false" data-colorscheme="dark"></div>
              </footer>
         </div>
+			</div>
+
+			<div class="col-md-2">
+			</div>
+		</div>
+	</div>
+				<script src="local-storage.js"></script>
     </body>
 </html>
