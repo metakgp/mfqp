@@ -2,6 +2,7 @@
     <head>
         <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
         <script src="resources/scripts/string_score.min.js"></script>
+        <script src="https://cdn.rawgit.com/websanova/js-url/daeed5ec/url.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/2.6.1/fuse.min.js"></script>
         <link rel="stylesheet" href="resources/styles/main.css">
@@ -100,7 +101,15 @@
 
              $.getJSON("data/data.json")
               .success(function(json) {
-                  worker.postMessage({type: 'data', data: json});
+                worker.postMessage({type: 'data', data: json});
+                var search_query = $.url("?").search;
+                if (search_query) {
+                  while (search_query[search_query.length-1] == "/"){
+                    search_query = search_query.slice(0, -1);
+                  }
+                  $("#query").val(search_query);
+                  search();
+                }
               })
               .error(function(jqxhr, status, err) {
                   console.log(jqxhr, status, err);
@@ -151,7 +160,6 @@
              }, 200);
 
              $('#query').keydown(search);
-
          });
         </script>
     </head>
