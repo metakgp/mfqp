@@ -13,6 +13,7 @@ onmessage = function(e) {
                 data[i][fields[f]] = data[i][fields[f]].toLowerCase();
             }
         }
+        postMessage({ callback:"data" })
     } else if (e.data.type === 'query') {
         var query = e.data.query;
         query = query.toLowerCase();
@@ -41,6 +42,6 @@ onmessage = function(e) {
         });
         var results = data.slice(0, 40);
         console.log('results: ', results);
-        postMessage(results);
+        postMessage({ callback: "query", data: results });
     }
 };

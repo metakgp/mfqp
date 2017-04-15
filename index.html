@@ -94,6 +94,22 @@
          var currentQuery = null;
 
          $(function() {
+             var url = document.location.href;
+             param_str = url.split("?")[1];
+             var params = {};
+             var param_query;
+             if(param_str) {
+                 param_str.split("&").forEach(function (param) {
+                     params[param.split("=")[0]] = param.split("=")[1];
+                     if(param.split("=")[0] == 'search') {
+                         param_query = param.split("=")[1]
+                     }
+                 })
+             }
+
+             if(param_query) {
+                 $("#query").val(param_query)
+             }
 
              $('#query').focus();
 
@@ -115,15 +131,22 @@
                   console.log(jqxhr, status, err);
               });
 
-             worker.onmessage = function(results) {
-                 processing = false;
-                 $('.sk-folding-cube').addClass('hidden');
-                 displayResults(results.data);
-                 if (nextQuery !== null) {
-                     var query = nextQuery;
-                     nextQuery = null;
-                     search(query);
-                 }
+             worker.onmessage = function(e) {
+                 if(e.data.callback == "data") {
+                    if(param_query) {
+                        search(param_query);
+                    }
+                } else if (e.data.callback == "query") {
+                    var results = e.data;
+                    processing = false;
+                    $('.sk-folding-cube').addClass('hidden');
+                    displayResults(results.data);
+                    if (nextQuery !== null) {
+                        var query = nextQuery;
+                        nextQuery = null;
+                        search(query);
+                    }
+                }
              }
 
              function displayResults(results) {
@@ -140,6 +163,9 @@
              var search = _.debounce(function() {
                  $('.ratings').addClass('hidden');
                  var query = $('#query').val().trim();
+                 if(param_query) {
+                     var query = param_query.trim();
+                 }
                  if (query === '') {
                      $('.result-list').html('');
                      $('.ratings').removeClass('hidden');
