@@ -1,0 +1,68 @@
+
+.query-div {
+  text-align: center;
+  margin-top: 4em;
+  position: relative;
+  width: 70%;
+  margin-left: 15%;
+}
+.sk-folding-cube {
+  display: inline-block;
+  margin: 1em;
+  margin-left: 3em;
+  vertical-align: middle;
+  position: absolute;
+  right: 5%;
+}
+.query-div input {
+  font-size: 3em;
+  font-family: Roboto, Titillium, Inconsolata, sans-serif;
+  width: 90%;
+  line-height: 1.5em;
+  vertical-align: middle;
+  horizontal-align: middle;
+  display: inline-block;
+  padding: 0;
+}
+textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {
+  border-color: rgba(0, 0, 0, 0.5);
+  //box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(0, 0, 0, 0.6);
+  outline: 0 none;
+}
+.result-list {
+  font-size: 1em;
+  font-family: Inconsolata, sans-serif;
+  padding: 1em;
+  list-style: none;
+  text-align: left;
+  margin-left: 2%;
+}
+.result-div {
+  text-align: center;
+  margin-left: 15%;
+}
+.result-div li {
+  margin: 1em;
+}
+.hidden {
+  display: none;
+}
+.ratings {
+  text-align: center;
+}
+
+.button {
+  background-color: #f1c40f;
+  border: none;
+  color: black;
+  padding: 4px 10px;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
