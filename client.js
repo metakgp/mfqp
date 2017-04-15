@@ -4,12 +4,13 @@ var processing = false;
 var currentQuery = null;
 
 var addItem = function(item) {
-  $("ul.local-storage-list").append("<li>" + item + "</li>");
+  $("ul.local-storage-list").append("<li><a href=''>" + item + "</a></li>");
 };
 
 $(function() {
 
   $('#query').focus();
+
   // populate the left side localStorage list
   // if the localStorage exists, else hide div
   if(!localStorage.getItem("searched")) {
@@ -56,6 +57,12 @@ $(function() {
   })
   .error(function(jqxhr, status, err) {
     console.log(jqxhr, status, err);
+  });
+
+  $("ul.local-storage-list li a").click(function(e) {
+    $("#query").val($(this).text());
+    search();
+    e.preventDefault();
   });
 
   worker.onmessage = function(results) {
