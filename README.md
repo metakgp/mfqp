@@ -12,5 +12,13 @@ push to this repository:
 sed -ie "s/http:\/\/10\.17\.32\.9/https:\/\/wiki\.metakgp\.org/g" data.json
 ```
 
+or if you need to go back to the library site:
+
+```sh
+sed -ie "s/https\:\/\/wiki.metakgp.org/http\:\/\/10.17.32.9/g" data.json
+```
+
+All of this must be done while inside the `data/` folder.
+
 # LICENSE
 Licensed under GNU General Public License v3.0 (GPLv3).
