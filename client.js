@@ -4,7 +4,21 @@ var processing = false;
 var currentQuery = null;
 
 var addItem = function(item) {
-  $("ul.local-storage-list").append("<li><a href=''>" + item + "</a></li>");
+  searchbase = localStorage.getItem("searched")
+  if(searchbase) {
+    searchbase = searchbase.replace("," + item + ",", ",");
+    searchbase = "," + item + searchbase
+    localStorage.setItem("searched", searchbase);
+  } else {
+    localStorage.setItem("searched", "," + item + ",");
+  }
+
+  $("ul.local-storage-list div > a:contains('"+item+"')").each(function() {
+       if ($(this).text() === item) {
+           $(this).parent().remove();
+       }
+  })
+  $("ul.local-storage-list").prepend("<div><a href='' style='text-align: center'>" + item + "</a><br></div>");
 };
 
 $(function() {
@@ -18,7 +32,9 @@ $(function() {
   } else {
     var history = localStorage.getItem("searched");
     $.each(history.split(","), function(index, item) {
-      addItem(item);
+      if(item != '') {
+        $("ul.local-storage-list").append("<div><a href='' style='text-align: center'>" + item + "</a><br></div>");
+      }
     });
   }
 
@@ -28,15 +44,8 @@ $(function() {
     if(e.target.classList.contains("result-link")) {
       // this is a result link
       var query_value = $("#query").val().trim();
-      if(localStorage.getItem("searched")) {
-        localStorage.setItem("searched", localStorage.getItem("searched") + "," + query_value);
-      } else {
-        localStorage.setItem("searched", query_value);
-      }
       addItem(query_value);
-      if(!$("div.local-storage-div").is(":visible")) {
-        $("div.local-storage-div").show();
-      }
+      $("div.local-storage-div").show();
       console.log("Local storage: " + localStorage.getItem("searched"));
     }
   });
@@ -59,7 +68,7 @@ $(function() {
     console.log(jqxhr, status, err);
   });
 
-  $("ul.local-storage-list li a").click(function(e) {
+  $("ul.local-storage-list div a").click(function(e) {
     $("#query").val($(this).text());
     search();
     e.preventDefault();
