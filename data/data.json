@@ -38339,5 +38339,77 @@
     "Paper": "soft computing tools in engineering",
     "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7NnJXalJpZ1dLLWc",
     "Year": "2017"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "discrete structures",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7Tjhudk11MzhLVk0",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-CS21001"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "social computing",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7ZHZHV2M2ZEVrY0k",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-CS60017"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "machine learning",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7cmNucmhmVE5pMVk",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-CS60050"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "algorithms - i",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7WkZYbXZ3djJfeUk",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-CS21003"
+  },
+  {
+    "Department": "electronics & electrical communication engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "introduction to electronics",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7d3F5Q1dtZ0pyTjQ",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-EC21103"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "casting, forming and welding",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7QmhvblhNS1Q5a0k",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-ME31007"
+  },
+  {
+    "Department": "metallurgical & materials engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "materials engineering",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7U2sySkpIMkxRM1k",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-MT30001"
+  },
+  {
+    "Department": "humanities & social sciences",
+    "Semester": "mid autumn 2017",
+    "Paper": "general psychology",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7NWhQc0hmQnZlWEE",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-HS20002"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "mechanics of solids",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7bVpOVW56Zjc4d0k",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-ME31013"
   }
 ]
