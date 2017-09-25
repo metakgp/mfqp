@@ -38587,5 +38587,157 @@
     "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7RmhmMHFXZW5JdDA",
     "Year": "2016",
     "Internal": "mid-spring-2016-BT41020"
+  },
+  {
+    "Department": "aerospace engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "unsteady aerodynamics",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7Nk1VNm5wM19NQlE",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-AE51005"
+  },
+  {
+    "Department": "aerospace engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "advanced gas dynamics",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7QkNqcHhpZE0xOVk",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-AE51017"
+  },
+  {
+    "Department": "agricultural & food engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "soil technology",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7eUdiNDFQVUh4Znc",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-AG20103"
+  },
+  {
+    "Department": "civil engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "advanced foundation engineering",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7WkhYbmFZUlZpMU0",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-CE31402"
+  },
+  {
+    "Department": "civil engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "structural dynamics and earthquake engg.",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7VEVCY1AyQ3VXX28",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-CE41003"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "theory of computation",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7VG9DTWVKRHJ4Umc",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-CS41001"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "cryptography and network security",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7UC1OYlhfTEVaWXc",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-CS60065"
+  },
+  {
+    "Department": "environmental science",
+    "Semester": "mid autumn 2017",
+    "Paper": "environmental science",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7M1FYeEVFZHlVNjQ",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-EV20001"
+  },
+  {
+    "Department": "industrial & systems engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "quality design and control",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7QXBUVXBxSTA4aTQ",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-IM31005"
+  },
+  {
+    "Department": "industrial & systems engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "product development",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7WDF5TWJkSTJseU0",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-IM41001"
+  },
+  {
+    "Department": "industrial & systems engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "financial engineering",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7blJaSVE4RHBvRFE",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-IM60059"
+  },
+  {
+    "Department": "mathematics",
+    "Semester": "mid autumn 2017",
+    "Paper": "partial differential equations",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7M3FnUHZNbXdnNlE",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-MA20103"
+  },
+  {
+    "Department": "mathematics",
+    "Semester": "mid autumn 2017",
+    "Paper": "stochastic processes in finance",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7NDh4THhsZ05ILVU",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-MA41031"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "advanced fluid mechanics",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7ME1fRU1QMFFvRkE",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-ME61003"
+  },
+  {
+    "Department": "ocean engineering & naval architecture",
+    "Semester": "mid autumn 2017",
+    "Paper": "elements of ocean engineering",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7djJBZmRWSjNIeE0",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-NA31001"
+  },
+  {
+    "Department": "aerospace engineering",
+    "Semester": "mid spring 2016",
+    "Paper": "aircraft stability and control",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7ckduNjg1clZoMUk",
+    "Year": "2016",
+    "Internal": "mid-spring-2016-AE31004"
+  },
+  {
+    "Department": "aerospace engineering",
+    "Semester": "mid spring 2016",
+    "Paper": "theory of jet propulsion",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7VXlETFhJdkdiVFk",
+    "Year": "2016",
+    "Internal": "mid-spring-2016-AE31008"
+  },
+  {
+    "Department": "vinod gupta school of management",
+    "Semester": "mid autumn 2017",
+    "Paper": "financial institutions and markets",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7SUZJYnNLNXMxOW8",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-BM60023"
+  },
+  {
+    "Department": "humanities & social sciences",
+    "Semester": "mid autumn 2017",
+    "Paper": "sanskrit and heritage",
+    "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7VTdmVkw1aFhyVms",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-HS20018"
   }
 ]
