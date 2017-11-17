@@ -2,6 +2,7 @@ var fuse;
 var nextQuery = null;
 var processing = false;
 var currentQuery = null;
+var DEBUG = false;
 
 var addItem = function(item) {
   searchbase = localStorage.getItem("searched")
@@ -37,14 +38,14 @@ $(function() {
   }
 
   $(document).click(function(e) {
-    console.log("Clicked somewhere in the doc");
+    if (DEBUG) console.log("Clicked somewhere in the doc");
     // figure out if this is a result click
     if(e.target.classList.contains("result-link")) {
       // this is a result link
       var query_value = $("#query").val().trim();
       addItem(query_value);
       $("div.local-storage-div").show();
-      console.log("Local storage: " + localStorage.getItem("searched"));
+      if (DEBUG) console.log("Local storage: " + localStorage.getItem("searched"));
     }
   });
 
@@ -53,7 +54,7 @@ $(function() {
   $.getJSON("data/data.json")
   .success(function(json) {
     worker.postMessage({type: 'data', data: json});
-    var search_query = $.url("?").search;
+    var search_query = $.url("?") && $.url("?").search;
     if (search_query) {
       while (search_query[search_query.length-1] == "/"){
         search_query = search_query.slice(0, -1);
@@ -63,7 +64,7 @@ $(function() {
     }
   })
   .error(function(jqxhr, status, err) {
-    console.log(jqxhr, status, err);
+    if (DEBUG) console.log(jqxhr, status, err);
   });
 
   $("ul.local-storage-list div a").click(function(e) {
