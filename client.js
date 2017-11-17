@@ -5,10 +5,11 @@ var currentQuery = null;
 var DEBUG = false;
 
 var addItem = function(item) {
-  searchbase = localStorage.getItem("searched")
+  item = item.toLowerCase();
+  var searchbase = localStorage.getItem("searched")
   if(searchbase) {
     searchbase = searchbase.replace("," + item + ",", ",");
-    searchbase = "," + item + searchbase
+    searchbase = "," + item + searchbase;
     localStorage.setItem("searched", searchbase);
   } else {
     localStorage.setItem("searched", "," + item + ",");
