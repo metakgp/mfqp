@@ -27,9 +27,7 @@ $(function() {
 
   // populate the left side localStorage list
   // if the localStorage exists, else hide div
-  if(!localStorage.getItem("searched")) {
-    $("div.local-storage-div").hide();
-  } else {
+  if(localStorage.getItem("searched")) {
     var history = localStorage.getItem("searched");
     $.each(history.split(","), function(index, item) {
       if(item != '') {
