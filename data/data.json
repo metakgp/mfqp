@@ -39579,5 +39579,165 @@
     "Link": "https://drive.google.com/uc?id=1uwSDCDwKzrgI-id6yN8Q61ckkpbgRhBF",
     "Year": "2017",
     "Internal": "mid-autumn-2017-EP60025"
+  },
+  {
+    "Department": "chemical engineering",
+    "Semester": "end autumn 2016",
+    "Paper": "mechanical operations",
+    "Link": "https://drive.google.com/uc?id=1Rp-h3HHR7AlZjenDqzvN2YOgGlxP1KIa",
+    "Year": "2016",
+    "Internal": "end-autumn-2016-CH31007"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2016",
+    "Paper": "machinery fault diagnostics and signal processing",
+    "Link": "https://drive.google.com/uc?id=1_d6vSHYnrxL13xZFARTLuzIQq8LpeYN7",
+    "Year": "2016",
+    "Internal": "end-autumn-2016-ME60103"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "machinery fault diagnostics and signal processing",
+    "Link": "https://drive.google.com/uc?id=177d5Jb9LD5tWSABUAuPs4SyxSaMQr8VG",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME60103"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "applied elasticity",
+    "Link": "https://drive.google.com/uc?id=1f79z7Mh9OVxeYyoSdkCcQMKY79YjsHIZ",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME60401"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "vibration analysis",
+    "Link": "https://drive.google.com/uc?id=1njpnp3ZhE0QI-BWr1bsvkRmwLXi2S7LQ",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME60403"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "finite element methods in engineering",
+    "Link": "https://drive.google.com/uc?id=1rUfxhqbveiWEae-b2_r6e6Zmkszb6Wcf",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME60407"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "vibration control and isolation",
+    "Link": "https://drive.google.com/uc?id=137lDKej244vQ2oFAG0IfQhQjAbE2ij2g",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME60417"
+  },
+  {
+    "Department": "mining engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "elements of petroleum engineering",
+    "Link": "https://drive.google.com/uc?id=1MYddvHRsgwv6TY52hoJHdUCqX9qpmRsv",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-MI40039"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "machinery fault diagnostics and signal processing",
+    "Link": "https://drive.google.com/uc?id=1BT-LG9R5m6i9MuzTQPuWkn-b98QvwiLm",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-ME60103"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "applied elasticity",
+    "Link": "https://drive.google.com/uc?id=1HNCk-zWLWfuXq1jbclqeKhrjdmAHVeao",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-ME60401"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "vibration analysis",
+    "Link": "https://drive.google.com/uc?id=1jNpST58qQrl-NiTevpNBCoHPHPfymQ-s",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-ME60403"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "finite element methods in engineering",
+    "Link": "https://drive.google.com/uc?id=12z9M655qU_t30ScIREbaGDJuxyqBSkfa",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-ME60407"
+  },
+  {
+    "Department": "chemical engineering",
+    "Semester": "mid spring 2017",
+    "Paper": "transport phenomena",
+    "Link": "https://drive.google.com/uc?id=1aQaFKKKljlWgdGdtvqEj8GQy0923MMnF",
+    "Year": "2017",
+    "Internal": "mid-spring-2017-CH30012"
+  },
+  {
+    "Department": "chemical engineering",
+    "Semester": "mid spring 2017",
+    "Paper": "chemical process technology",
+    "Link": "https://drive.google.com/uc?id=1mTPvgn0W16c_BBUPaZjYP4cSRIgYPGrc",
+    "Year": "2017",
+    "Internal": "mid-spring-2017-CH30014"
+  },
+  {
+    "Department": "chemical engineering",
+    "Semester": "mid spring 2017",
+    "Paper": "computer aided process engineering",
+    "Link": "https://drive.google.com/uc?id=1eUVVUSWxL8YtDvCX-exNh4SZmHz1Jt3J",
+    "Year": "2017",
+    "Internal": "mid-spring-2017-CH30016"
+  },
+  {
+    "Department": "chemical engineering",
+    "Semester": "mid spring 2017",
+    "Paper": "computer methods in chem. engg.",
+    "Link": "https://drive.google.com/uc?id=1GVWWE9NaHfPy4N0jKYwD5pQqODlEwP9p",
+    "Year": "2017",
+    "Internal": "mid-spring-2017-CH42006"
+  },
+  {
+    "Department": "chemical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "biochemical engineering",
+    "Link": "https://drive.google.com/uc?id=1gbdsbVMi3vBwx7rAzOIuqLMlIsnk-Ti6",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-CH40001"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "automatic control",
+    "Link": "https://drive.google.com/uc?id=1kvBbia5ifrhlOTo3-seltxjiTiNhLhui",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME60061"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "engineering software",
+    "Link": "https://drive.google.com/uc?id=1L3HqztWy263LinBpt2I4-oggT8a7B3X5",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME60936"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "automatic control",
+    "Link": "https://drive.google.com/uc?id=1XzmE-e8Omjmpczo2fs9DfOsh3qxKyEcO",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-ME60061"
   }
 ]
