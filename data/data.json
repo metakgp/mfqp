@@ -38939,5 +38939,517 @@
     "Link": "https://drive.google.com/uc?id=0B9VL20IzhCr7R3djdDFHN3JQNUU",
     "Year": "2017",
     "Internal": "mid-spring-2017-ET60002"
+  },
+  {
+    "Department": "agricultural & food engineering",
+    "Semester": "end autumn 2015",
+    "Paper": "crop production technology",
+    "Link": "https://drive.google.com/uc?id=1tYjy08C_Vk0ktSlyEfcpbguwn0K4WwQu",
+    "Year": "2015",
+    "Internal": "end-autumn-2015-AG20101"
+  },
+  {
+    "Department": "chemistry",
+    "Semester": "end autumn 2016",
+    "Paper": "biophysical chemistry",
+    "Link": "https://drive.google.com/uc?id=1vgW339Y06vS7R3uY2UdygvmstnMzfFYF",
+    "Year": "2016",
+    "Internal": "end-autumn-2016-CY60004"
+  },
+  {
+    "Department": "biotechnology",
+    "Semester": "end autumn 2017",
+    "Paper": "computational structural biology",
+    "Link": "https://drive.google.com/uc?id=1kSAiPBc5-bmZI68V7xxI6o2bKrpo_f4Z",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-BT60007"
+  },
+  {
+    "Department": "chemical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "mechanical operations",
+    "Link": "https://drive.google.com/uc?id=1jZPmtFk_RMuE2Vp5WQUOCkTn8kex3uw5",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-CH31007"
+  },
+  {
+    "Department": "chemical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "biochemical engineering",
+    "Link": "https://drive.google.com/uc?id=1ho5DnAsN-QfUXBQOYhUSmofo_nTP0IIc",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-CH40001"
+  },
+  {
+    "Department": "chemical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "multiphase flow",
+    "Link": "https://drive.google.com/uc?id=1vSDOuR1Ai-wZLH-3YdSmQ_cCwbtD8Bgm",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-CH62021"
+  },
+  {
+    "Department": "cryogenic engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "safety issues with cryogenic fluids",
+    "Link": "https://drive.google.com/uc?id=1ExVJzaMZ5NonxWmYbzeYdAsORjHC0BPN",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-CR61023"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "discrete structures",
+    "Link": "https://drive.google.com/uc?id=1fmcsUq_wIlxftiJCtb4Qy_cgEnw_uC3s",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-CS21001"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "algorithms - i",
+    "Link": "https://drive.google.com/uc?id=15ztfFoyYiSXOAEffSbMrA8IkXGposjlb",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-CS21003"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "theory of computation",
+    "Link": "https://drive.google.com/uc?id=1mt569OSAx7pR8v4LJpxLjf5_dBTqNSSS",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-CS41001"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "social computing",
+    "Link": "https://drive.google.com/uc?id=178tWhSkbQveU-kdp0KIRAy8STMnkf93p",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-CS60017"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "machine learning",
+    "Link": "https://drive.google.com/uc?id=1AOOXYn99hcbZifrxCNO7ABEp9g4GLj7X",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-CS60050"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "speech and natural lang. processing",
+    "Link": "https://drive.google.com/uc?id=1Tp7OIZSTH5Dv0LUhjwFTK8CWnlkIXtWZ",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-CS60057"
+  },
+  {
+    "Department": "electronics & electrical communication engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "introduction to electronics",
+    "Link": "https://drive.google.com/uc?id=1GCqq0LpRzhgfnq4Tx1jmVFcFKbHTD1xX",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-EC21103"
+  },
+  {
+    "Department": "electrical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "signals and networks",
+    "Link": "https://drive.google.com/uc?id=1cQNOjfPZ4HZBhrOSJ5QZ0U1R4WCxIvI5",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-EE21101"
+  },
+  {
+    "Department": "humanities & social sciences",
+    "Semester": "end autumn 2017",
+    "Paper": "general psychology",
+    "Link": "https://drive.google.com/uc?id=153lpuiT7JYETUxtmv2Kret3iDgu8wEjG",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-HS20002"
+  },
+  {
+    "Department": "humanities & social sciences",
+    "Semester": "end autumn 2017",
+    "Paper": "financial institutions and markets",
+    "Link": "https://drive.google.com/uc?id=1tACitRAXkSUxzaVCiB4OF0txlmTta9EF",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-HS30097"
+  },
+  {
+    "Department": "humanities & social sciences",
+    "Semester": "end autumn 2017",
+    "Paper": "derivatives",
+    "Link": "https://drive.google.com/uc?id=1foH5booG5cKNktLJ7PT4LnGYF9LRSXdE",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-HS40091"
+  },
+  {
+    "Department": "humanities & social sciences",
+    "Semester": "end autumn 2017",
+    "Paper": "advanced economic theory",
+    "Link": "https://drive.google.com/uc?id=1-pG16b4KjrcNcMF_OJaQ5rK2BuSevHNR",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-HS50001"
+  },
+  {
+    "Department": "mathematics",
+    "Semester": "end autumn 2017",
+    "Paper": "real analysis",
+    "Link": "https://drive.google.com/uc?id=1_irtVRnlJiO6HhvJK0efH41-Ms2w7AqI",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-MA31005"
+  },
+  {
+    "Department": "mathematics",
+    "Semester": "end autumn 2017",
+    "Paper": "graph theory and algorithms",
+    "Link": "https://drive.google.com/uc?id=1FF1RIgRTcnjjwl3lkWz7nIxmtjtTE9DR",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-MA51121"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "mechanics",
+    "Link": "https://drive.google.com/uc?id=1EHwC2R60gzdP6Vx9msT8b7MRdt4Ez95N",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME10001"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "modern methods of manufacturing",
+    "Link": "https://drive.google.com/uc?id=1EFgxbWgzvsE-JLHNOcAmdFrdRxT4cHZN",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME40111"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "systems and control",
+    "Link": "https://drive.google.com/uc?id=1ePqVuwNcJJJX86U3KPewa7OABiveYvhc",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME40601"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "applied elasticity",
+    "Link": "https://drive.google.com/uc?id=1xHVQ1WEN44FnRxiNe_1tTHirFo0ebq6t",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME40605"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "applied thermo-fluids ii",
+    "Link": "https://drive.google.com/uc?id=1qFOc2V2iC_JfolwbYv5rydcVgel_zPoR",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME40701"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "vibration analysis",
+    "Link": "https://drive.google.com/uc?id=1dQ6YBBb-kq9llOgci9XaynXB0YmnT4_s",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME60403"
+  },
+  {
+    "Department": "mining engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "mining machinery",
+    "Link": "https://drive.google.com/uc?id=1s8YfCCzhCz5L-DWCWLMaaKugWEirgc_d",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-MI30013"
+  },
+  {
+    "Department": "mining engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "underground coal mining",
+    "Link": "https://drive.google.com/uc?id=1g8GX5m9vkT6JTY4ma0cj5A2eplWI8hXa",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-MI31001"
+  },
+  {
+    "Department": "mining engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "underground metal mining",
+    "Link": "https://drive.google.com/uc?id=1MIu50YBahPiMVStYeCiW_ki6sw2h4P2X",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-MI31003"
+  },
+  {
+    "Department": "mining engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "quantitative decision making",
+    "Link": "https://drive.google.com/uc?id=1Pz4CmHtTtRCrkDWEOu4-SzmDEUpVVkzI",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-MI31007"
+  },
+  {
+    "Department": "mining engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "elements of petroleum engineering",
+    "Link": "https://drive.google.com/uc?id=1f_Rtwo2bLU7-9O3wVj9zyPdUReezk9QI",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-MI40039"
+  },
+  {
+    "Department": "ocean engineering & naval architecture",
+    "Semester": "end autumn 2017",
+    "Paper": "elements of ocean engineering",
+    "Link": "https://drive.google.com/uc?id=159M1iqn_qDLyfOcZKxYFGwX110265ilH",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-NA31001"
+  },
+  {
+    "Department": "ocean engineering & naval architecture",
+    "Semester": "end autumn 2017",
+    "Paper": "marine production and planning",
+    "Link": "https://drive.google.com/uc?id=1ac2yaRmjfmkFzkDRANUYalTXTPXLwxNh",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-NA31003"
+  },
+  {
+    "Department": "ocean engineering & naval architecture",
+    "Semester": "end autumn 2017",
+    "Paper": "resistance and propulsion",
+    "Link": "https://drive.google.com/uc?id=1ca77ZlpRh0OVMyQApDhV_x4-ww23yRex",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-NA31005"
+  },
+  {
+    "Department": "physics",
+    "Semester": "end autumn 2017",
+    "Paper": "nuclear and particle physics -ii",
+    "Link": "https://drive.google.com/uc?id=1u5P-U9_b7yXBd5BpLR9dn8VRehm8WM1l",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-PH41019"
+  },
+  {
+    "Department": "environmental science",
+    "Semester": "end autumn 2107",
+    "Paper": "environmental science",
+    "Link": "https://drive.google.com/uc?id=1k267VQJKDaOKRBw8RnEfFJZSnMkLteTx",
+    "Year": "2107",
+    "Internal": "end-autumn-2107-EV20001"
+  },
+  {
+    "Department": "agricultural & food engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "soil technology",
+    "Link": "https://drive.google.com/uc?id=1hjZ2cN_6PzKigHSxDX9HVou-p0dyjAp0",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-AG20103"
+  },
+  {
+    "Department": "biotechnology",
+    "Semester": "mid autumn 2017",
+    "Paper": "bioseparation",
+    "Link": "https://drive.google.com/uc?id=1gIfF7hX7-Mrmr4MTswGcUQEEKh7qRHye",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-BT61027"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "discrete structures",
+    "Link": "https://drive.google.com/uc?id=1NNaR3ogxzmqGY4Mi4bFk0ggdlYMR_qag",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-CS21001"
+  },
+  {
+    "Department": "computer science & engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "algorithms - i",
+    "Link": "https://drive.google.com/uc?id=1eIjBvTnjCwUnwSfKLeipekPd82XxCqey",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-CS21003"
+  },
+  {
+    "Department": "electronics & electrical communication engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "introduction to electronics",
+    "Link": "https://drive.google.com/uc?id=1mVixQnMKNn57-VJ5OBidWtE3awaZQuhG",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-EC21103"
+  },
+  {
+    "Department": "electrical engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "signals and networks",
+    "Link": "https://drive.google.com/uc?id=1H4aa-Gczhm9VnHyOXcGtz4DbCOcSXY8a",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-EE21101"
+  },
+  {
+    "Department": "humanities & social sciences",
+    "Semester": "mid autumn 2017",
+    "Paper": "general psychology",
+    "Link": "https://drive.google.com/uc?id=1zNWSnbb8HKlnLpLvXwtKqIhe_SPC9Yv5",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-HS20002"
+  },
+  {
+    "Department": "mathematics",
+    "Semester": "mid autumn 2017",
+    "Paper": "stochastic processes in finance",
+    "Link": "https://drive.google.com/uc?id=1KcxZIRExKTBpycODEbf9DFmZ-EmKW7fx",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-MA41031"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "modern methods of manufacturing",
+    "Link": "https://drive.google.com/uc?id=1UYnUSaPXrU5VS9ftmRQEPht61en0YLQX",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-ME40111"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "systems and control",
+    "Link": "https://drive.google.com/uc?id=1ajEyQa2LetFtuHbA-jPkYBiuWZRQ2ld0",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-ME40601"
+  },
+  {
+    "Department": "metallurgical & materials engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "physics of materials",
+    "Link": "https://drive.google.com/uc?id=1Ikw5iyOSxU5Q3xA7Ek7BvlgL9logXWnt",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-MT41011"
+  },
+  {
+    "Department": "metallurgical & materials engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "casting and solidification",
+    "Link": "https://drive.google.com/uc?id=1GMECQoJNPnF2pJkb9eMxUySa8wbtfDMu",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-MT41019"
+  },
+  {
+    "Department": "ocean engineering & naval architecture",
+    "Semester": "mid autumn 2017",
+    "Paper": "resistance and propulsion",
+    "Link": "https://drive.google.com/uc?id=15x-R9VDEWd7IPsgxzVhh2V4Pyl5VQnWm",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-NA31005"
+  },
+  {
+    "Department": "rubber technology centre",
+    "Semester": "mid spring 2017",
+    "Paper": "sci and tech. rubber and rubber like materials",
+    "Link": "https://drive.google.com/uc?id=1TvV7WVKW0jM0pv8_cG5G-7k4PSP4se__",
+    "Year": "2017",
+    "Internal": "mid-spring-2017-RT30019"
+  },
+  {
+    "Department": "humanities & social sciences",
+    "Semester": "end autumn 2017",
+    "Paper": "business enviornment and policy",
+    "Link": "https://drive.google.com/uc?id=1xzDOkaKefM2jyf_Jc45uCUsKeWypC5eW",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-HS60063"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "applied thermo fluids-ii",
+    "Link": "https://drive.google.com/uc?id=1yfY7lowWxBaRkV-QZgyYJ6xyjzpag7lG",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME40603"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "modern manufacturing processes",
+    "Link": "https://drive.google.com/uc?id=1Lwk7vLoZfHkURZA-VU9C1GesIaFBJIYB",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME60097"
+  },
+  {
+    "Department": "mechanical engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "applied elasticity",
+    "Link": "https://drive.google.com/uc?id=19dcLONjL6N3yb6ezCIpqqzFBA1SyldMQ",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-ME60401"
+  },
+  {
+    "Department": "ocean engineering & naval architecture",
+    "Semester": "end autumn 2017",
+    "Paper": "mechanics of floating bodies",
+    "Link": "https://drive.google.com/uc?id=1F_6Ke0WIueHIObGSoaYM3vDbRSn-d5sF",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-NA60031"
+  },
+  {
+    "Department": "biotechnology",
+    "Semester": "mid autumn 2017",
+    "Paper": "bioseparation technology",
+    "Link": "https://drive.google.com/uc?id=1t_VB1ZiJPu4MXmUC_XcSbNFhUdybFxwi",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-BT60001"
+  },
+  {
+    "Department": "ocean engineering & naval architecture",
+    "Semester": "mid autumn 2017",
+    "Paper": "analysis of ocean structures",
+    "Link": "https://drive.google.com/uc?id=1mF86909KyHomM0OV4aMhmF_WNgrdveS2",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-NA61005"
+  },
+  {
+    "Department": "rajendra mishra school of engg entrepreneurship",
+    "Semester": "end autumn 2017",
+    "Paper": "foundations of entrepreneurship",
+    "Link": "https://drive.google.com/uc?id=1MegqdzHT6cOY6eP0kIiOp7osk6_8cl0f",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-EP60020"
+  },
+  {
+    "Department": "manufacturing science and engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "computer integrated manufacturing",
+    "Link": "https://drive.google.com/uc?id=1DKMYPcaFAqUQOytLcrv4LQa8LgUOye49",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-MF40603"
+  },
+  {
+    "Department": "manufacturing science and engineering",
+    "Semester": "end autumn 2017",
+    "Paper": "soft computing",
+    "Link": "https://drive.google.com/uc?id=1TpFP4rqDEBygkPgDA9jDa1yhYDXMa6Re",
+    "Year": "2017",
+    "Internal": "end-autumn-2017-MF41601"
+  },
+  {
+    "Department": "center for educational technology",
+    "Semester": "mid autumn 2017",
+    "Paper": "intelligent game design",
+    "Link": "https://drive.google.com/uc?id=1nC0hHipOdPbvRIcT38t0mjjPjCW13IMN",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-ET60021"
+  },
+  {
+    "Department": "manufacturing science and engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "computer integrated manufacturing",
+    "Link": "https://drive.google.com/uc?id=1W9XT3R4DsU8rPGYwu9hjmxGVVhc_DTvM",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-MF40603"
+  },
+  {
+    "Department": "manufacturing science and engineering",
+    "Semester": "mid autumn 2017",
+    "Paper": "soft computing",
+    "Link": "https://drive.google.com/uc?id=1FcR9fyPqMbS8GkqNd6DoVnexgYHzQIVj",
+    "Year": "2017",
+    "Internal": "mid-autumn-2017-MF41601"
   }
 ]
