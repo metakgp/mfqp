@@ -48019,5 +48019,21 @@
     "Link": "https://static.metakgp.org/peqp/2017/Mid%20Autumn%20Semester%202016-17/Chemical%20Engineering/CH30014_Chemical%20Process%20Technology.pdf",
     "Paper": "CH30014_Chemical Process Technology",
     "Year": "2017"
+  },
+  {
+    "Department": "biotechnology",
+    "Semester": "mid spring 2018",
+    "Paper": "recombinant dna technology",
+    "Link": "https://drive.google.com/uc?id=11RVQY1r92LzcPe-Yb-2qgN7ZSk8EhA8c",
+    "Year": "2018",
+    "Internal": "mid-spring-2018-BT60002"
+  },
+  {
+    "Department": "biotechnology",
+    "Semester": "mid spring 2018",
+    "Paper": "bioprocess plant and equipment design",
+    "Link": "https://drive.google.com/uc?id=1BRGWY_L-_adiMn__E6CjHcWBHH8GHIzm",
+    "Year": "2018",
+    "Internal": "mid-spring-2018-BT60012"
   }
 ]
