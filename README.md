@@ -3,6 +3,28 @@
 
 ### Utilities
 
+#### Number of papers in the json file
+
+```sh
+$ jq '. | length' data/data.json
+```
+
+#### Calculate number of duplicates
+
+```sh
+# Find the original number of papers
+$ jq '.[].Link' data/data.json | wc
+# Find the number of unique records
+$ jq '.[].Link' data/data.json | sort | uniq | wc
+# Subtract the result of the second command
+# from the first to get the number of duplicates
+```
+
+```sh
+# oneliner to find the number of duplicates
+$ echo $((`jq '.[].Link' data/data.json | sort | uniq -D | wc -l`-`jq '.[].Link' data/data.json | sort | uniq -d | wc -l`))
+```
+
 #### Library site is down? ( [http://10.17.32.9](http://10.17.32.9) )
 
 Run the following command, commit the new data.json file and
