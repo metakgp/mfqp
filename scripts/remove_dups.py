@@ -4,24 +4,28 @@
 
 import json, os
 
-links = []
-parent = os.path.split(os.path.abspath(os.getcwd()))[0]
-data = open(os.path.join(parent, 'data/data.json'), 'r')
+links = { }
+json_path = os.path.join(os.getcwd(), 'data/data.json')
+data = open(json_path, 'r')
 config = json.load(data)
 data.close()
 
+new_config = [ ]
+
+orig_len = len(config)
+print("Starting with %d objects" % orig_len)
+
 for paper in config:
-    links.append(paper['Link'])
+#  for i in range(len(config)):
+    #  paper = config[i]
+    link = paper['Link']
+    if not (link in links):
+        new_config.append(paper)
+        links[link] = 1
 
-for link in links:
-    count = 0
-    for paper in config:
-        if link == paper['Link']:
-            count += 1
+print("Pruned %d objects" % (orig_len - len(new_config)))
+print("Ending with %d objects" % len(new_config))
 
-        if count > 1:
-            config.remove(paper)
-
-data = open(os.path.join(parent, 'data/data.json'), 'w')
-json.dump(config, data, sort_keys=True, indent=4 * ' ')
+data = open(json_path, 'w')
+json.dump(new_config, data, sort_keys=True, indent='    ')
 data.close()
