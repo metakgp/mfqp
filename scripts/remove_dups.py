@@ -19,8 +19,8 @@ for link in links:
         if link == paper['Link']:
             count += 1
 
-        if count > 1:
-            config.remove(paper)
+            if count > 1:
+                config.remove(paper)
 
 data = open(os.path.join(parent, 'data/data.json'), 'w')
 json.dump(config, data, sort_keys=True, indent=4 * ' ')
