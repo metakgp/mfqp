@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 #
 # remove_dups.py
+#
+# Run from mfqp root as: python3 scripts/remove_dups.py
 
 import json, os
 
