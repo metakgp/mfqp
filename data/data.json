@@ -974,19 +974,6 @@
     },
     {
         "Department": "IEM",
-        "Link": " COSTING",
-        "Paper": "ENGINEERING ECONOMY",
-        "Semester": "",
-        "Year": "2000",
-        "null": [
-            " AND ACCOUNTING",
-            "https://static.metakgp.org/peqp/2000/IEM/ENGINEERING%20ECONOMY",
-            "%20COSTING",
-            "%20AND%20ACCOUNTING.pdf"
-        ]
-    },
-    {
-        "Department": "IEM",
         "Link": "https://static.metakgp.org/peqp/2000/IEM/FACILITY%20LAYOUT%20AND%20DESIGN.pdf",
         "Paper": "FACILITY LAYOUT AND DESIGN",
         "Semester": "",
@@ -2496,16 +2483,6 @@
         "Paper": "eagg_2003_waterack",
         "Semester": "",
         "Year": "2003"
-    },
-    {
-        "Department": "Metallurgical",
-        "Link": "",
-        "Paper": "2003",
-        "Semester": "",
-        "Year": "2003",
-        "null": [
-            "https://static.metakgp.org/peqp/2003/Metallurgical/2003.pdf"
-        ]
     },
     {
         "Department": "Metallurgical",
@@ -4315,17 +4292,6 @@
     },
     {
         "Department": "IEM",
-        "Link": "costing and accounting",
-        "Paper": "engineering economy",
-        "Semester": "",
-        "Year": "2008",
-        "null": [
-            "https://static.metakgp.org/peqp/2008/IEM/engineering%20economy",
-            "costing%20and%20accounting.pdf"
-        ]
-    },
-    {
-        "Department": "IEM",
         "Link": "https://static.metakgp.org/peqp/2008/IEM/financial%20engineering.pdf",
         "Paper": "financial engineering",
         "Semester": "",
@@ -5128,16 +5094,6 @@
         "Paper": "Introduction to Intellectual Property Law",
         "Semester": "MID SPRING SEM 2012",
         "Year": "2012"
-    },
-    {
-        "Department": "Introduction to",
-        "Link": "https://static.metakgp.org/peqp/2012/MID%20SPRING%20SEM%202012/Introduction%20to",
-        "Paper": " Financial Management",
-        "Semester": "MID SPRING SEM 2012",
-        "Year": "2012",
-        "null": [
-            "%20Financial%20Management.pdf"
-        ]
     },
     {
         "Department": "Nontraditional Manufacturing Processes  MF30604",
@@ -6317,17 +6273,6 @@
     },
     {
         "Department": "agfe",
-        "Link": "Packaging and Storage",
-        "Paper": "Food Handling",
-        "Semester": "end spring 2009",
-        "Year": "2009",
-        "null": [
-            "https://static.metakgp.org/peqp/2009/end%20spring%202009/agfe/Food%20Handling",
-            "Packaging%20and%20Storage.pdf"
-        ]
-    },
-    {
-        "Department": "agfe",
         "Link": "https://static.metakgp.org/peqp/2009/end%20spring%202009/agfe/food%20plant%20and%20equipment%20design.pdf",
         "Paper": "food plant and equipment design",
         "Semester": "end spring 2009",
@@ -6552,17 +6497,6 @@
     },
     {
         "Department": "chemistry",
-        "Link": "Molecular Spectroscopy%26Dynamics",
-        "Paper": "Group Theory",
-        "Semester": "end spring 2009",
-        "Year": "2009",
-        "null": [
-            "https://static.metakgp.org/peqp/2009/end%20spring%202009/chemistry/Group%20Theory",
-            "Molecular%20Spectroscopy%26Dynamics.pdf"
-        ]
-    },
-    {
-        "Department": "chemistry",
         "Link": "https://static.metakgp.org/peqp/2009/end%20spring%202009/chemistry/inorganic%20chemistry%2011.pdf",
         "Paper": "inorganic chemistry 11",
         "Semester": "end spring 2009",
@@ -6574,17 +6508,6 @@
         "Paper": "inorganic chemistry 111",
         "Semester": "end spring 2009",
         "Year": "2009"
-    },
-    {
-        "Department": "chemistry",
-        "Link": "physical part b",
-        "Paper": "inorganic chemistry part a ",
-        "Semester": "end spring 2009",
-        "Year": "2009",
-        "null": [
-            "https://static.metakgp.org/peqp/2009/end%20spring%202009/chemistry/inorganic%20chemistry%20part%20a%20",
-            "physical%20part%20b.pdf"
-        ]
     },
     {
         "Department": "chemistry",
@@ -6795,17 +6718,6 @@
         "Paper": "electromagnetic  engineerig",
         "Semester": "end spring 2009",
         "Year": "2009"
-    },
-    {
-        "Department": "ece",
-        "Link": "error control coding",
-        "Paper": "linear algebra and error control techniques ",
-        "Semester": "end spring 2009",
-        "Year": "2009",
-        "null": [
-            "https://static.metakgp.org/peqp/2009/end%20spring%202009/ece/linear%20algebra%20and%20error%20control%20techniques%20",
-            "error%20control%20coding.pdf"
-        ]
     },
     {
         "Department": "ece",
@@ -13969,16 +13881,6 @@
         "Year": "2010"
     },
     {
-        "Department": "Agricultural & Food Engineering Department",
-        "Link": "https://static.metakgp.org/peqp/2011/END%20AUTUMN%202011/Agricultural%20%26%20Food%20Engineering%20Department",
-        "Paper": "Advanced Groundwater Hydrology",
-        "Semester": "END AUTUMN 2011",
-        "Year": "2011",
-        "null": [
-            "/Advanced%20Groundwater%20Hydrology.pdf"
-        ]
-    },
-    {
         "Department": "Architecture & Regional Planning",
         "Link": "https://static.metakgp.org/peqp/2011/END%20AUTUMN%202011/Architecture%20%26%20Regional%20Planning/Advanced%20Building%20Materials%20%26%20Composites.pdf",
         "Paper": "Advanced Building Materials & Composites",
@@ -14572,19 +14474,6 @@
         "Paper": "The Art of Communication",
         "Semester": "END AUTUMN 2011",
         "Year": "2011"
-    },
-    {
-        "Department": "Industrial Engineering and Management",
-        "Link": " Costing",
-        "Paper": "engineering Economy",
-        "Semester": "END AUTUMN 2011",
-        "Year": "2011",
-        "null": [
-            " and accountancy",
-            "https://static.metakgp.org/peqp/2011/END%20AUTUMN%202011/Industrial%20Engineering%20and%20Management/engineering%20Economy",
-            "%20Costing",
-            "%20and%20accountancy.pdf"
-        ]
     },
     {
         "Department": "Industrial Engineering and Management",
@@ -15292,17 +15181,6 @@
         "Paper": "AG31006 Food Science and Technology",
         "Semester": "end spring 2011",
         "Year": "2011"
-    },
-    {
-        "Department": "AGRF",
-        "Link": " Packaging %26 Storage",
-        "Paper": "AG40016 Food Handling",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/AGRF/AG40016%20Food%20Handling",
-            "%20Packaging%20%26%20Storage.pdf"
-        ]
     },
     {
         "Department": "AGRF",
@@ -16293,17 +16171,6 @@
     },
     {
         "Department": "Computer Science",
-        "Link": " Spring 2010--11",
-        "Paper": "CS21004 Formal Languages and Automata Theory",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/Computer%20Science/CS21004%20Formal%20Languages%20and%20Automata%20Theory",
-            "%20Spring%202010--11.pdf"
-        ]
-    },
-    {
-        "Department": "Computer Science",
         "Link": "https://static.metakgp.org/peqp/2011/end%20spring%202011/Computer%20Science/CS43002%20Database%20Management%20Systems%20mid%20spring.pdf",
         "Paper": "CS43002 Database Management Systems mid spring",
         "Semester": "end spring 2011",
@@ -17228,39 +17095,6 @@
     },
     {
         "Department": "HSS",
-        "Link": " Literature %26 Culture mid spring",
-        "Paper": "Indian Society",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/HSS/Indian%20Society",
-            "%20Literature%20%26%20Culture%20mid%20spring.pdf"
-        ]
-    },
-    {
-        "Department": "HSS",
-        "Link": " Literature %26 Culture",
-        "Paper": "Indian Society",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/HSS/Indian%20Society",
-            "%20Literature%20%26%20Culture.pdf"
-        ]
-    },
-    {
-        "Department": "HSS",
-        "Link": " Literature and Culture",
-        "Paper": "Indian Society",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/HSS/Indian%20Society",
-            "%20Literature%20and%20Culture.pdf"
-        ]
-    },
-    {
-        "Department": "HSS",
         "Link": "https://static.metakgp.org/peqp/2011/end%20spring%202011/HSS/industrial%20Economics%20end%20autumn.pdf",
         "Paper": "industrial Economics end autumn",
         "Semester": "end spring 2011",
@@ -17363,17 +17197,6 @@
         "Paper": "monitory economics",
         "Semester": "end spring 2011",
         "Year": "2011"
-    },
-    {
-        "Department": "HSS",
-        "Link": " Literature and Cultu2",
-        "Paper": "ndian Society",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/HSS/ndian%20Society",
-            "%20Literature%20and%20Cultu2.pdf"
-        ]
     },
     {
         "Department": "HSS",
@@ -17801,17 +17624,6 @@
         "Paper": "Air-conditioning",
         "Semester": "end spring 2011",
         "Year": "2011"
-    },
-    {
-        "Department": "mechanical",
-        "Link": "rmofluids-1",
-        "Paper": "Applied Th",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/mechanical/Applied%20Th",
-            "rmofluids-1.pdf"
-        ]
     },
     {
         "Department": "mechanical",
@@ -18452,28 +18264,6 @@
     },
     {
         "Department": "chemistry",
-        "Link": " structure  reactivity",
-        "Paper": "Inorganic Chemistry  Principle",
-        "Semester": "mid autumn sem 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/mid%20autumn%20sem%202011/chemistry/Inorganic%20Chemistry%20%20Principle",
-            "%20structure%20%20reactivity.pdf"
-        ]
-    },
-    {
-        "Department": "chemistry",
-        "Link": " structure %26 reactivity",
-        "Paper": "Inorganic Chemistry  Principle",
-        "Semester": "mid autumn sem 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/mid%20autumn%20sem%202011/chemistry/Inorganic%20Chemistry%20%20Principle",
-            "%20structure%20%26%20reactivity.pdf"
-        ]
-    },
-    {
-        "Department": "chemistry",
         "Link": "https://static.metakgp.org/peqp/2011/mid%20autumn%20sem%202011/chemistry/Introduction%20to%20Quantum%20Chemistry%20and%20Spectroscopy%20(CY41009).pdf",
         "Paper": "Introduction to Quantum Chemistry and Spectroscopy (CY41009)",
         "Semester": "mid autumn sem 2011",
@@ -18482,7 +18272,7 @@
     {
         "Department": "chemistry",
         "Link": "https://static.metakgp.org/peqp/2011/mid%20autumn%20sem%202011/chemistry/Organic%20Chemistry%20%97%20I.pdf",
-        "Paper": "Organic Chemistry \u0097 I",
+        "Paper": "Organic Chemistry  I",
         "Semester": "mid autumn sem 2011",
         "Year": "2011"
     },
@@ -19150,17 +18940,6 @@
         "Paper": "Cryptology and Security Issues",
         "Semester": "mid autumn sem 2011",
         "Year": "2011"
-    },
-    {
-        "Department": "mathematics",
-        "Link": " Autumn 2011-12",
-        "Paper": "CS21003 Algorithms I",
-        "Semester": "mid autumn sem 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/mid%20autumn%20sem%202011/mathematics/CS21003%20Algorithms%20I",
-            "%20Autumn%202011-12.pdf"
-        ]
     },
     {
         "Department": "mathematics",
@@ -20116,17 +19895,6 @@
     },
     {
         "Department": "Department Mathematics",
-        "Link": "Organization and Architecture",
-        "Paper": "Computer",
-        "Semester": "end autumn 2012",
-        "Year": "2012",
-        "null": [
-            "https://static.metakgp.org/peqp/2012/end%20autumn%202012/Department%20Mathematics/Computer",
-            "Organization%20and%20Architecture.pdf"
-        ]
-    },
-    {
-        "Department": "Department Mathematics",
         "Link": "https://static.metakgp.org/peqp/2012/end%20autumn%202012/Department%20Mathematics/Cryptography.pdf",
         "Paper": "Cryptography",
         "Semester": "end autumn 2012",
@@ -20379,17 +20147,6 @@
     },
     {
         "Department": "Department of Chemistry end sem",
-        "Link": " Structure %26 Reactivity END SEM",
-        "Paper": "Principle",
-        "Semester": "end autumn 2012",
-        "Year": "2012",
-        "null": [
-            "https://static.metakgp.org/peqp/2012/end%20autumn%202012/Department%20of%20Chemistry%20end%20sem/Principle",
-            "%20Structure%20%26%20Reactivity%20END%20SEM.pdf"
-        ]
-    },
-    {
-        "Department": "Department of Chemistry end sem",
         "Link": "https://static.metakgp.org/peqp/2012/end%20autumn%202012/Department%20of%20Chemistry%20end%20sem/Principles%20of%20Organic%20Synthesis.pdf",
         "Paper": "Principles of Organic Synthesis",
         "Semester": "end autumn 2012",
@@ -20429,17 +20186,6 @@
         "Paper": "Algorithms Design and Analysis END SEM",
         "Semester": "end autumn 2012",
         "Year": "2012"
-    },
-    {
-        "Department": "Department of Computer Science & Engineering end sem",
-        "Link": " Autumn",
-        "Paper": "Algorithms- I",
-        "Semester": "end autumn 2012",
-        "Year": "2012",
-        "null": [
-            "https://static.metakgp.org/peqp/2012/end%20autumn%202012/Department%20of%20Computer%20Science%20%26%20Engineering%20end%20sem/Algorithms-%20I",
-            "%20Autumn.pdf"
-        ]
     },
     {
         "Department": "Department of Computer Science & Engineering end sem",
@@ -20825,17 +20571,6 @@
         "Paper": "BUILDING ACOUSTICS",
         "Semester": "end autumn 2012",
         "Year": "2012"
-    },
-    {
-        "Department": "Department of Physics and Meteorology end sem",
-        "Link": " Classical Mechanics",
-        "Paper": "Classical Mechanics II",
-        "Semester": "end autumn 2012",
-        "Year": "2012",
-        "null": [
-            "https://static.metakgp.org/peqp/2012/end%20autumn%202012/Department%20of%20Physics%20and%20Meteorology%20end%20sem/Classical%20Mechanics%20II",
-            "%20Classical%20Mechanics.pdf"
-        ]
     },
     {
         "Department": "Department of Physics and Meteorology end sem",
@@ -21840,17 +21575,6 @@
     },
     {
         "Department": "Computer Science & Engineering",
-        "Link": ".Time Systems",
-        "Paper": "Real.",
-        "Semester": "END SPRING 2012",
-        "Year": "2012",
-        "null": [
-            "https://static.metakgp.org/peqp/2012/END%20SPRING%202012/Computer%20Science%20%26%20Engineering/Real.",
-            ".Time%20Systems.pdf"
-        ]
-    },
-    {
-        "Department": "Computer Science & Engineering",
         "Link": "https://static.metakgp.org/peqp/2012/END%20SPRING%202012/Computer%20Science%20%26%20Engineering/Software%20Engineering.pdf",
         "Paper": "Software Engineering",
         "Semester": "END SPRING 2012",
@@ -22041,7 +21765,7 @@
     {
         "Department": "hss",
         "Link": "https://static.metakgp.org/peqp/2012/END%20SPRING%202012/hss/Environm%B7ental%20Economics.pdf",
-        "Paper": "Environm\u00b7ental Economics",
+        "Paper": "Environm·ental Economics",
         "Semester": "END SPRING 2012",
         "Year": "2012"
     },
@@ -22534,28 +22258,6 @@
         "Paper": "Mathematical Methods II",
         "Semester": "END SPRING 2012",
         "Year": "2012"
-    },
-    {
-        "Department": "Physics and Meteorology",
-        "Link": " Order and Chaos (PH40004",
-        "Paper": "Nonlinearity",
-        "Semester": "END SPRING 2012",
-        "Year": "2012",
-        "null": [
-            "https://static.metakgp.org/peqp/2012/END%20SPRING%202012/Physics%20and%20Meteorology/Nonlinearity",
-            "%20Order%20and%20Chaos%20(PH40004.pdf"
-        ]
-    },
-    {
-        "Department": "Physics and Meteorology",
-        "Link": " Order and Chaos",
-        "Paper": "Nonlinearity",
-        "Semester": "END SPRING 2012",
-        "Year": "2012",
-        "null": [
-            "https://static.metakgp.org/peqp/2012/END%20SPRING%202012/Physics%20and%20Meteorology/Nonlinearity",
-            "%20Order%20and%20Chaos.pdf"
-        ]
     },
     {
         "Department": "Physics and Meteorology",
@@ -24386,17 +24088,6 @@
     },
     {
         "Department": "AGRI AND FOOD ENGG",
-        "Link": " of Students 29",
-        "Paper": "Food Plant and Equipment Design No",
-        "Semester": "MID SPRING SEM 2012",
-        "Year": "2012",
-        "null": [
-            "https://static.metakgp.org/peqp/2012/MID%20SPRING%20SEM%202012/AGRI%20AND%20FOOD%20ENGG/Food%20Plant%20and%20Equipment%20Design%20No",
-            "%20of%20Students%2029.pdf"
-        ]
-    },
-    {
-        "Department": "AGRI AND FOOD ENGG",
         "Link": "https://static.metakgp.org/peqp/2012/MID%20SPRING%20SEM%202012/AGRI%20AND%20FOOD%20ENGG/Instrumentation%20and%20Control%20in%20Food%20Industries.pdf",
         "Paper": "Instrumentation and Control in Food Industries",
         "Semester": "MID SPRING SEM 2012",
@@ -25091,7 +24782,7 @@
     {
         "Department": "industrial engg",
         "Link": "https://static.metakgp.org/peqp/2012/MID%20SPRING%20SEM%202012/industrial%20engg/%A3-Business%20(IM60054).pdf",
-        "Paper": "\u00a3-Business (IM60054)",
+        "Paper": "£-Business (IM60054)",
         "Semester": "MID SPRING SEM 2012",
         "Year": "2012"
     },
@@ -25381,17 +25072,6 @@
         "Paper": "sequence spaces",
         "Semester": "MID SPRING SEM 2012",
         "Year": "2012"
-    },
-    {
-        "Department": "MATHEMATICS",
-        "Link": " IVth Year",
-        "Paper": "Statistics and Informatics",
-        "Semester": "MID SPRING SEM 2012",
-        "Year": "2012",
-        "null": [
-            "https://static.metakgp.org/peqp/2012/MID%20SPRING%20SEM%202012/MATHEMATICS/Statistics%20and%20Informatics",
-            "%20IVth%20Year.pdf"
-        ]
     },
     {
         "Department": "MATHEMATICS",
@@ -25822,16 +25502,6 @@
     },
     {
         "Department": "AEROSPACE ENGG DEPARTMENT",
-        "Link": "https://static.metakgp.org/peqp/2013/End%20Spring%202013/AEROSPACE%20ENGG%20DEPARTMENT/Flight%20Mechanics%20Supplementary%20Exam",
-        "Paper": "Flight Mechanics Supplementary Exam",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            ".pdf"
-        ]
-    },
-    {
-        "Department": "AEROSPACE ENGG DEPARTMENT",
         "Link": "https://static.metakgp.org/peqp/2013/End%20Spring%202013/AEROSPACE%20ENGG%20DEPARTMENT/FRACTURE%20MECHANICS.pdf",
         "Paper": "FRACTURE MECHANICS",
         "Semester": "End Spring 2013",
@@ -25969,17 +25639,6 @@
         "Paper": "Food handling Packaging and Storage",
         "Semester": "End Spring 2013",
         "Year": "2013"
-    },
-    {
-        "Department": "AGRICULTURAL & FOOD ENGINEERING DEPARTMENT",
-        "Link": " Packaging and Storage",
-        "Paper": "Food Handling",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/AGRICULTURAL%20%26%20FOOD%20ENGINEERING%20DEPARTMENT/Food%20Handling",
-            "%20Packaging%20and%20Storage.pdf"
-        ]
     },
     {
         "Department": "AGRICULTURAL & FOOD ENGINEERING DEPARTMENT",
@@ -26614,7 +26273,7 @@
     {
         "Department": "Computer science and Engineering",
         "Link": "https://static.metakgp.org/peqp/2013/End%20Spring%202013/Computer%20science%20and%20Engineering/Database%20Man%B7agement%20Systems.pdf",
-        "Paper": "Database Man\u00b7agement Systems",
+        "Paper": "Database Man·agement Systems",
         "Semester": "End Spring 2013",
         "Year": "2013"
     },
@@ -27166,17 +26825,6 @@
     },
     {
         "Department": "Industrial Engineering and Management",
-        "Link": "Financial Management",
-        "Paper": "Introduction to ",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/Industrial%20Engineering%20and%20Management/Introduction%20to%20",
-            "Financial%20Management.pdf"
-        ]
-    },
-    {
-        "Department": "Industrial Engineering and Management",
         "Link": "https://static.metakgp.org/peqp/2013/End%20Spring%202013/Industrial%20Engineering%20and%20Management/Management%20and%20Productivity.pdf",
         "Paper": "Management and Productivity",
         "Semester": "End Spring 2013",
@@ -27398,16 +27046,6 @@
         "Paper": "Measure Theory & Integration",
         "Semester": "End Spring 2013",
         "Year": "2013"
-    },
-    {
-        "Department": "Mathematics",
-        "Link": "https://static.metakgp.org/peqp/2013/End%20Spring%202013/Mathematics/Modern%20Algebra",
-        "Paper": "Modern Algebra",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            ".pdf"
-        ]
     },
     {
         "Department": "Mathematics",
@@ -27821,17 +27459,6 @@
         "Paper": "Quantum Mechanics - II",
         "Semester": "End Spring 2013",
         "Year": "2013"
-    },
-    {
-        "Department": "RAJIV GANDHI SCHOOL OF INTELLECTUAL PROPERTY LAW",
-        "Link": " Farmer and Breeder rights",
-        "Paper": "Biodiversity Law",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RAJIV%20GANDHI%20SCHOOL%20OF%20INTELLECTUAL%20PROPERTY%20LAW/Biodiversity%20Law",
-            "%20Farmer%20and%20Breeder%20rights.pdf"
-        ]
     },
     {
         "Department": "RAJIV GANDHI SCHOOL OF INTELLECTUAL PROPERTY LAW",
@@ -28304,17 +27931,6 @@
     },
     {
         "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
-        "Link": " Packaging %26 Storage and AG60124 Food Handling %26 Packaging",
-        "Paper": "AG40016 Food Handling",
-        "Semester": "MID SPRING 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/AG40016%20Food%20Handling",
-            "%20Packaging%20%26%20Storage%20and%20AG60124%20Food%20Handling%20%26%20Packaging.pdf"
-        ]
-    },
-    {
-        "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
         "Link": "https://static.metakgp.org/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/AG60046%20Food%20Biotechnology.pdf",
         "Paper": "AG60046 Food Biotechnology",
         "Semester": "MID SPRING 2013",
@@ -28400,7 +28016,7 @@
     {
         "Department": "AGRICULTURAL AND FOOD ENGINEERING DEPARTMENT",
         "Link": "https://static.metakgp.org/peqp/2013/MID%20SPRING%202013/AGRICULTURAL%20AND%20FOOD%20ENGINEERING%20DEPARTMENT/Food%20Science%20%26%20Technology%B7.pdf",
-        "Paper": "Food Science & Technology\u00b7",
+        "Paper": "Food Science & Technology·",
         "Semester": "MID SPRING 2013",
         "Year": "2013"
     },
@@ -28813,7 +28429,7 @@
     {
         "Department": "CIVIL ENGINEERING",
         "Link": "https://static.metakgp.org/peqp/2013/MID%20SPRING%202013/CIVIL%20ENGINEERING/ADVANCED%20FOUNDATION%20ENGINEERING%B7%20END%20SEM.pdf",
-        "Paper": "ADVANCED FOUNDATION ENGINEERING\u00b7 END SEM",
+        "Paper": "ADVANCED FOUNDATION ENGINEERING· END SEM",
         "Semester": "MID SPRING 2013",
         "Year": "2013"
     },
@@ -29303,7 +28919,7 @@
     {
         "Department": "HSS",
         "Link": "https://static.metakgp.org/peqp/2013/MID%20SPRING%202013/HSS/Modernisation%20and%B7%20Creative%20Collli11unication.pdf",
-        "Paper": "Modernisation and\u00b7 Creative Collli11unication",
+        "Paper": "Modernisation and· Creative Collli11unication",
         "Semester": "MID SPRING 2013",
         "Year": "2013"
     },
@@ -29593,17 +29209,6 @@
         "Paper": "Mathematics I set3",
         "Semester": "MID SPRING 2013",
         "Year": "2013"
-    },
-    {
-        "Department": "mathematics",
-        "Link": " setB",
-        "Paper": "Mathematics-11",
-        "Semester": "MID SPRING 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/MID%20SPRING%202013/mathematics/Mathematics-11",
-            "%20setB.pdf"
-        ]
     },
     {
         "Department": "mathematics",
@@ -29951,7 +29556,7 @@
     {
         "Department": "RAJENDRA MISHRA SCHOOL OF ENGINEERING AND ENTREPRENEURSHIP",
         "Link": "https://static.metakgp.org/peqp/2013/MID%20SPRING%202013/RAJENDRA%20MISHRA%20SCHOOL%20OF%20ENGINEERING%20AND%20ENTREPRENEURSHIP/Managem~nt%B7ofGrowth%20Ventures.pdf",
-        "Paper": "Managem~nt\u00b7ofGrowth Ventures",
+        "Paper": "Managem~nt·ofGrowth Ventures",
         "Semester": "MID SPRING 2013",
         "Year": "2013"
     },
@@ -29968,17 +29573,6 @@
         "Paper": "Marketing and Marketing Research",
         "Semester": "MID SPRING 2013",
         "Year": "2013"
-    },
-    {
-        "Department": "RAJIV GANDHI SCHOOL OF INTELLECTUAL PROPERTY LAW",
-        "Link": " INDIAN LEGAL SYSTEM AND BASIC THEORY OF LAW END SEM",
-        "Paper": "[LEGAL METHOD",
-        "Semester": "MID SPRING 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/MID%20SPRING%202013/RAJIV%20GANDHI%20SCHOOL%20OF%20INTELLECTUAL%20PROPERTY%20LAW/[LEGAL%20METHOD",
-            "%20INDIAN%20LEGAL%20SYSTEM%20AND%20BASIC%20THEORY%20OF%20LAW%20END%20SEM.pdf"
-        ]
     },
     {
         "Department": "RAJIV GANDHI SCHOOL OF INTELLECTUAL PROPERTY LAW",
@@ -30039,7 +29633,7 @@
     {
         "Department": "RAJIV GANDHI SCHOOL OF INTELLECTUAL PROPERTY LAW",
         "Link": "https://static.metakgp.org/peqp/2013/MID%20SPRING%202013/RAJIV%20GANDHI%20SCHOOL%20OF%20INTELLECTUAL%20PROPERTY%20LAW/Introduction%20to%20Intellectual%20%B7Property.Law.pdf",
-        "Paper": "Introduction to Intellectual \u00b7Property.Law",
+        "Paper": "Introduction to Intellectual ·Property.Law",
         "Semester": "MID SPRING 2013",
         "Year": "2013"
     },
@@ -30053,7 +29647,7 @@
     {
         "Department": "RAJIV GANDHI SCHOOL OF INTELLECTUAL PROPERTY LAW",
         "Link": "https://static.metakgp.org/peqp/2013/MID%20SPRING%202013/RAJIV%20GANDHI%20SCHOOL%20OF%20INTELLECTUAL%20PROPERTY%20LAW/Labour%20and%20Industrial%20Law%B7%20II.pdf",
-        "Paper": "Labour and Industrial Law\u00b7 II",
+        "Paper": "Labour and Industrial Law· II",
         "Semester": "MID SPRING 2013",
         "Year": "2013"
     },
@@ -30977,7 +30571,7 @@
     {
         "Department": "Computer Science and Engineering",
         "Link": "https://static.metakgp.org/peqp/2014/Mid%20Spring%202014/Computer%20Science%20and%20Engineering/software%B7%20Engineering.pdf",
-        "Paper": "software\u00b7 Engineering",
+        "Paper": "software· Engineering",
         "Semester": "Mid Spring 2014",
         "Year": "2014"
     },
@@ -31813,296 +31407,6 @@
         "Paper": "Strategic Management",
         "Semester": "Mid Spring 2014",
         "Year": "2014"
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "COMPOSITES FOR MARINE STRUCTURES",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/COMPOSITES%20FOR%20MARINE%20STRUCTURES.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "Computational Marine Hydrodynamics",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/Computational%20Marine%20Hydrodynamics.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "Computer Aided Marine",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/Computer%20Aided%20Marine.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "Design %26 Construction of Ocean Structures",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/Design%20%26%20Construction%20of%20Ocean%20Structures.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "dynamics of Ocean Vehicles",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/dynamics%20of%20Ocean%20Vehicles.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "high Performance Marine Vehicles",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/high%20Performance%20Marine%20Vehicles.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "Hydroelasticity",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/Hydroelasticity.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "Marine Design",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/Marine%20Design.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "Marine Dynamics",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/Marine%20Dynamics.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "Offshore Technology",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/Offshore%20Technology.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "Port %26 Harbour Engineering",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/Port%20%26%20Harbour%20Engineering.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "Seakeeping and Maneuvering",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/Seakeeping%20and%20Maneuvering.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "SHIP STRENGTH (NA21004)",
-        "Paper": "end spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/end%20spring%202011/SHIP%20STRENGTH%20(NA21004).pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "Dynamics of Ocean Vehicles",
-        "Paper": "mid spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/mid%20spring%202011/Dynamics%20of%20Ocean%20Vehicles.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "High Performance Marine Vehicles",
-        "Paper": "mid spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/mid%20spring%202011/High%20Performance%20Marine%20Vehicles.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "Marine hydrodynamics",
-        "Paper": "mid spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/mid%20spring%202011/Marine%20hydrodynamics.pdf"
-        ]
-    },
-    {
-        "Department": "DEPARTMENT OF OCEAN ENGINEERING AND NAVAL ARCHITECTURE",
-        "Link": "SHIP STRENGTH",
-        "Paper": "mid spring 2011",
-        "Semester": "end spring 2011",
-        "Year": "2011",
-        "null": [
-            "https://static.metakgp.org/peqp/2011/end%20spring%202011/DEPARTMENT%20OF%20OCEAN%20ENGINEERING%20AND%20NAVAL%20ARCHITECTURE/mid%20spring%202011/SHIP%20STRENGTH.pdf"
-        ]
-    },
-    {
-        "Department": "RTC",
-        "Link": "Dynamics of Machines Supplementary",
-        "Paper": "Mechanical",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RTC/Mechanical/Dynamics%20of%20Machines%20Supplementary.pdf"
-        ]
-    },
-    {
-        "Department": "RTC",
-        "Link": "Dynamics of Machines",
-        "Paper": "Mechanical",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RTC/Mechanical/Dynamics%20of%20Machines.pdf"
-        ]
-    },
-    {
-        "Department": "RTC",
-        "Link": "Dynamics Supplementary",
-        "Paper": "Mechanical",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RTC/Mechanical/Dynamics%20Supplementary.pdf"
-        ]
-    },
-    {
-        "Department": "RTC",
-        "Link": "Fluid Mechanics",
-        "Paper": "Mechanical",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RTC/Mechanical/Fluid%20Mechanics.pdf"
-        ]
-    },
-    {
-        "Department": "RTC",
-        "Link": "Kinematics of Machines",
-        "Paper": "Mechanical",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RTC/Mechanical/Kinematics%20of%20Machines.pdf"
-        ]
-    },
-    {
-        "Department": "RTC",
-        "Link": "Machine Tools and Machining",
-        "Paper": "Mechanical",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RTC/Mechanical/Machine%20Tools%20and%20Machining.pdf"
-        ]
-    },
-    {
-        "Department": "RTC",
-        "Link": "Mechanics",
-        "Paper": "Mechanical",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RTC/Mechanical/Mechanics.pdf"
-        ]
-    },
-    {
-        "Department": "RTC",
-        "Link": "Nontraditional Manufacturing Processes",
-        "Paper": "Mechanical",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RTC/Mechanical/Nontraditional%20Manufacturing%20Processes.pdf"
-        ]
-    },
-    {
-        "Department": "RTC",
-        "Link": "Nontraditional Manufacturing Processes Supplementary",
-        "Paper": "Mechanical",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RTC/Mechanical/Nontraditional%20Manufacturing%20Processes.Supplementary.pdf"
-        ]
-    },
-    {
-        "Department": "RTC",
-        "Link": "Robots and Computer-Controlled Machines",
-        "Paper": "Mechanical",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RTC/Mechanical/Robots%20and%20Computer-Controlled%20Machines.pdf"
-        ]
-    },
-    {
-        "Department": "RTC",
-        "Link": "solar energy technology",
-        "Paper": "Mechanical",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RTC/Mechanical/solar%20energy%20technology.pdf"
-        ]
-    },
-    {
-        "Department": "RTC",
-        "Link": "Thermodynamics",
-        "Paper": "Mechanical",
-        "Semester": "End Spring 2013",
-        "Year": "2013",
-        "null": [
-            "https://static.metakgp.org/peqp/2013/End%20Spring%202013/RTC/Mechanical/Thermodynamics.pdf"
-        ]
     },
     {
         "Department": "A&FEG",
