@@ -9,6 +9,12 @@
 $ jq '. | length' data/data.json
 ```
 
+#### Find number of papers with link doesn't end with PDF and isn't on Drive
+
+```sh
+$ jq '.[].Link' data/data.json | awk -F'"' '{ if (match($2, /pdf$/) == 0 && match($2, /drive.google.com/) == 0) { print $2 } }' | wc
+```
+
 #### Calculate number of duplicates
 
 ```sh
