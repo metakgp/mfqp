@@ -66,12 +66,17 @@ textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {
 }
 
 .local-storage-div {
-  margin-top: 6em;
+  /* margin-top: 6em; */
   max-height: 30px;
   text-align: center;
+  padding-bottom: 3em;
 }
 
 .local-storage-list {
   text-align: center;
   max-height: inherit;
+}
+
+.footer-text {
+    position: relative;
 }

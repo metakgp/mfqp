@@ -20,7 +20,7 @@ var addItem = function(item) {
            $(this).parent().remove();
        }
   })
-  $("ul.local-storage-list").prepend("<div><a href='' style='text-align: center'>" + item + "</a><br></div>");
+  $("ul.local-storage-list").prepend("<li><a href='' style='text-align: center'>" + item + "</a><br></li>");
 };
 
 $(function() {
@@ -33,9 +33,10 @@ $(function() {
     var history = localStorage.getItem("searched");
     $.each(history.split(","), function(index, item) {
       if(item != '') {
-        $("ul.local-storage-list").append("<div><a href='' style='text-align: center'>" + item + "</a><br></div>");
+        $("ul.local-storage-list").append("<li><a href='' style='text-align: center'>" + item + "</a><br></li>");
       }
     });
+    $("ul.local-storage-list").append("<br/><br/>");
   }
 
   $(document).click(function(e) {
@@ -68,7 +69,7 @@ $(function() {
     if (DEBUG) console.log(jqxhr, status, err);
   });
 
-  $("ul.local-storage-list div a").click(function(e) {
+  $("ul.local-storage-list li a").click(function(e) {
     $("#query").val($(this).text());
     search();
     e.preventDefault();
