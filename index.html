@@ -7,194 +7,65 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/2.6.1/fuse.min.js"></script>
         <link rel="stylesheet" href="resources/styles/main.css">
         <link rel="shortcut icon" href="resources/images/favicon.ico?v=1" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link rel="stylesheet" href="client.css" />
         <title>mfqp</title>
         <script>
-         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-         ga('create', 'UA-62532508-3', 'auto');
-         ga('send', 'pageview');
+ga('create', 'UA-62532508-3', 'auto');
+ga('send', 'pageview');
 
         </script>
-        <style>
-         .query-div {
-             text-align: center;
-             margin-top: 4em;
-             position: relative;
-             width: 70%;
-             margin-left: 15%;
-         }
-         .sk-folding-cube {
-             display: inline-block;
-             margin: 1em;
-             margin-left: 3em;
-             vertical-align: middle;
-             position: absolute;
-             right: 5%;
-         }
-         .query-div input {
-             font-size: 3em;
-             font-family: Roboto, Titillium, Inconsolata, sans-serif;
-             width: 90%;
-             line-height: 1.5em;
-             vertical-align: middle;
-             horizontal-align: middle;
-             display: inline-block;
-             padding: 0;
-         }
-         textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {
-             border-color: rgba(0, 0, 0, 0.5);
-             //box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(0, 0, 0, 0.6);
-             outline: 0 none;
-         }
-         .result-list {
-             font-size: 1em;
-             font-family: Inconsolata, sans-serif;
-             padding: 1em;
-             list-style: none;
-             text-align: left;
-             margin-left: 2%;
-         }
-         .result-div {
-             text-align: center;
-             margin-left: 15%;
-         }
-         .result-div li {
-             margin: 1em;
-         }
-         .hidden {
-             display: none;
-         }
-         .ratings {
-             text-align: center;
-         }
 
-         .button {
-             background-color: #f1c40f;
-             border: none;
-             color: black;
-             padding: 4px 10px;
-             border-radius: 4px;
-             text-align: center;
-             text-decoration: none;
-             display: inline-block;
-             font-size: 20px;
-             font-weight: bold;
-             margin: 4px 2px;
-             cursor: pointer;
-         }
-
-        </style>
-        <script type="text/javascript">
-         var fuse;
-         var nextQuery = null;
-         var processing = false;
-         var currentQuery = null;
-
-         $(function() {
-
-             $('#query').focus();
-
-             var worker = new Worker('resources/scripts/worker2.js');
-
-             $.getJSON("data/data.json")
-              .success(function(json) {
-                worker.postMessage({type: 'data', data: json});
-                var search_query = $.url("?").search;
-                if (search_query) {
-                  while (search_query[search_query.length-1] == "/"){
-                    search_query = search_query.slice(0, -1);
-                  }
-                  $("#query").val(search_query);
-                  search();
-                }
-              })
-              .error(function(jqxhr, status, err) {
-                  console.log(jqxhr, status, err);
-              });
-
-             worker.onmessage = function(results) {
-                 processing = false;
-                 $('.sk-folding-cube').addClass('hidden');
-                 displayResults(results.data);
-                 if (nextQuery !== null) {
-                     var query = nextQuery;
-                     nextQuery = null;
-                     search(query);
-                 }
-             }
-
-             function displayResults(results) {
-                 var html = ''
-                 for (var i = 0; i < 20; ++i) {
-                     html += '<li><a target="_blank" class="result-link" href="'+results[i].Link+'">' + results[i].Year + ' / ' + results[i].Department + ' / ' + results[i].Semester + ' / ' + results[i].Paper +'</a><li>';
-                 }
-                 $('.result-list').html(html);
-                 $('.result-link').click(function() {
-                     ga('send', 'event', 'Result', 'click', $('#query').val().trim());
-                 })
-             }
-
-             var search = _.debounce(function() {
-                 $('.ratings').addClass('hidden');
-                 var query = $('#query').val().trim();
-                 if (query === '') {
-                     $('.result-list').html('');
-                     $('.ratings').removeClass('hidden');
-                     return;
-                 }
-                 if (processing) {
-                     nextQuery = query;
-                     return;
-                 }
-                 if (query === currentQuery) {
-                     return;
-                 }
-                 processing = true;
-                 currentQuery = query;
-                 $('.sk-folding-cube').removeClass('hidden');
-                 worker.postMessage({type: 'query', query: query});
-                 ga('send', 'event', 'Search', 'query', query);
-             }, 200);
-
-             $('#query').keydown(search);
-         });
-        </script>
+        <script src="client.js"></script>
     </head>
     <body>
         <div id="fb-root"></div>
         <script>(function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=566171210148246";
-            fjs.parentNode.insertBefore(js, fjs);
-         }(document, 'script', 'facebook-jssdk'));</script>
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=566171210148246";
+fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
 
-        <div class="query-div">
-            <input type="text" id="query" placeholder="Search for question papers..."></input>
-            <div class="sk-folding-cube hidden">
-                <div class="sk-cube1 sk-cube"></div>
-                <div class="sk-cube2 sk-cube"></div>
-                <div class="sk-cube4 sk-cube"></div>
-                <div class="sk-cube3 sk-cube"></div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="query-div">
+                    <input type="text" 
+                           id="query" 
+                           placeholder="Search for question papers..." 
+                           autocomplete="off"></input>
+                    <div class="sk-folding-cube hidden">
+                        <div class="sk-cube1 sk-cube"></div>
+                        <div class="sk-cube2 sk-cube"></div>
+                        <div class="sk-cube4 sk-cube"></div>
+                        <div class="sk-cube3 sk-cube"></div>
+                    </div>
+                </div>
+                <div class="result-div">
+                    <ul class="result-list">
+                    </ul>
+                </div>
+                <div class="ratings">
+                    <div>
+                        <a href="http://metakgp.github.io/"><img src="resources/images/ratings.png" width="50%"></a>
+                    </div>
+                    <h3>
+                        To contribute a question paper, email it to
+                        <a href="mailto:metakgp-qp@googlegroups.com">metakgp-qp@googlegroups.com</a>
+                    </h3>
+                </div>
             </div>
-        </div>
-        <div class="result-div">
-            <ul class="result-list">
-            </ul>
-        </div>
-        <div class="ratings">
-            <div><a href="http://metakgp.github.io/"><img src="resources/images/ratings.png" width="50%"></a></div>
-            <footer style="align-items: center;">
-              <h3>
-                To contribute a question paper, email it to
-                <a href="mailto:metakgp-qp@googlegroups.com">metakgp-qp@googlegroups.com</a>
-              </h3>
-              <div class="fb-like" data-href="https://www.facebook.com/metakgp/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false" data-colorscheme="dark"></div>
-             </footer>
+            <div class="row local-storage-div">
+                <h3>Your Recent Searches</h3>
+                <ul class="local-storage-list">
+                </ul>
+            </div>
         </div>
     </body>
 </html>

@@ -1,12 +1,13 @@
 importScripts('string_score.min.js');
 
 var data;
+var DEBUG = false;
 
 var fields = ['Department', 'Semester', 'Paper', 'Year'];
 
 onmessage = function(e) {
     if (e.data.type === 'data') {
-        console.log('Got data');
+        if (DEBUG) console.log('Got data');
         data = e.data.data;
         for (var i = 0; i < data.length; ++i) {
             for (var f = 0; f < fields.length; ++f) {
