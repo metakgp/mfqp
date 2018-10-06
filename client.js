@@ -3,6 +3,7 @@ var nextQuery = null;
 var processing = false;
 var currentQuery = null;
 var DEBUG = false;
+var searchQuery = "";
 
 var addItem = function(item) {
   item = item.toLowerCase();
@@ -87,7 +88,7 @@ $(function() {
   }
 
   function displayResults(results) {
-    var html = ''
+    var html = '';
     for (var i = 0; i < 20; ++i) {
       html += '<li><a target="_blank" class="result-link" href="'+results[i].Link+'">' + results[i].Year + ' / ' + results[i].Department + ' / ' + results[i].Semester + ' / ' + results[i].Paper +'</a><li>';
     }
@@ -120,4 +121,11 @@ $(function() {
   }, 200);
 
   $('#query').keydown(search);
+
+  // function to update the query url
+  $('#query').keyup(function () {
+    searchQuery = $('#query').val().trim();
+    $('.sharelink').html(searchQuery);
+    // $('#sharelink').innerText = searchQuery;
+  });
 });
