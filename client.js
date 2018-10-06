@@ -4,6 +4,7 @@ var processing = false;
 var currentQuery = null;
 var DEBUG = false;
 var searchQuery = "";
+var pageURL = $(location).attr("href");
 
 var addItem = function(item) {
   item = item.toLowerCase();
@@ -129,3 +130,34 @@ $(function() {
     // $('#sharelink').innerText = searchQuery;
   });
 });
+
+// opens (in new tab) dynamic generated facebook share link based on query
+function shareFB() {
+    var fbLink = "http://www.facebook.com/sharer.php?u=" + pageURL + "/?search=" + searchQuery;
+    $("<a>").attr("href", fbLink).attr("target", "_blank")[0].click();
+}
+
+// opens (in new tab) dynamic generated twitter share link based on query
+function shareTwit() {
+    var twitLink = "https://twitter.com/share?url=" + pageURL + "/?search=" + searchQuery + "&amp;text=Past%20Papers&amp;hashtags=mfqp";
+    $("<a>").attr("href", twitLink).attr("target", "_blank")[0].click();
+}
+
+// opens (in new tab) dynamic generated email share link based on query
+function shareMail() {
+    // var mailLink = "mailto:?Subject=Simple Share Buttons&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 https://simplesharebuttons.com"
+    var mailLink = "mailto:?subject=Past Papers From MFQP&body=I saw these papers and thought they might help you!%0D%0A%0D%0A" + pageURL + "/?search=" + searchQuery;
+    $("<a>").attr("href", mailLink).attr("target", "_blank")[0].click();
+}
+
+// copies the dynamically generated query link to clipboard
+function shareLink() {
+    var temp = document.createElement('input');
+    temp.style = "position: absolute; left: -1000px; top: -1000px";
+    temp.value = pageURL+"/?search="+searchQuery;
+    document.body.appendChild(temp);
+    temp.select();
+    document.execCommand("copy");
+    document.body.removeChild(temp);
+    alert(pageURL+"/?search="+searchQuery+" copied!")
+}

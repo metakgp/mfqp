@@ -89,3 +89,8 @@ textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {
   box-shadow: 0;
   display: inline-table;
 }
+
+/*for hover on JS share button*/
+.sh-img:hover {
+  cursor: pointer;
+}
