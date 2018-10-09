@@ -126,8 +126,6 @@ $(function() {
   // function to update the query url
   $('#query').keyup(function () {
     searchQuery = $('#query').val().trim();
-    $('.sharelink').html(searchQuery);
-    // $('#sharelink').innerText = searchQuery;
   });
 });
 
