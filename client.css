@@ -81,16 +81,3 @@ textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {
     position: relative;
 }
 
-/*Style for the share button*/
-#share-buttons img {
-  width: 50px;
-  padding: 2px;
-  border: 0;
-  box-shadow: 0;
-  display: inline-table;
-}
-
-/*for hover on JS share button*/
-.sh-img:hover {
-  cursor: pointer;
-}

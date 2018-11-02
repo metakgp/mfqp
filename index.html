@@ -40,6 +40,10 @@ fjs.parentNode.insertBefore(js, fjs);
                            id="query" 
                            placeholder="Search for question papers..." 
                            autocomplete="off"></input>
+
+                    <!-- Copy Link -->
+                    <button style="margin-left: 2%" type="button" class="btn btn-primary btn-large" onclick="shareLink()">Copy Link</button>
+
                     <div class="sk-folding-cube hidden">
                         <div class="sk-cube1 sk-cube"></div>
                         <div class="sk-cube2 sk-cube"></div>
@@ -66,25 +70,6 @@ fjs.parentNode.insertBefore(js, fjs);
                 <ul class="local-storage-list">
                 </ul>
             </div>
-        </div>
-
-        <div id="share-buttons" align="center">
-            <br/>
-            <h3 align="center" style="color: darkgreen">Share The Results With Your Friends</h3>
-
-            <!-- Facebook -->
-            <img class="sh-img" src="resources/images/facebook.png" alt="Facebook" onclick="shareFB()"/>
-
-            <!-- Twitter -->
-            <img class="sh-img" src="resources/images/twitter.png" alt="Twitter" onclick="shareTwit()" />
-
-            <!-- Email -->
-            <img class="sh-img" src="resources/images/email.png" alt="Email" onclick="shareMail()" />
-
-            <!-- Copy Link -->
-            <img class="sh-img" src="resources/images/copy-link.jpg" alt="Copy Link" onclick="shareLink()" />
-        <br/>
-
         </div>
     </body>
 </html>
