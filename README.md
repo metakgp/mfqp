@@ -48,3 +48,7 @@ sed -ie "s/https\:\/\/static.metakgp.org/http\:\/\/10.17.32.9/g" data/data.json
 
 # LICENSE
 Licensed under GNU General Public License v3.0 (GPLv3).
+
+## Contributing
+
+Please read CONTRIBUTING.md guide to know more.
