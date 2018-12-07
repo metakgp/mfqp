@@ -126,17 +126,6 @@ $(function() {
   // function to update the query url
   $('#query').keyup(function () {
     searchQuery = $('#query').val().trim();
+    window.history.replaceState(null, null, "?search="+searchQuery)
   });
 });
-
-// copies the dynamically generated query link to clipboard
-function shareLink() {
-    var temp = document.createElement('input');
-    temp.style = "position: absolute; left: -1000px; top: -1000px";
-    temp.value = pageURL+"/?search="+searchQuery;
-    document.body.appendChild(temp);
-    temp.select();
-    document.execCommand("copy");
-    document.body.removeChild(temp);
-    alert(pageURL+"/?search="+searchQuery+" copied!")
-}
