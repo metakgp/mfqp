@@ -30,6 +30,16 @@ $ jq '.[].Link' data/data.json | sort | uniq | wc
 # oneliner to find the number of duplicates
 $ echo $((`jq '.[].Link' data/data.json | sort | uniq -D | wc -l`-`jq '.[].Link' data/data.json | sort | uniq -d | wc -l`))
 ```
+#### Getting all paper links from new library site
+
+Run the following from the `data` folder:
+
+```sh
+python ../scripts/pdfFinder.py lib_data.json
+```
+
+This will generate a new `lib_data.json` (overwriting the old one).
+Prettify the json and commit.
 
 #### Library site is down? ( [http://10.17.32.9](http://10.17.32.9) )
 
