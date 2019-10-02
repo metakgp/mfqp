@@ -37,9 +37,13 @@ Run the following from the `data` folder:
 ```sh
 python ../scripts/pdfFinder.py lib_data.json
 ```
+(You need to install BS4 for that.)
 
 This will generate a new `lib_data.json` (overwriting the old one).
 Prettify the json and commit.
+Once `data/data.json` is updated with the links from crowd-sourced question papers,
+we can just copy-paste the categorized entries from `lib_data.json` to `data.json`. 
+However, the uncategorized links must be scrutinized and converted to proper format before adding.
 
 #### Library site is down? ( [http://10.17.32.9](http://10.17.32.9) )
 
