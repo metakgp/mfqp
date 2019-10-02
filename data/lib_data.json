@@ -1,163 +1,1111 @@
 {
     "uncategorized": [
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/6/6c/20180912221103%21AR32008_Energy_Efficient_Design_ES_2013.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/46/31009_Structural_Analysis_MA_2012.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/b/bb/20180919221955%21AR32010_Ergonomics_and_Product_Design_ES_2009.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/44/AG31002_Tractor_%26_Power_System.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/06/AG31006_Food_Science_%26_Technology.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/0d/AG31008_Post_Harvest_Engineering-ms2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/ad/AG31026_Organic_Food_Chain_Management.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/a4/AG40006_Dairy_Process_Engineering.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/f8/AG40018_Industrial_Processing_of_Foods_%26_Beverages.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/1d/AG60002_Alternative_Energy_Source.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d9/AG60004_Tractor_System_Design-II.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/ea/AG60008_Digital_Soil_Mapping.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/da/AG60010_Food_Process_%26_Products_Technology.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/00/AG60032_Crop_Breeding_%26_Biotechnological_Applications.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/aa/AG60042_Water_Resources_System_Analysis.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/8f/AG60046_Food_Biotechnology.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/8/8f/20180624230840%21AG60046_Food_Biotechnology.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d4/AG60054_Design_of_Aquacultural_Facilities_and_Equipment.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/54/AG60056_Planning_and_Design_of_Aquacultural_Farms.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/17/AG60062_Management_%26_Productivity.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/67/AG60064_System_Approach_in_Agriculture.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/bf/AG60082_Instrumentation_and_Research_Technology.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/ff/AG60092_Soil_Plant_Water_Relationship.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/66/AG60096_Food_Plant_%26_Equipment_Design.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/7/78/AG60100_Mass_Transfer_Operation_in_Food_Processing.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/82/AG60102_Tractor_Ergonomics.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/41/AG60104_On-Farm_Water_Management.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/01/AG60108_Advance_Aquaculture_Technology.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/26/AG60114_Processing_%26_Preservation_of_Aquacultural_Products.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/28/AG60124_Food_Handling_%26_Packaging.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/6b/AG60124_Food_Process_Modeling.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/66/AG60132_Pharmacognosy_and_Metabolic_Engineering.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/9/92/AG60148_Instrumentation_and_Control_in_Food_Industries.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/a8/AG60170_Modeling_and_Simulation_for_Agricultural_Water_Management.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d2/AG60302_Advance_Thermal_Operation_in_Food_in_Processing.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/e6/AG31002_Tractor_and_power_systems.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/8/80/20180819182126%21AG60010_Food_Process_and_Products_Technology_ES_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/4/4f/20180819182702%21AG60032_Crop_Breeding_and_Biotechnological_Applications_ES_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/5/52/20180819183423%21AG60046_Food_Biotechnology_ES_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/1/1c/20180819193003%21AG60096_Food_Plant_and_Equipment_Design_ES_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/53/AG31006_Food_Science_and_Technology.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/7/78/AG31008_Post_Harvest_Engineering.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/7/78/20180529232725%21AG31008_Post_Harvest_Engineering.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/26/AG31005_Principles_of_Food_Engineering_MA_2016%29.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/5e/AG31002_Tractor_%26_Power_Systems_ms_2016.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/fe/AG31004_Irrigation_%26_Drainage_Engineering_ms_2016.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/6b/AG60082_Instrumentation_and_Research_Technology_Ms_2014.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/ad/A60063_Soil_Systems_EA_2013.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/55/AG60001_Tractor_Systems_Design_EA_2013_I.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/4d/AG60010_Food_Process_and_Products_Technology_MS2013.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/3/36/AG31006_Food_Science_and_Technology_MS_2013%C2%B7.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/87/AG60080_Marketing_of_Food_and_Agricultural_Products_MS2013.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/9/9b/AG31005_Principles_of_Food_Engineering_for_lllrd_Year_B._Tech_EA_2012..pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/51/AG60092_Soil-Plant-Water_Relationship_MS2012.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/df/AG60096_Food_Plant_and_Equipment_ES-2011.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/05/AG60121_Agro_Project_Cash_Flow_Analysis_and_Finance.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b3/AG40005_Mechanical_Operational_in_Food_EA-2010.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/2c/AG60001_Tractor_Systems-Design_I_EA2010.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/6/65/20180726170445%21AG60044_Advanced_Ground_Water_Hydrology_MS_2010.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/28/AG60014_Soil_and_Water_Conservation_Engineering_MS-2010.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/3/3f/AG60105_Advancd_Plant_Physiology_MA2009.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/0c/AG60073_Physic_and_Chemistry_of_Bio_Materials_EA2009.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/55/AG12724_Seed_Technology_ES-2001.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/08/AR32004_Housing_and_Community_Planning_AR32004_2003.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b5/AR52003_Principles_of_Town_Planning_and_Urban_Design.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/fb/AR32001_Development_of_Contemporary_Architecture.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d7/AR20008_History_of_Architecture_-_II_ES-2010.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/6/62/20181003170057%21CH61014_Advanced_Heat_Transfer_MS_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/6/67/20181003183847%21CH62008_Novel_Separation_Processes_MS_2013.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/9/9d/CH31001_Mass_Transfer_-I_ES_Supplementary_2013.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/3/3a/CH62001_Optimization_Techniques_in_Process_Design_Supplementary_Exam_2013.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d3/CH23001_Chemical_Process_Calculation_End_Autumn_2008-2009.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/05/CH21103_Chemical_Process_Calculation_EA_2008-09.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/3/3f/20180903001520%21CY51003_Spectroscopic_Methods_of_Structure_Determination_MA_2015.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/1/1e/20180902233129%21CY40014_Introduction_to_Computational_Chemistry_EA_2015.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/4a/CY60111_and_CY61021_Advanced_Stereochemistry_EA_20110.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/0/0b/20181002163759%21CY11001_Chemistry_EA_2008.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/c/c6/20181002165229%21CY11001_Chemistry_ES_2008.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/e6/CE41601_Solid_Waste_Material_MA2017.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/2/27/20181107174107%21CE40003_Foundation_Engineering_EA_2011.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/5b/CE31005_Water_and_Wastewater_EngineeringEA_2011.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c8/CS60082_CS60094_Computational_Number_Theory_MS_2010-11.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/2/2a/20181004214209%21CS60078_Complex_Network_Theory_ES_2011.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/b/b9/20181007171548%21CS20006_Software_Engineering_ES_2011.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/57/CS21004_Formal_Languages_and_Automata_Theory_ES_2010-11.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/ae/CS60082_CS60094_Computational_Number_Theory_ES_2010-11.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/43/CS193007_Electromagnetic_Theory_EA_2000-2001.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b8/CS172006_Discrete_Structures_MS_2000-2001.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/21/CS192005_Linear_Circuits_MS_2000-2001.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/f9/CS17602_Database_Engineering_ES_2000-2001.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/89/CS17630_Multimedia_Systems_ES_2000-2001.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/dd/CS17640_CS17020_Real_Time_Systems_ES_2000-2001.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b7/Ec60504_Computer_Communication_and_Networking_MS_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/ab/EC31006_Microcontroller_and_Embedded_Systems.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/83/GG50014_Environmental_Geoscience-ES_2011.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/3/35/20181119181827%21GG60015_Isotope_Geology_Env._Modeling_ES_2011.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/6b/HS60035_Organizational_Structure_and_Dynamics_MA_2018pdf.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/f2/HS30097_Financial_Institutions_and_Marketes_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/bf/HS30097_Financial_Institutions_and_Markets_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/1b/HS50001_Advanced_Economics_Theory_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d2/HS60024_Leadership_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/e5/HS00001_Preparatory_English.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/7/70/HS20008_Macroeconomics_II_MS_20018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/7/76/HS20004_Positive_psychology.ES_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/1/11/20190404232443%21HS30034_Managerial_Economics_MS_2017.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/1d/HS20014_Economics_of_Sustainable_Development_Ms_2016.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/5/54/20190424214455%21HS13001_English_for_Communication_ES_2013.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/ca/40072_Sociology_of_Science_Supplementary_ES_2013.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/3/3b/20190225223729%21IM21008_Work_System_Design_MS_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c5/IM21003_Operations_Research-l_MA2016.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/9/98/IM31005_Quality_Design_and_Control_MA2016.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/0/02/20190227213558%21IM60054_E-Business_MS_2013.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/2e/1M3I008_IM60052_Logistics_and_Supply_Chain_Management_MA_2012.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/ac/MA20103_Partial_Differential_Equations_MA2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d3/MA51121_MA61003_MA60041_Graph_Theory_and_Algorithms.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d3/MA20103_Partial_Differential_Equations_EA2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/86/MA20103_Partial_Diffrential_Equations_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/17/MA31007_Machematical_Method_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/ea/MA31011_Object_Oriented_Systems_Design_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/7/7f/MA41007_Functional_Analysis_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c0/MA41031_Stochastic_Processes_in_Finance_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b8/MA51121_MA61003_MA60041_Graph_Theory_and_Algorithms_EA_2.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/9/9b/MA60017_Statistical_Methods_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b0/MA60056_Regression_and_Time_Series_Model.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/4d/MA60061_Statistical_Techniques_andComputer_Programming_EA_20.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/dc/MA61023_Object_Oriented_Systems_Design_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/11/MA60049_MA51109_Computational_Statistics_2018.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b5/MA61019_Optimization_Techniques_2018_-_Copy.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/9/94/MA00002_Preparatory_Mathematics.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/29/MA10002_Mathematics_II_-_Copy.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c7/MA20013_Discrete_Mathematics.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/e0/MA00002_Preparatory_Mathematics_-_II.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/5e/MA10002_Mathematics_II.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/5/5e/20190917101333%21MA10002_Mathematics_II.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/ee/MA20102_Numerical_Solution_of_ODE_%26_PDE.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/8d/MA20104_Probability_and_Statistics.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/a4/MA20106_Probability_%26_Scholastic_Processes.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/46/MA30014_Operation_Research.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c7/MA30110_Advanced_Numerical_Techniques.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/5d/MA40002%2C_MA51004_%26_MA61052_Intregal_Equations_and_Variational_Methods.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/bb/MA40004%2C_MA61018%2C_MA60050_File_Organisation_%26_Database_Systems.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/64/MA41002_%26_MA30002_Modern_Algebra.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/3/34/MA41004_%26_MA51014_Topology.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/a4/MA41017_%26_MA60067_Stochastic_Processes_%26_Stochastic_Process_and_Simulation.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/1a/MA50002_%26_MA51002_Measure_Theory_and_Integrstion.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/58/MA60002_Data_Structure-and_Algorithm.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c3/MA60004_%26_MA41011_Operating_Systems_Design.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/67/MA60044_%26_MA61046_Multi-Objective_Programming.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/a4/MA61002_%26_MA30006_Switching_and_Finite_Autonoma.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/15/MA61008_Artificial_intelligence.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c2/MA61010_%26_MA60024_Computer_Networks.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/ca/MA00002_Preparatory_Mathematics_II.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/3/3f/MT30001_Materials_Engineering_EN.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/7/77/AE31002_Aerospace_Structural_Dynamics_2009.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/1a/CS31001_and_CS31007_Computer_Organization_and_Architecture.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/a5/GG20003_Paleontology_and_Stratigraphy_ES_20003.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/fc/HS30036_Intercultural_Communication_MA_2018.pdf.pdf",
-        "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/bf/GS30095_Globalization_and_Culture.pdf"
+        {
+            "Department": "Aero",
+            "Year": "2013",
+            "Paper": "20180912221103%21AR32008_Energy_Efficient_Design_ES_2013",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/6/6c/20180912221103%21AR32008_Energy_Efficient_Design_ES_2013.pdf"
+        },
+        {
+            "Department": "Aero",
+            "Year": "2012",
+            "Paper": "31009_Structural_Analysis_MA_2012",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/46/31009_Structural_Analysis_MA_2012.pdf"
+        },
+        {
+            "Department": "Aero",
+            "Year": "2009",
+            "Paper": "20180919221955%21AR32010_Ergonomics_and_Product_Design_ES_2009",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/b/bb/20180919221955%21AR32010_Ergonomics_and_Product_Design_ES_2009.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG31002_Tractor_%26_Power_System",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/44/AG31002_Tractor_%26_Power_System.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG31006_Food_Science_%26_Technology",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/06/AG31006_Food_Science_%26_Technology.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG31008_Post_Harvest_Engineering-ms2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/0d/AG31008_Post_Harvest_Engineering-ms2018.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG31026_Organic_Food_Chain_Management",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/ad/AG31026_Organic_Food_Chain_Management.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG40006_Dairy_Process_Engineering",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/a4/AG40006_Dairy_Process_Engineering.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG40018_Industrial_Processing_of_Foods_%26_Beverages",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/f8/AG40018_Industrial_Processing_of_Foods_%26_Beverages.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60002_Alternative_Energy_Source",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/1d/AG60002_Alternative_Energy_Source.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60004_Tractor_System_Design-II",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d9/AG60004_Tractor_System_Design-II.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60008_Digital_Soil_Mapping",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/ea/AG60008_Digital_Soil_Mapping.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60010_Food_Process_%26_Products_Technology",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/da/AG60010_Food_Process_%26_Products_Technology.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60032_Crop_Breeding_%26_Biotechnological_Applications",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/00/AG60032_Crop_Breeding_%26_Biotechnological_Applications.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60042_Water_Resources_System_Analysis",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/aa/AG60042_Water_Resources_System_Analysis.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60046_Food_Biotechnology",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/8f/AG60046_Food_Biotechnology.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "20180624230840%21AG60046_Food_Biotechnology",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/8/8f/20180624230840%21AG60046_Food_Biotechnology.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60054_Design_of_Aquacultural_Facilities_and_Equipment",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d4/AG60054_Design_of_Aquacultural_Facilities_and_Equipment.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60056_Planning_and_Design_of_Aquacultural_Farms",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/54/AG60056_Planning_and_Design_of_Aquacultural_Farms.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60062_Management_%26_Productivity",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/17/AG60062_Management_%26_Productivity.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60064_System_Approach_in_Agriculture",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/67/AG60064_System_Approach_in_Agriculture.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60082_Instrumentation_and_Research_Technology",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/bf/AG60082_Instrumentation_and_Research_Technology.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60092_Soil_Plant_Water_Relationship",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/ff/AG60092_Soil_Plant_Water_Relationship.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60096_Food_Plant_%26_Equipment_Design",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/66/AG60096_Food_Plant_%26_Equipment_Design.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60100_Mass_Transfer_Operation_in_Food_Processing",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/7/78/AG60100_Mass_Transfer_Operation_in_Food_Processing.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60102_Tractor_Ergonomics",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/82/AG60102_Tractor_Ergonomics.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60104_On-Farm_Water_Management",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/41/AG60104_On-Farm_Water_Management.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60108_Advance_Aquaculture_Technology",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/01/AG60108_Advance_Aquaculture_Technology.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60114_Processing_%26_Preservation_of_Aquacultural_Products",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/26/AG60114_Processing_%26_Preservation_of_Aquacultural_Products.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60124_Food_Handling_%26_Packaging",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/28/AG60124_Food_Handling_%26_Packaging.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60124_Food_Process_Modeling",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/6b/AG60124_Food_Process_Modeling.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60132_Pharmacognosy_and_Metabolic_Engineering",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/66/AG60132_Pharmacognosy_and_Metabolic_Engineering.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60148_Instrumentation_and_Control_in_Food_Industries",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/9/92/AG60148_Instrumentation_and_Control_in_Food_Industries.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60170_Modeling_and_Simulation_for_Agricultural_Water_Management",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/a8/AG60170_Modeling_and_Simulation_for_Agricultural_Water_Management.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG60302_Advance_Thermal_Operation_in_Food_in_Processing",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d2/AG60302_Advance_Thermal_Operation_in_Food_in_Processing.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "AG31002_Tractor_and_power_systems",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/e6/AG31002_Tractor_and_power_systems.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "20180819182126%21AG60010_Food_Process_and_Products_Technology_ES_2018",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/8/80/20180819182126%21AG60010_Food_Process_and_Products_Technology_ES_2018.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "20180819182702%21AG60032_Crop_Breeding_and_Biotechnological_Applications_ES_2018",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/4/4f/20180819182702%21AG60032_Crop_Breeding_and_Biotechnological_Applications_ES_2018.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "20180819183423%21AG60046_Food_Biotechnology_ES_2018",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/5/52/20180819183423%21AG60046_Food_Biotechnology_ES_2018.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2018",
+            "Paper": "20180819193003%21AG60096_Food_Plant_and_Equipment_Design_ES_2018",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/1/1c/20180819193003%21AG60096_Food_Plant_and_Equipment_Design_ES_2018.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2017",
+            "Paper": "AG31006_Food_Science_and_Technology",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/53/AG31006_Food_Science_and_Technology.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2017",
+            "Paper": "AG31008_Post_Harvest_Engineering",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/7/78/AG31008_Post_Harvest_Engineering.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2017",
+            "Paper": "20180529232725%21AG31008_Post_Harvest_Engineering",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/7/78/20180529232725%21AG31008_Post_Harvest_Engineering.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2016",
+            "Paper": "AG31005_Principles_of_Food_Engineering_MA_2016%29",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/26/AG31005_Principles_of_Food_Engineering_MA_2016%29.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2016",
+            "Paper": "AG31002_Tractor_%26_Power_Systems_ms_2016",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/5e/AG31002_Tractor_%26_Power_Systems_ms_2016.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2016",
+            "Paper": "AG31004_Irrigation_%26_Drainage_Engineering_ms_2016",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/fe/AG31004_Irrigation_%26_Drainage_Engineering_ms_2016.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2014",
+            "Paper": "AG60082_Instrumentation_and_Research_Technology_Ms_2014",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/6b/AG60082_Instrumentation_and_Research_Technology_Ms_2014.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2013",
+            "Paper": "A60063_Soil_Systems_EA_2013",
+            "Semester": "EA",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/ad/A60063_Soil_Systems_EA_2013.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2013",
+            "Paper": "AG60001_Tractor_Systems_Design_EA_2013_I",
+            "Semester": "EA",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/55/AG60001_Tractor_Systems_Design_EA_2013_I.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2013",
+            "Paper": "AG60010_Food_Process_and_Products_Technology_MS2013",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/4d/AG60010_Food_Process_and_Products_Technology_MS2013.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2013",
+            "Paper": "AG31006_Food_Science_and_Technology_MS_2013%C2%B7",
+            "Semester": "MS",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/3/36/AG31006_Food_Science_and_Technology_MS_2013%C2%B7.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2013",
+            "Paper": "AG60080_Marketing_of_Food_and_Agricultural_Products_MS2013",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/87/AG60080_Marketing_of_Food_and_Agricultural_Products_MS2013.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2012",
+            "Paper": "AG31005_Principles_of_Food_Engineering_for_lllrd_Year_B._Tech_EA_2012.",
+            "Semester": "EA",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/9/9b/AG31005_Principles_of_Food_Engineering_for_lllrd_Year_B._Tech_EA_2012..pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2012",
+            "Paper": "AG60092_Soil-Plant-Water_Relationship_MS2012",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/51/AG60092_Soil-Plant-Water_Relationship_MS2012.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2011",
+            "Paper": "AG60096_Food_Plant_and_Equipment_ES-2011",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/df/AG60096_Food_Plant_and_Equipment_ES-2011.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2010",
+            "Paper": "AG60121_Agro_Project_Cash_Flow_Analysis_and_Finance",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/05/AG60121_Agro_Project_Cash_Flow_Analysis_and_Finance.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2010",
+            "Paper": "AG40005_Mechanical_Operational_in_Food_EA-2010",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b3/AG40005_Mechanical_Operational_in_Food_EA-2010.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2010",
+            "Paper": "AG60001_Tractor_Systems-Design_I_EA2010",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/2c/AG60001_Tractor_Systems-Design_I_EA2010.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2010",
+            "Paper": "20180726170445%21AG60044_Advanced_Ground_Water_Hydrology_MS_2010",
+            "Semester": "MS",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/6/65/20180726170445%21AG60044_Advanced_Ground_Water_Hydrology_MS_2010.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2010",
+            "Paper": "AG60014_Soil_and_Water_Conservation_Engineering_MS-2010",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/28/AG60014_Soil_and_Water_Conservation_Engineering_MS-2010.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2009",
+            "Paper": "AG60105_Advancd_Plant_Physiology_MA2009",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/3/3f/AG60105_Advancd_Plant_Physiology_MA2009.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2009",
+            "Paper": "AG60073_Physic_and_Chemistry_of_Bio_Materials_EA2009",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/0c/AG60073_Physic_and_Chemistry_of_Bio_Materials_EA2009.pdf"
+        },
+        {
+            "Department": "Agfe",
+            "Year": "2001",
+            "Paper": "AG12724_Seed_Technology_ES-2001",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/55/AG12724_Seed_Technology_ES-2001.pdf"
+        },
+        {
+            "Department": "Arch",
+            "Year": "2013",
+            "Paper": "AR32004_Housing_and_Community_Planning_AR32004_2003",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/08/AR32004_Housing_and_Community_Planning_AR32004_2003.pdf"
+        },
+        {
+            "Department": "Arch",
+            "Year": "2012",
+            "Paper": "AR52003_Principles_of_Town_Planning_and_Urban_Design",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b5/AR52003_Principles_of_Town_Planning_and_Urban_Design.pdf"
+        },
+        {
+            "Department": "Arch",
+            "Year": "2011",
+            "Paper": "AR32001_Development_of_Contemporary_Architecture",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/fb/AR32001_Development_of_Contemporary_Architecture.pdf"
+        },
+        {
+            "Department": "Arch",
+            "Year": "2010",
+            "Paper": "AR20008_History_of_Architecture_-_II_ES-2010",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d7/AR20008_History_of_Architecture_-_II_ES-2010.pdf"
+        },
+        {
+            "Department": "Chem",
+            "Year": "eng",
+            "Paper": "20181003170057%21CH61014_Advanced_Heat_Transfer_MS_2018",
+            "Semester": "MS",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/6/62/20181003170057%21CH61014_Advanced_Heat_Transfer_MS_2018.pdf"
+        },
+        {
+            "Department": "Chem",
+            "Year": "eng",
+            "Paper": "20181003183847%21CH62008_Novel_Separation_Processes_MS_2013",
+            "Semester": "MS",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/6/67/20181003183847%21CH62008_Novel_Separation_Processes_MS_2013.pdf"
+        },
+        {
+            "Department": "Chem",
+            "Year": "eng",
+            "Paper": "CH31001_Mass_Transfer_-I_ES_Supplementary_2013",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/9/9d/CH31001_Mass_Transfer_-I_ES_Supplementary_2013.pdf"
+        },
+        {
+            "Department": "Chem",
+            "Year": "eng",
+            "Paper": "CH62001_Optimization_Techniques_in_Process_Design_Supplementary_Exam_2013",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/3/3a/CH62001_Optimization_Techniques_in_Process_Design_Supplementary_Exam_2013.pdf"
+        },
+        {
+            "Department": "Chem",
+            "Year": "eng",
+            "Paper": "CH23001_Chemical_Process_Calculation_End_Autumn_2008-2009",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d3/CH23001_Chemical_Process_Calculation_End_Autumn_2008-2009.pdf"
+        },
+        {
+            "Department": "Chem",
+            "Year": "eng",
+            "Paper": "CH21103_Chemical_Process_Calculation_EA_2008-09",
+            "Semester": "EA",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/0/05/CH21103_Chemical_Process_Calculation_EA_2008-09.pdf"
+        },
+        {
+            "Department": "Chem",
+            "Year": "2015",
+            "Paper": "20180903001520%21CY51003_Spectroscopic_Methods_of_Structure_Determination_MA_2015",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/3/3f/20180903001520%21CY51003_Spectroscopic_Methods_of_Structure_Determination_MA_2015.pdf"
+        },
+        {
+            "Department": "Chem",
+            "Year": "2015",
+            "Paper": "20180902233129%21CY40014_Introduction_to_Computational_Chemistry_EA_2015",
+            "Semester": "EA",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/1/1e/20180902233129%21CY40014_Introduction_to_Computational_Chemistry_EA_2015.pdf"
+        },
+        {
+            "Department": "Chem",
+            "Year": "2010",
+            "Paper": "CY60111_and_CY61021_Advanced_Stereochemistry_EA_20110",
+            "Semester": "EA",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/4a/CY60111_and_CY61021_Advanced_Stereochemistry_EA_20110.pdf"
+        },
+        {
+            "Department": "Chem",
+            "Year": "2008",
+            "Paper": "20181002163759%21CY11001_Chemistry_EA_2008",
+            "Semester": "EA",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/0/0b/20181002163759%21CY11001_Chemistry_EA_2008.pdf"
+        },
+        {
+            "Department": "Chem",
+            "Year": "2008",
+            "Paper": "20181002165229%21CY11001_Chemistry_ES_2008",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/c/c6/20181002165229%21CY11001_Chemistry_ES_2008.pdf"
+        },
+        {
+            "Department": "Civil",
+            "Year": "2017",
+            "Paper": "CE41601_Solid_Waste_Material_MA2017",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/e6/CE41601_Solid_Waste_Material_MA2017.pdf"
+        },
+        {
+            "Department": "Civil",
+            "Year": "2011",
+            "Paper": "20181107174107%21CE40003_Foundation_Engineering_EA_2011",
+            "Semester": "EA",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/2/27/20181107174107%21CE40003_Foundation_Engineering_EA_2011.pdf"
+        },
+        {
+            "Department": "Civil",
+            "Year": "2011",
+            "Paper": "CE31005_Water_and_Wastewater_EngineeringEA_2011",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/5b/CE31005_Water_and_Wastewater_EngineeringEA_2011.pdf"
+        },
+        {
+            "Department": "Cs",
+            "Year": "2011",
+            "Paper": "CS60082_CS60094_Computational_Number_Theory_MS_2010-11",
+            "Semester": "MS",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c8/CS60082_CS60094_Computational_Number_Theory_MS_2010-11.pdf"
+        },
+        {
+            "Department": "Cs",
+            "Year": "2011",
+            "Paper": "20181004214209%21CS60078_Complex_Network_Theory_ES_2011",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/2/2a/20181004214209%21CS60078_Complex_Network_Theory_ES_2011.pdf"
+        },
+        {
+            "Department": "Cs",
+            "Year": "2011",
+            "Paper": "20181007171548%21CS20006_Software_Engineering_ES_2011",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/b/b9/20181007171548%21CS20006_Software_Engineering_ES_2011.pdf"
+        },
+        {
+            "Department": "Cs",
+            "Year": "2011",
+            "Paper": "CS21004_Formal_Languages_and_Automata_Theory_ES_2010-11",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/57/CS21004_Formal_Languages_and_Automata_Theory_ES_2010-11.pdf"
+        },
+        {
+            "Department": "Cs",
+            "Year": "2011",
+            "Paper": "CS60082_CS60094_Computational_Number_Theory_ES_2010-11",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/ae/CS60082_CS60094_Computational_Number_Theory_ES_2010-11.pdf"
+        },
+        {
+            "Department": "Cs",
+            "Year": "2000",
+            "Paper": "CS193007_Electromagnetic_Theory_EA_2000-2001",
+            "Semester": "EA",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/43/CS193007_Electromagnetic_Theory_EA_2000-2001.pdf"
+        },
+        {
+            "Department": "Cs",
+            "Year": "2000",
+            "Paper": "CS172006_Discrete_Structures_MS_2000-2001",
+            "Semester": "MS",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b8/CS172006_Discrete_Structures_MS_2000-2001.pdf"
+        },
+        {
+            "Department": "Cs",
+            "Year": "2000",
+            "Paper": "CS192005_Linear_Circuits_MS_2000-2001",
+            "Semester": "MS",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/21/CS192005_Linear_Circuits_MS_2000-2001.pdf"
+        },
+        {
+            "Department": "Cs",
+            "Year": "2000",
+            "Paper": "CS17602_Database_Engineering_ES_2000-2001",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/f9/CS17602_Database_Engineering_ES_2000-2001.pdf"
+        },
+        {
+            "Department": "Cs",
+            "Year": "2000",
+            "Paper": "CS17630_Multimedia_Systems_ES_2000-2001",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/89/CS17630_Multimedia_Systems_ES_2000-2001.pdf"
+        },
+        {
+            "Department": "Cs",
+            "Year": "2000",
+            "Paper": "CS17640_CS17020_Real_Time_Systems_ES_2000-2001",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/dd/CS17640_CS17020_Real_Time_Systems_ES_2000-2001.pdf"
+        },
+        {
+            "Department": "Ec",
+            "Year": "2018",
+            "Paper": "Ec60504_Computer_Communication_and_Networking_MS_2018",
+            "Semester": "MS",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b7/Ec60504_Computer_Communication_and_Networking_MS_2018.pdf"
+        },
+        {
+            "Department": "Ec",
+            "Year": "2016",
+            "Paper": "EC31006_Microcontroller_and_Embedded_Systems",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/ab/EC31006_Microcontroller_and_Embedded_Systems.pdf"
+        },
+        {
+            "Department": "Gg",
+            "Year": "2011",
+            "Paper": "GG50014_Environmental_Geoscience-ES_2011",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/83/GG50014_Environmental_Geoscience-ES_2011.pdf"
+        },
+        {
+            "Department": "Gg",
+            "Year": "2011",
+            "Paper": "20181119181827%21GG60015_Isotope_Geology_Env._Modeling_ES_2011",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/3/35/20181119181827%21GG60015_Isotope_Geology_Env._Modeling_ES_2011.pdf"
+        },
+        {
+            "Department": "Hs",
+            "Year": "2018",
+            "Paper": "HS60035_Organizational_Structure_and_Dynamics_MA_2018pdf",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/6b/HS60035_Organizational_Structure_and_Dynamics_MA_2018pdf.pdf"
+        },
+        {
+            "Department": "Hs",
+            "Year": "2018",
+            "Paper": "HS30097_Financial_Institutions_and_Marketes_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/f2/HS30097_Financial_Institutions_and_Marketes_2018.pdf"
+        },
+        {
+            "Department": "Hs",
+            "Year": "2018",
+            "Paper": "HS30097_Financial_Institutions_and_Markets_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/bf/HS30097_Financial_Institutions_and_Markets_2018.pdf"
+        },
+        {
+            "Department": "Hs",
+            "Year": "2018",
+            "Paper": "HS50001_Advanced_Economics_Theory_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/1b/HS50001_Advanced_Economics_Theory_2018.pdf"
+        },
+        {
+            "Department": "Hs",
+            "Year": "2018",
+            "Paper": "HS60024_Leadership_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d2/HS60024_Leadership_2018.pdf"
+        },
+        {
+            "Department": "Hs",
+            "Year": "2018",
+            "Paper": "HS00001_Preparatory_English",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/e5/HS00001_Preparatory_English.pdf"
+        },
+        {
+            "Department": "Hs",
+            "Year": "2018",
+            "Paper": "HS20008_Macroeconomics_II_MS_20018",
+            "Semester": "MS",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/7/70/HS20008_Macroeconomics_II_MS_20018.pdf"
+        },
+        {
+            "Department": "Hs",
+            "Year": "2018",
+            "Paper": "HS20004_Positive_psychology.ES_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/7/76/HS20004_Positive_psychology.ES_2018.pdf"
+        },
+        {
+            "Department": "Hs",
+            "Year": "2017",
+            "Paper": "20190404232443%21HS30034_Managerial_Economics_MS_2017",
+            "Semester": "MS",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/1/11/20190404232443%21HS30034_Managerial_Economics_MS_2017.pdf"
+        },
+        {
+            "Department": "Hs",
+            "Year": "2016",
+            "Paper": "HS20014_Economics_of_Sustainable_Development_Ms_2016",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/1d/HS20014_Economics_of_Sustainable_Development_Ms_2016.pdf"
+        },
+        {
+            "Department": "Hs",
+            "Year": "2013",
+            "Paper": "20190424214455%21HS13001_English_for_Communication_ES_2013",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/5/54/20190424214455%21HS13001_English_for_Communication_ES_2013.pdf"
+        },
+        {
+            "Department": "Hs",
+            "Year": "2013",
+            "Paper": "40072_Sociology_of_Science_Supplementary_ES_2013",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/ca/40072_Sociology_of_Science_Supplementary_ES_2013.pdf"
+        },
+        {
+            "Department": "IM",
+            "Year": "2018",
+            "Paper": "20190225223729%21IM21008_Work_System_Design_MS_2018",
+            "Semester": "MS",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/3/3b/20190225223729%21IM21008_Work_System_Design_MS_2018.pdf"
+        },
+        {
+            "Department": "IM",
+            "Year": "2016",
+            "Paper": "IM21003_Operations_Research-l_MA2016",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c5/IM21003_Operations_Research-l_MA2016.pdf"
+        },
+        {
+            "Department": "IM",
+            "Year": "2016",
+            "Paper": "IM31005_Quality_Design_and_Control_MA2016",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/9/98/IM31005_Quality_Design_and_Control_MA2016.pdf"
+        },
+        {
+            "Department": "IM",
+            "Year": "2013",
+            "Paper": "20190227213558%21IM60054_E-Business_MS_2013",
+            "Semester": "MS",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/0/02/20190227213558%21IM60054_E-Business_MS_2013.pdf"
+        },
+        {
+            "Department": "IM",
+            "Year": "2012",
+            "Paper": "1M3I008_IM60052_Logistics_and_Supply_Chain_Management_MA_2012",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/2e/1M3I008_IM60052_Logistics_and_Supply_Chain_Management_MA_2012.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA20103_Partial_Differential_Equations_MA2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/ac/MA20103_Partial_Differential_Equations_MA2018.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA51121_MA61003_MA60041_Graph_Theory_and_Algorithms",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d3/MA51121_MA61003_MA60041_Graph_Theory_and_Algorithms.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA20103_Partial_Differential_Equations_EA2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/d3/MA20103_Partial_Differential_Equations_EA2018.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA20103_Partial_Diffrential_Equations_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/86/MA20103_Partial_Diffrential_Equations_2018.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA31007_Machematical_Method_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/17/MA31007_Machematical_Method_2018.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA31011_Object_Oriented_Systems_Design_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/ea/MA31011_Object_Oriented_Systems_Design_2018.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA41007_Functional_Analysis_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/7/7f/MA41007_Functional_Analysis_2018.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA41031_Stochastic_Processes_in_Finance_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c0/MA41031_Stochastic_Processes_in_Finance_2018.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA51121_MA61003_MA60041_Graph_Theory_and_Algorithms_EA_2",
+            "Semester": "EA",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b8/MA51121_MA61003_MA60041_Graph_Theory_and_Algorithms_EA_2.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA60017_Statistical_Methods_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/9/9b/MA60017_Statistical_Methods_2018.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA60056_Regression_and_Time_Series_Model",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b0/MA60056_Regression_and_Time_Series_Model.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA60061_Statistical_Techniques_andComputer_Programming_EA_20",
+            "Semester": "EA",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/4d/MA60061_Statistical_Techniques_andComputer_Programming_EA_20.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA61023_Object_Oriented_Systems_Design_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/d/dc/MA61023_Object_Oriented_Systems_Design_2018.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA60049_MA51109_Computational_Statistics_2018",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/11/MA60049_MA51109_Computational_Statistics_2018.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA61019_Optimization_Techniques_2018_-_Copy",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/b5/MA61019_Optimization_Techniques_2018_-_Copy.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA00002_Preparatory_Mathematics",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/9/94/MA00002_Preparatory_Mathematics.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA10002_Mathematics_II_-_Copy",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/29/MA10002_Mathematics_II_-_Copy.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA20013_Discrete_Mathematics",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c7/MA20013_Discrete_Mathematics.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA00002_Preparatory_Mathematics_-_II",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/e0/MA00002_Preparatory_Mathematics_-_II.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA10002_Mathematics_II",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/5e/MA10002_Mathematics_II.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "20190917101333%21MA10002_Mathematics_II",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/archive/5/5e/20190917101333%21MA10002_Mathematics_II.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA20102_Numerical_Solution_of_ODE_%26_PDE",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/e/ee/MA20102_Numerical_Solution_of_ODE_%26_PDE.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA20104_Probability_and_Statistics",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/8/8d/MA20104_Probability_and_Statistics.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA20106_Probability_%26_Scholastic_Processes",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/a4/MA20106_Probability_%26_Scholastic_Processes.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA30014_Operation_Research",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/4/46/MA30014_Operation_Research.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA30110_Advanced_Numerical_Techniques",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c7/MA30110_Advanced_Numerical_Techniques.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA40002%2C_MA51004_%26_MA61052_Intregal_Equations_and_Variational_Methods",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/5d/MA40002%2C_MA51004_%26_MA61052_Intregal_Equations_and_Variational_Methods.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA40004%2C_MA61018%2C_MA60050_File_Organisation_%26_Database_Systems",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/bb/MA40004%2C_MA61018%2C_MA60050_File_Organisation_%26_Database_Systems.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA41002_%26_MA30002_Modern_Algebra",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/64/MA41002_%26_MA30002_Modern_Algebra.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA41004_%26_MA51014_Topology",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/3/34/MA41004_%26_MA51014_Topology.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA41017_%26_MA60067_Stochastic_Processes_%26_Stochastic_Process_and_Simulation",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/a4/MA41017_%26_MA60067_Stochastic_Processes_%26_Stochastic_Process_and_Simulation.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA50002_%26_MA51002_Measure_Theory_and_Integrstion",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/1a/MA50002_%26_MA51002_Measure_Theory_and_Integrstion.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA60002_Data_Structure-and_Algorithm",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/5/58/MA60002_Data_Structure-and_Algorithm.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA60004_%26_MA41011_Operating_Systems_Design",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c3/MA60004_%26_MA41011_Operating_Systems_Design.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA60044_%26_MA61046_Multi-Objective_Programming",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/6/67/MA60044_%26_MA61046_Multi-Objective_Programming.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA61002_%26_MA30006_Switching_and_Finite_Autonoma",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/a4/MA61002_%26_MA30006_Switching_and_Finite_Autonoma.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA61008_Artificial_intelligence",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/15/MA61008_Artificial_intelligence.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2018",
+            "Paper": "MA61010_%26_MA60024_Computer_Networks",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/c2/MA61010_%26_MA60024_Computer_Networks.pdf"
+        },
+        {
+            "Department": "MA",
+            "Year": "2017",
+            "Paper": "MA00002_Preparatory_Mathematics_II",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/c/ca/MA00002_Preparatory_Mathematics_II.pdf"
+        },
+        {
+            "Department": "MT",
+            "Year": "2015",
+            "Paper": "MT30001_Materials_Engineering_EN",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/3/3f/MT30001_Materials_Engineering_EN.pdf"
+        },
+        {
+            "Department": "File:AE31002",
+            "Year": "Aerospace",
+            "Paper": "AE31002_Aerospace_Structural_Dynamics_2009",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/7/77/AE31002_Aerospace_Structural_Dynamics_2009.pdf"
+        },
+        {
+            "Department": "File:CS31001",
+            "Year": "and",
+            "Paper": "CS31001_and_CS31007_Computer_Organization_and_Architecture",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/1a/CS31001_and_CS31007_Computer_Organization_and_Architecture.pdf"
+        },
+        {
+            "Department": "File:GG20003",
+            "Year": "Paleontology",
+            "Paper": "GG20003_Paleontology_and_Stratigraphy_ES_20003",
+            "Semester": "ES",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/a/a5/GG20003_Paleontology_and_Stratigraphy_ES_20003.pdf"
+        },
+        {
+            "Department": "File:HS30036",
+            "Year": "Intercultural",
+            "Paper": "HS30036_Intercultural_Communication_MA_2018.pdf",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/fc/HS30036_Intercultural_Communication_MA_2018.pdf.pdf"
+        },
+        {
+            "Department": "File:GS30095",
+            "Year": "Globalization",
+            "Paper": "GS30095_Globalization_and_Culture",
+            "Semester": "",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/b/bf/GS30095_Globalization_and_Culture.pdf"
+        }
     ],
     "categorized": [
         {
@@ -21738,6 +22686,13 @@
             "Department": "MA",
             "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/f/f1/MA41021-MA60001_Programming_languages_EA_2018.pdf",
             "Paper": "Programming languages",
+            "Semester": "EA",
+            "Year": "2018"
+        },
+        {
+            "Department": "MA",
+            "Link": "http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/1/17/MA60077_Computer_Programming_EA_2018.pdf",
+            "Paper": "Computer Programming",
             "Semester": "EA",
             "Year": "2018"
         },
