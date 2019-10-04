@@ -35,15 +35,22 @@ $ echo $((`jq '.[].Link' data/data.json | sort | uniq -D | wc -l`-`jq '.[].Link'
 Run the following from the `data` folder:
 
 ```sh
-python ../scripts/pdfFinder.py lib_data.json
+python3 ../scripts/pdfFinder.py data.json
 ```
-(You need to install BS4 for that.)
+You need to install BS4 for that. To install it, run:
 
-This will generate a new `lib_data.json` (overwriting the old one).
-Prettify the json and commit.
-Once `data/data.json` is updated with the links from crowd-sourced question papers,
-we can just copy-paste the categorized entries from `lib_data.json` to `data.json`. 
-However, the uncategorized links must be scrutinized and converted to proper format before adding.
+```sh
+pip3 install bs4 --user
+```
+
+This will update the `data.json` file with the pdf links found on the library site.
+Then from the root directory of the repository, run:
+
+```sh
+python3 remove_dups.py
+```
+
+This will prune all duplicate entries.
 
 #### Library site is down? ( [http://10.17.32.9](http://10.17.32.9) )
 
