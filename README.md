@@ -30,6 +30,27 @@ $ jq '.[].Link' data/data.json | sort | uniq | wc
 # oneliner to find the number of duplicates
 $ echo $((`jq '.[].Link' data/data.json | sort | uniq -D | wc -l`-`jq '.[].Link' data/data.json | sort | uniq -d | wc -l`))
 ```
+#### Getting all paper links from new library site
+
+Run the following from the `data` folder:
+
+```sh
+python3 ../scripts/pdfFinder.py data.json
+```
+You need to install BS4 for that. To install it, run:
+
+```sh
+pip3 install bs4 --user
+```
+
+This will update the `data.json` file with the pdf links found on the library site.
+Then from the root directory of the repository, run:
+
+```sh
+python3 remove_dups.py
+```
+
+This will prune all duplicate entries.
 
 #### Library site is down? ( [http://10.17.32.9](http://10.17.32.9) )
 
