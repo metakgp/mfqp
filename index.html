@@ -5,9 +5,8 @@
         <script src="https://cdn.rawgit.com/websanova/js-url/daeed5ec/url.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/2.6.1/fuse.min.js"></script>
-        <link rel="stylesheet" href="resources/styles/main.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="shortcut icon" href="resources/images/favicon.ico?v=1" />
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
         <link rel="stylesheet" href="client.css" />
         <title>mfqp</title>
         <script>
@@ -33,39 +32,48 @@ js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=5661712
 fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));</script>
 
-        <div class="container-fluid">
-            <div class="row">
-                <div class="query-div">
-                    <input type="text" 
-                           id="query" 
-                           placeholder="Search for question papers..." 
-                           autocomplete="off"></input>
+        <div class="container">
+            <div class="search">
+                    <input type="text"
+                    id="query"
+                    placeholder="Search for question papers..."
+                    autocomplete="off"></input>
 
-                    <div class="sk-folding-cube hidden">
-                        <div class="sk-cube1 sk-cube"></div>
-                        <div class="sk-cube2 sk-cube"></div>
-                        <div class="sk-cube4 sk-cube"></div>
-                        <div class="sk-cube3 sk-cube"></div>
+                    <div class="mobile-view">
+                        <h1>MFQP</h1>
+                        <p>Made with &lt;/&gt; and &hearts;</p>
+                        <p>
+                            To contribute a question paper, email it to
+                            <a href="mailto:metakgp-qp@googlegroups.com">metakgp-qp@googlegroups.com</a>
+                        </p>
+
+                        <h2>Your Recent Searches</h2>
+                        <ul class="local-storage-list">
+                        </ul>
+
                     </div>
-                </div>
+
+                    <img class='ratings' src="resources/images/ratings.png" alt="" />
+
+
                 <div class="result-div">
                     <ul class="result-list">
                     </ul>
                 </div>
-                <div class="ratings">
-                    <div>
-                        <a href="http://metakgp.github.io/"><img src="resources/images/ratings.png" width="50%"></a>
-                    </div>
-                    <h3>
-                        To contribute a question paper, email it to
-                        <a href="mailto:metakgp-qp@googlegroups.com">metakgp-qp@googlegroups.com</a>
-                    </h3>
-                </div>
             </div>
-            <div class="row local-storage-div">
-                <h3>Your Recent Searches</h3>
-                <ul class="local-storage-list">
-                </ul>
+
+            <div class="local-storage-div sidebar">
+
+                <h1>MFQP</h1>
+                <p>Made with &lt;/&gt; and &hearts;</p>
+                <p>
+                    To contribute a question paper, email it to
+                    <a href="mailto:metakgp-qp@googlegroups.com">metakgp-qp@googlegroups.com</a>
+                </p>
+
+                    <h2>Your Recent Searches</h2>
+                    <ul class="local-storage-list">
+                    </ul>
             </div>
         </div>
     </body>
