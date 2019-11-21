@@ -17,11 +17,9 @@ var addItem = function(item) {
     localStorage.setItem('searched', ',' + item + ',');
   }
 
-  $("ul.local-storage-list div > a:contains('" + item + "')").each(function() {
+  $("ul.local-storage-list > li > a:contains('" + item + "')").each(function() {
     if ($(this).text() === item) {
-      $(this)
-        .parent()
-        .remove();
+      $(this).parent().remove();
     }
   });
   $('ul.local-storage-list').prepend(
@@ -45,21 +43,6 @@ $(function() {
     });
     $('ul.local-storage-list').append('<br/><br/>');
   }
-
-  $(document).click(function(e) {
-    if (DEBUG) console.log('Clicked somewhere in the doc');
-    // figure out if this is a result click
-    if (e.target.classList.contains('result-link')) {
-      // this is a result link
-      var query_value = $('#query')
-        .val()
-        .trim();
-      addItem(query_value);
-      $('div.local-storage-div').show();
-      if (DEBUG)
-        console.log('Local storage: ' + localStorage.getItem('searched'));
-    }
-  });
 
   var worker = new Worker('resources/scripts/worker2.js');
   $.getJSON('data/data.json')
@@ -111,16 +94,20 @@ $(function() {
         '</h1></a><li>';
     }
     $('.result-list').html(html);
-    $('.result-link').click(function() {
-      ga(
-        'send',
-        'event',
-        'Result',
-        'click',
-        $('#query')
-          .val()
-          .trim()
-      );
+    /**
+     * Bind a handler to a click on the result link to save the search in local storage
+     *
+     * Sample result HTML:
+     * <a class="result-link">
+     *    <div> ... </div>
+     *    <h1> ... </h1>
+     * </a>
+     */
+    $("a.result-link").click(function(e) {
+      var query = $('#query').val().trim();
+      addItem(query);
+      $('div.local-storage-div').show();
+      ga('send', 'event', 'Result', 'click', query);
     });
   }
 
