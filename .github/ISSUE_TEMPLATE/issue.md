@@ -1,12 +1,3 @@
----
-name: issue
-about: standard issue template for this repository
-title: ''
-labels: ''
-assignees: ''
-
----
-
 # Summary:
 
 ## Expected Behavior:
