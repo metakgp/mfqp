@@ -1,5 +1,5 @@
 # Related Issue
-- the issue goes here
+- fixes #[ISSUE-NUMBER]
 
 # Summary
 
@@ -11,7 +11,7 @@
 
 Original                |         Updated
 :------------------------:|:------------------------:
-** original screenshot ** | ** updated screenshot **|
+** original screenshot ** | ** updated screenshot ** |
 
 # Bugs introduced by this patch
 - bug 1
